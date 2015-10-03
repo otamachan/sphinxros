@@ -1,10 +1,21 @@
 sphinx.ros
 ==========
 
+About
+-----
+
 All packages and messages documentation using sphinxcontrib.ros
 
-indigo: http://otamachan2.github.io/sphinxros/indigo
-jade: http://otamachan2.github.io/sphinxros/jade
+indigo:
+  http://otamachan.github.io/sphinxros/indigo
+jade:
+  http://otamachan.github.io/sphinxros/jade
+
+.. image:: https://travis-ci.org/otamachan/sphinxros.svg?branch=jade
+    :target: https://travis-ci.org/otamachan/sphinxros
+
+sphinx.ext.intersphinx
+-----------------------
 
 You can refer to them in your Sphinx documenation by adding following lines in your ``conf.py``.
 
@@ -12,4 +23,4 @@ You can refer to them in your Sphinx documenation by adding following lines in y
 
    extensions += ['sphinx.ext.intersphinx']
    intersphinx_mapping = {'ros':
-       ('http://otamachan2.github.io/sphinxros/indigo/', None)}
+       ('http://otamachan.github.io/sphinxros/indigo/', None)}
