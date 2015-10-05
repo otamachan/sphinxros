@@ -19,7 +19,7 @@ before_install:
   - git clone --depth=1 --branch=master "https://${REPO}" master
   - docker run -v `pwd`:/workspace -e "ROSDISTRO=${ROSDISTRO}" ros:${ROSDISTRO}-ros-core /workspace/master/scripts/get_debs.sh /workspace/${DEBS_PATH}
 install:
-  - pip install -r requirements.txt
+  - pip install -r ./master/requirements.txt
   - pip install git+https://github.com/otamachan/sphinxcontrib-ros.git
   - for deb in $(find ${DEBS_PATH} -iname '*.deb' | sort); do echo $deb; sudo dpkg --force-all -i $deb > /dev/null 2&>1; done; true
   # clone
