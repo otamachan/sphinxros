@@ -26,7 +26,7 @@ install:
   - git clone --depth=1 --branch=gh-pages "https://${REPO}" _build
   - ln -s packages ./master/doc/packages
   # generate docs
-  - ./master/scripts/generator.py $ROSDISTRO ./master/doc/packages
+  - ./master/scripts/generator.py $ROSDISTRO packages
   - rm _build/.git _build/$ROSDISTRO -rf
 script:
   - echo Building $(ls -1 ./master/doc/packages/*.rst | wc -l) packages
