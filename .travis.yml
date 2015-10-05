@@ -24,7 +24,7 @@ install:
   - for deb in $(find ${DEBS_PATH} -iname '*.deb' | sort); do echo $deb; sudo dpkg --force-all -i $deb > /dev/null 2&>1; done; true
   # clone
   - git clone --depth=1 --branch=gh-pages "https://${REPO}" _build
-  - ln -s packages ./master/doc/packages
+  - ln -s ../../packages ./master/doc/packages
   # generate docs
   - ./master/scripts/generator.py $ROSDISTRO packages
   - rm _build/.git _build/$ROSDISTRO -rf
