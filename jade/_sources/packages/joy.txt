@@ -1,0 +1,10 @@
+joy
++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: joy

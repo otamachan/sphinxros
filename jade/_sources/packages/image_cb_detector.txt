@@ -1,0 +1,33 @@
+image_cb_detector
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: image_cb_detector
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`image_cb_detector/ObjectInImage`
+* :ros:msg:`image_cb_detector/ImagePoint`
+
+.. ros:automessage:: image_cb_detector/ObjectInImage
+   :raw: tail
+
+.. ros:automessage:: image_cb_detector/ImagePoint
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`image_cb_detector/Config`
+
+.. ros:autoaction:: image_cb_detector/Config
+   :raw: tail

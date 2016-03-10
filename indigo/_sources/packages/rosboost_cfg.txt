@@ -1,0 +1,10 @@
+rosboost_cfg
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosboost_cfg

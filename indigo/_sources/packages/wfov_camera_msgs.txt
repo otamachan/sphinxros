@@ -1,0 +1,29 @@
+wfov_camera_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wfov_camera_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`wfov_camera_msgs/WFOVImage`
+* :ros:msg:`wfov_camera_msgs/WFOVCompressedImage`
+* :ros:msg:`wfov_camera_msgs/WFOVTrigger`
+
+.. ros:automessage:: wfov_camera_msgs/WFOVImage
+   :raw: tail
+
+.. ros:automessage:: wfov_camera_msgs/WFOVCompressedImage
+   :raw: tail
+
+.. ros:automessage:: wfov_camera_msgs/WFOVTrigger
+   :raw: tail

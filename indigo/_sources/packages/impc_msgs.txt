@@ -1,0 +1,25 @@
+impc_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: impc_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`impc_msgs/Bumper`
+* :ros:msg:`impc_msgs/BumperState`
+
+.. ros:automessage:: impc_msgs/Bumper
+   :raw: tail
+
+.. ros:automessage:: impc_msgs/BumperState
+   :raw: tail

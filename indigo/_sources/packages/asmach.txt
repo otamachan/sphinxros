@@ -1,0 +1,10 @@
+asmach
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: asmach

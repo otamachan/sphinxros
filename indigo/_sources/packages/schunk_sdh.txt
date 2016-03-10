@@ -1,0 +1,25 @@
+schunk_sdh
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_sdh
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`schunk_sdh/TactileMatrix`
+* :ros:msg:`schunk_sdh/TactileSensor`
+
+.. ros:automessage:: schunk_sdh/TactileMatrix
+   :raw: tail
+
+.. ros:automessage:: schunk_sdh/TactileSensor
+   :raw: tail

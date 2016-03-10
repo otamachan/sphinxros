@@ -1,0 +1,10 @@
+eus_assimp
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: eus_assimp

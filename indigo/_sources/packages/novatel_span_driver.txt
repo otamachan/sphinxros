@@ -1,0 +1,10 @@
+novatel_span_driver
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: novatel_span_driver

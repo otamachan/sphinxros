@@ -1,0 +1,10 @@
+carl_bot
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_bot

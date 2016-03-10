@@ -1,0 +1,10 @@
+battery_monitor_rmp
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: battery_monitor_rmp

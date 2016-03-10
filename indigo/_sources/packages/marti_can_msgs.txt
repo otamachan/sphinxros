@@ -1,0 +1,21 @@
+marti_can_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_can_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_can_msgs/CanFrame`
+
+.. ros:automessage:: marti_can_msgs/CanFrame
+   :raw: tail

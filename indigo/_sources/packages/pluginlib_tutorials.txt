@@ -1,0 +1,10 @@
+pluginlib_tutorials
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pluginlib_tutorials

@@ -1,0 +1,10 @@
+mongo_cxx_driver
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mongo_cxx_driver

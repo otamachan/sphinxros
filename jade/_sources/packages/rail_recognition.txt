@@ -1,0 +1,10 @@
+rail_recognition
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_recognition

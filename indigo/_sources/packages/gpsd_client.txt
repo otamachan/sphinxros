@@ -1,0 +1,10 @@
+gpsd_client
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: gpsd_client

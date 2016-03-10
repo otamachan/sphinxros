@@ -1,0 +1,10 @@
+sr_ethercat_hand_config
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_ethercat_hand_config

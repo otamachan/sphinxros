@@ -1,0 +1,37 @@
+ethercat_trigger_controllers
+++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ethercat_trigger_controllers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ethercat_trigger_controllers/MultiWaveformTransition`
+* :ros:msg:`ethercat_trigger_controllers/MultiWaveform`
+
+.. ros:automessage:: ethercat_trigger_controllers/MultiWaveformTransition
+   :raw: tail
+
+.. ros:automessage:: ethercat_trigger_controllers/MultiWaveform
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`ethercat_trigger_controllers/SetMultiWaveform`
+* :ros:srv:`ethercat_trigger_controllers/SetWaveform`
+
+.. ros:autoservice:: ethercat_trigger_controllers/SetMultiWaveform
+   :raw: tail
+
+.. ros:autoservice:: ethercat_trigger_controllers/SetWaveform
+   :raw: tail

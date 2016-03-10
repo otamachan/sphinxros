@@ -1,0 +1,41 @@
+mav_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mav_msgs/RateThrust`
+* :ros:msg:`mav_msgs/RollPitchYawrateThrust`
+* :ros:msg:`mav_msgs/Actuators`
+* :ros:msg:`mav_msgs/Status`
+* :ros:msg:`mav_msgs/TorqueThrust`
+* :ros:msg:`mav_msgs/AttitudeThrust`
+
+.. ros:automessage:: mav_msgs/RateThrust
+   :raw: tail
+
+.. ros:automessage:: mav_msgs/RollPitchYawrateThrust
+   :raw: tail
+
+.. ros:automessage:: mav_msgs/Actuators
+   :raw: tail
+
+.. ros:automessage:: mav_msgs/Status
+   :raw: tail
+
+.. ros:automessage:: mav_msgs/TorqueThrust
+   :raw: tail
+
+.. ros:automessage:: mav_msgs/AttitudeThrust
+   :raw: tail

@@ -1,0 +1,10 @@
+pepper_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pepper_description

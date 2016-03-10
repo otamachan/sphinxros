@@ -1,0 +1,10 @@
+segbot_logical_translator
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: segbot_logical_translator

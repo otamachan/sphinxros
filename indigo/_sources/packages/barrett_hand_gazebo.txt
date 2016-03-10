@@ -1,0 +1,10 @@
+barrett_hand_gazebo
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: barrett_hand_gazebo

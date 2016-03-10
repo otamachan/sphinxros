@@ -1,0 +1,10 @@
+rosout
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosout

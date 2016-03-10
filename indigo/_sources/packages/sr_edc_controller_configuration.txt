@@ -1,0 +1,10 @@
+sr_edc_controller_configuration
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_edc_controller_configuration

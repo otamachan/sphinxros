@@ -1,0 +1,53 @@
+multisense_ros
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multisense_ros
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`multisense_ros/Histogram`
+* :ros:msg:`multisense_ros/RawImuData`
+* :ros:msg:`multisense_ros/DeviceInfo`
+* :ros:msg:`multisense_ros/RawCamConfig`
+* :ros:msg:`multisense_ros/StampedPps`
+* :ros:msg:`multisense_ros/RawLidarCal`
+* :ros:msg:`multisense_ros/RawLidarData`
+* :ros:msg:`multisense_ros/RawCamCal`
+* :ros:msg:`multisense_ros/RawCamData`
+
+.. ros:automessage:: multisense_ros/Histogram
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawImuData
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/DeviceInfo
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawCamConfig
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/StampedPps
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawLidarCal
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawLidarData
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawCamCal
+   :raw: tail
+
+.. ros:automessage:: multisense_ros/RawCamData
+   :raw: tail

@@ -1,0 +1,10 @@
+romeo_moveit_config
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: romeo_moveit_config

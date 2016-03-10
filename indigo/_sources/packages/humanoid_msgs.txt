@@ -1,0 +1,10 @@
+humanoid_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: humanoid_msgs

@@ -1,0 +1,41 @@
+grasping_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: grasping_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`grasping_msgs/GraspableObject`
+* :ros:msg:`grasping_msgs/ObjectProperty`
+* :ros:msg:`grasping_msgs/Object`
+
+.. ros:automessage:: grasping_msgs/GraspableObject
+   :raw: tail
+
+.. ros:automessage:: grasping_msgs/ObjectProperty
+   :raw: tail
+
+.. ros:automessage:: grasping_msgs/Object
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`grasping_msgs/FindGraspableObjects`
+* :ros:action:`grasping_msgs/GraspPlanning`
+
+.. ros:autoaction:: grasping_msgs/FindGraspableObjects
+   :raw: tail
+
+.. ros:autoaction:: grasping_msgs/GraspPlanning
+   :raw: tail

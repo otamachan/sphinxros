@@ -1,0 +1,10 @@
+people
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: people

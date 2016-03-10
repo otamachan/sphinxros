@@ -1,0 +1,21 @@
+sherlock_sim_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sherlock_sim_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`sherlock_sim_msgs/TestService`
+
+.. ros:autoservice:: sherlock_sim_msgs/TestService
+   :raw: tail

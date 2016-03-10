@@ -1,0 +1,10 @@
+r2_moveit_generated
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: r2_moveit_generated

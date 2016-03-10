@@ -1,0 +1,10 @@
+eband_local_planner
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: eband_local_planner

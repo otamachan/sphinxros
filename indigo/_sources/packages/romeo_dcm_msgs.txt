@@ -1,0 +1,21 @@
+romeo_dcm_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: romeo_dcm_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`romeo_dcm_msgs/BoolService`
+
+.. ros:autoservice:: romeo_dcm_msgs/BoolService
+   :raw: tail

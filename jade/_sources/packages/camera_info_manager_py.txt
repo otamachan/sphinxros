@@ -1,0 +1,10 @@
+camera_info_manager_py
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: camera_info_manager_py

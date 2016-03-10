@@ -1,0 +1,25 @@
+hector_mapping
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_mapping
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`hector_mapping/HectorIterData`
+* :ros:msg:`hector_mapping/HectorDebugInfo`
+
+.. ros:automessage:: hector_mapping/HectorIterData
+   :raw: tail
+
+.. ros:automessage:: hector_mapping/HectorDebugInfo
+   :raw: tail

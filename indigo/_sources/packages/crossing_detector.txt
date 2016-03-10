@@ -1,0 +1,25 @@
+crossing_detector
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: crossing_detector
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`crossing_detector/DetectCrossing`
+* :ros:srv:`crossing_detector/LaserDetectCrossing`
+
+.. ros:autoservice:: crossing_detector/DetectCrossing
+   :raw: tail
+
+.. ros:autoservice:: crossing_detector/LaserDetectCrossing
+   :raw: tail

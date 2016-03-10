@@ -1,0 +1,10 @@
+swri_roscpp
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: swri_roscpp

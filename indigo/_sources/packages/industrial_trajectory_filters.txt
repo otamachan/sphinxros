@@ -1,0 +1,10 @@
+industrial_trajectory_filters
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: industrial_trajectory_filters

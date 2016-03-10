@@ -1,0 +1,10 @@
+desktop_full
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: desktop_full

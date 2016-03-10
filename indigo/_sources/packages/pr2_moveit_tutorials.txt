@@ -1,0 +1,10 @@
+pr2_moveit_tutorials
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_moveit_tutorials

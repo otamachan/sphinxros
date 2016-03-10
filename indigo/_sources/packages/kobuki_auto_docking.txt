@@ -1,0 +1,10 @@
+kobuki_auto_docking
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kobuki_auto_docking

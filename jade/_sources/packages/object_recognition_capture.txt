@@ -1,0 +1,10 @@
+object_recognition_capture
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: object_recognition_capture

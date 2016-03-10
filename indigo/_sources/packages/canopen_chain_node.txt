@@ -1,0 +1,10 @@
+canopen_chain_node
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: canopen_chain_node

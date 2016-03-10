@@ -1,0 +1,10 @@
+kingfisher_description
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kingfisher_description

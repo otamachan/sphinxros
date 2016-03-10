@@ -1,0 +1,10 @@
+hrpsys
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hrpsys

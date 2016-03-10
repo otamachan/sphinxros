@@ -1,0 +1,37 @@
+planning_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: planning_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`planning_msgs/Binding`
+* :ros:msg:`planning_msgs/Plan`
+* :ros:msg:`planning_msgs/Step`
+
+.. ros:automessage:: planning_msgs/Binding
+   :raw: tail
+
+.. ros:automessage:: planning_msgs/Plan
+   :raw: tail
+
+.. ros:automessage:: planning_msgs/Step
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`planning_msgs/Planning`
+
+.. ros:autoservice:: planning_msgs/Planning
+   :raw: tail

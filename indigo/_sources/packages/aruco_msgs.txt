@@ -1,0 +1,25 @@
+aruco_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: aruco_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`aruco_msgs/MarkerArray`
+* :ros:msg:`aruco_msgs/Marker`
+
+.. ros:automessage:: aruco_msgs/MarkerArray
+   :raw: tail
+
+.. ros:automessage:: aruco_msgs/Marker
+   :raw: tail

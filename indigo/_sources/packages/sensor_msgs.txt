@@ -1,0 +1,129 @@
+sensor_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sensor_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`sensor_msgs/LaserScan`
+* :ros:msg:`sensor_msgs/TimeReference`
+* :ros:msg:`sensor_msgs/JoyFeedbackArray`
+* :ros:msg:`sensor_msgs/Imu`
+* :ros:msg:`sensor_msgs/RegionOfInterest`
+* :ros:msg:`sensor_msgs/MagneticField`
+* :ros:msg:`sensor_msgs/RelativeHumidity`
+* :ros:msg:`sensor_msgs/NavSatStatus`
+* :ros:msg:`sensor_msgs/Image`
+* :ros:msg:`sensor_msgs/LaserEcho`
+* :ros:msg:`sensor_msgs/ChannelFloat32`
+* :ros:msg:`sensor_msgs/Joy`
+* :ros:msg:`sensor_msgs/CompressedImage`
+* :ros:msg:`sensor_msgs/CameraInfo`
+* :ros:msg:`sensor_msgs/JoyFeedback`
+* :ros:msg:`sensor_msgs/NavSatFix`
+* :ros:msg:`sensor_msgs/PointField`
+* :ros:msg:`sensor_msgs/MultiEchoLaserScan`
+* :ros:msg:`sensor_msgs/PointCloud2`
+* :ros:msg:`sensor_msgs/JointState`
+* :ros:msg:`sensor_msgs/Illuminance`
+* :ros:msg:`sensor_msgs/PointCloud`
+* :ros:msg:`sensor_msgs/Temperature`
+* :ros:msg:`sensor_msgs/FluidPressure`
+* :ros:msg:`sensor_msgs/MultiDOFJointState`
+* :ros:msg:`sensor_msgs/Range`
+
+.. ros:automessage:: sensor_msgs/LaserScan
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/TimeReference
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/JoyFeedbackArray
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Imu
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/RegionOfInterest
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/MagneticField
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/RelativeHumidity
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/NavSatStatus
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Image
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/LaserEcho
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/ChannelFloat32
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Joy
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/CompressedImage
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/CameraInfo
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/JoyFeedback
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/NavSatFix
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/PointField
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/MultiEchoLaserScan
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/PointCloud2
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/JointState
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Illuminance
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/PointCloud
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Temperature
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/FluidPressure
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/MultiDOFJointState
+   :raw: tail
+
+.. ros:automessage:: sensor_msgs/Range
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`sensor_msgs/SetCameraInfo`
+
+.. ros:autoservice:: sensor_msgs/SetCameraInfo
+   :raw: tail

@@ -1,0 +1,25 @@
+ar_track_alvar_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ar_track_alvar_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ar_track_alvar_msgs/AlvarMarkers`
+* :ros:msg:`ar_track_alvar_msgs/AlvarMarker`
+
+.. ros:automessage:: ar_track_alvar_msgs/AlvarMarkers
+   :raw: tail
+
+.. ros:automessage:: ar_track_alvar_msgs/AlvarMarker
+   :raw: tail

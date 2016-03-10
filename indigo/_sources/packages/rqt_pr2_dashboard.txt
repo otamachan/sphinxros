@@ -1,0 +1,10 @@
+rqt_pr2_dashboard
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_pr2_dashboard

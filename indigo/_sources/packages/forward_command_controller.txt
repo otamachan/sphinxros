@@ -1,0 +1,10 @@
+forward_command_controller
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: forward_command_controller

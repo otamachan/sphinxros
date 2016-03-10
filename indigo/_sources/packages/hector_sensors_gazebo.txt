@@ -1,0 +1,10 @@
+hector_sensors_gazebo
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_sensors_gazebo

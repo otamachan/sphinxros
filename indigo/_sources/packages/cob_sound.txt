@@ -1,0 +1,25 @@
+cob_sound
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_sound
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`cob_sound/Say`
+* :ros:action:`cob_sound/Play`
+
+.. ros:autoaction:: cob_sound/Say
+   :raw: tail
+
+.. ros:autoaction:: cob_sound/Play
+   :raw: tail

@@ -1,0 +1,93 @@
+capabilities
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: capabilities
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`capabilities/CapabilitySpec`
+* :ros:msg:`capabilities/Remapping`
+* :ros:msg:`capabilities/Capability`
+* :ros:msg:`capabilities/CapabilityEvent`
+* :ros:msg:`capabilities/RunningCapability`
+
+.. ros:automessage:: capabilities/CapabilitySpec
+   :raw: tail
+
+.. ros:automessage:: capabilities/Remapping
+   :raw: tail
+
+.. ros:automessage:: capabilities/Capability
+   :raw: tail
+
+.. ros:automessage:: capabilities/CapabilityEvent
+   :raw: tail
+
+.. ros:automessage:: capabilities/RunningCapability
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`capabilities/GetRemappings`
+* :ros:srv:`capabilities/StartCapability`
+* :ros:srv:`capabilities/GetSemanticInterfaces`
+* :ros:srv:`capabilities/GetCapabilitySpec`
+* :ros:srv:`capabilities/EstablishBond`
+* :ros:srv:`capabilities/GetInterfaces`
+* :ros:srv:`capabilities/GetRunningCapabilities`
+* :ros:srv:`capabilities/UseCapability`
+* :ros:srv:`capabilities/FreeCapability`
+* :ros:srv:`capabilities/GetCapabilitySpecs`
+* :ros:srv:`capabilities/StopCapability`
+* :ros:srv:`capabilities/GetNodeletManagerName`
+* :ros:srv:`capabilities/GetProviders`
+
+.. ros:autoservice:: capabilities/GetRemappings
+   :raw: tail
+
+.. ros:autoservice:: capabilities/StartCapability
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetSemanticInterfaces
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetCapabilitySpec
+   :raw: tail
+
+.. ros:autoservice:: capabilities/EstablishBond
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetInterfaces
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetRunningCapabilities
+   :raw: tail
+
+.. ros:autoservice:: capabilities/UseCapability
+   :raw: tail
+
+.. ros:autoservice:: capabilities/FreeCapability
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetCapabilitySpecs
+   :raw: tail
+
+.. ros:autoservice:: capabilities/StopCapability
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetNodeletManagerName
+   :raw: tail
+
+.. ros:autoservice:: capabilities/GetProviders
+   :raw: tail

@@ -1,0 +1,29 @@
+bwi_planning_common
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_planning_common
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bwi_planning_common/PlannerAtom`
+
+.. ros:automessage:: bwi_planning_common/PlannerAtom
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`bwi_planning_common/PlannerInterface`
+
+.. ros:autoservice:: bwi_planning_common/PlannerInterface
+   :raw: tail

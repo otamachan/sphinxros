@@ -1,0 +1,10 @@
+cpp_common
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cpp_common

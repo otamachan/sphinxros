@@ -1,0 +1,10 @@
+multisense_lib
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multisense_lib

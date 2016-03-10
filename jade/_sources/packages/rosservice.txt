@@ -1,0 +1,10 @@
+rosservice
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosservice

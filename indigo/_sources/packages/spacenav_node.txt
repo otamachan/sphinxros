@@ -1,0 +1,10 @@
+spacenav_node
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: spacenav_node

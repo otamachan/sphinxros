@@ -1,0 +1,10 @@
+concert_admin_app
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: concert_admin_app

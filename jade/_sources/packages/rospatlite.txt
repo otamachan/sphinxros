@@ -1,0 +1,10 @@
+rospatlite
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospatlite

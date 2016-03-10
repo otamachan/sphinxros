@@ -1,0 +1,10 @@
+moveit_pr2
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_pr2

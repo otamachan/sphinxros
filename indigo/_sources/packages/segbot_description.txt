@@ -1,0 +1,10 @@
+segbot_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: segbot_description

@@ -1,0 +1,97 @@
+kobuki_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kobuki_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`kobuki_msgs/RobotStateEvent`
+* :ros:msg:`kobuki_msgs/ScanAngle`
+* :ros:msg:`kobuki_msgs/Led`
+* :ros:msg:`kobuki_msgs/KeyboardInput`
+* :ros:msg:`kobuki_msgs/MotorPower`
+* :ros:msg:`kobuki_msgs/BumperEvent`
+* :ros:msg:`kobuki_msgs/WheelDropEvent`
+* :ros:msg:`kobuki_msgs/VersionInfo`
+* :ros:msg:`kobuki_msgs/DigitalOutput`
+* :ros:msg:`kobuki_msgs/ControllerInfo`
+* :ros:msg:`kobuki_msgs/PowerSystemEvent`
+* :ros:msg:`kobuki_msgs/Sound`
+* :ros:msg:`kobuki_msgs/ExternalPower`
+* :ros:msg:`kobuki_msgs/CliffEvent`
+* :ros:msg:`kobuki_msgs/DockInfraRed`
+* :ros:msg:`kobuki_msgs/ButtonEvent`
+* :ros:msg:`kobuki_msgs/SensorState`
+* :ros:msg:`kobuki_msgs/DigitalInputEvent`
+
+.. ros:automessage:: kobuki_msgs/RobotStateEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/ScanAngle
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/Led
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/KeyboardInput
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/MotorPower
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/BumperEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/WheelDropEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/VersionInfo
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/DigitalOutput
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/ControllerInfo
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/PowerSystemEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/Sound
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/ExternalPower
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/CliffEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/DockInfraRed
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/ButtonEvent
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/SensorState
+   :raw: tail
+
+.. ros:automessage:: kobuki_msgs/DigitalInputEvent
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`kobuki_msgs/AutoDocking`
+
+.. ros:autoaction:: kobuki_msgs/AutoDocking
+   :raw: tail

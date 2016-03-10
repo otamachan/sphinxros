@@ -1,0 +1,41 @@
+frontier_exploration
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: frontier_exploration
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`frontier_exploration/Frontier`
+
+.. ros:automessage:: frontier_exploration/Frontier
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`frontier_exploration/UpdateBoundaryPolygon`
+* :ros:srv:`frontier_exploration/GetNextFrontier`
+
+.. ros:autoservice:: frontier_exploration/UpdateBoundaryPolygon
+   :raw: tail
+
+.. ros:autoservice:: frontier_exploration/GetNextFrontier
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`frontier_exploration/ExploreTask`
+
+.. ros:autoaction:: frontier_exploration/ExploreTask
+   :raw: tail

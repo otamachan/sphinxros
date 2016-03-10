@@ -1,0 +1,25 @@
+graph_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: graph_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`graph_msgs/GeometryGraph`
+* :ros:msg:`graph_msgs/Edges`
+
+.. ros:automessage:: graph_msgs/GeometryGraph
+   :raw: tail
+
+.. ros:automessage:: graph_msgs/Edges
+   :raw: tail

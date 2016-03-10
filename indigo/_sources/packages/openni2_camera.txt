@@ -1,0 +1,21 @@
+openni2_camera
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openni2_camera
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`openni2_camera/GetSerial`
+
+.. ros:autoservice:: openni2_camera/GetSerial
+   :raw: tail

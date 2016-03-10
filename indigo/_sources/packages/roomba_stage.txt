@@ -1,0 +1,10 @@
+roomba_stage
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roomba_stage

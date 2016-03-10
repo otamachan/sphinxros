@@ -1,0 +1,10 @@
+freenect_camera
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: freenect_camera

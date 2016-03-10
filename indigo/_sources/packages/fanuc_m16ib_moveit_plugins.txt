@@ -1,0 +1,10 @@
+fanuc_m16ib_moveit_plugins
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_m16ib_moveit_plugins

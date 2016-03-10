@@ -1,0 +1,10 @@
+nextage_ros_bridge
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nextage_ros_bridge

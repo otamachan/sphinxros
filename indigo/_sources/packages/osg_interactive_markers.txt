@@ -1,0 +1,10 @@
+osg_interactive_markers
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: osg_interactive_markers

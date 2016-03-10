@@ -1,0 +1,10 @@
+cob_trajectory_controller
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_trajectory_controller

@@ -1,0 +1,10 @@
+yocs_velocity_smoother
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_velocity_smoother

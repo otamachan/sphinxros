@@ -1,0 +1,105 @@
+pr2_gripper_sensor_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_gripper_sensor_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperGrabCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperSlipServoData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperSensorRawData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperGrabData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperSlipServoCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperFindContactData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperFindContactCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperEventDetectorData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperForceServoData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperReleaseData`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperSensorRTState`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperReleaseCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperForceServoCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperEventDetectorCommand`
+* :ros:msg:`pr2_gripper_sensor_msgs/PR2GripperPressureData`
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperGrabCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperSlipServoData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperSensorRawData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperGrabData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperSlipServoCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperFindContactData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperFindContactCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperEventDetectorData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperForceServoData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperReleaseData
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperSensorRTState
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperReleaseCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperForceServoCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperEventDetectorCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_gripper_sensor_msgs/PR2GripperPressureData
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperRelease`
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperFindContact`
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperGrab`
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperEventDetector`
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperSlipServo`
+* :ros:action:`pr2_gripper_sensor_msgs/PR2GripperForceServo`
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperRelease
+   :raw: tail
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperFindContact
+   :raw: tail
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperGrab
+   :raw: tail
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperEventDetector
+   :raw: tail
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperSlipServo
+   :raw: tail
+
+.. ros:autoaction:: pr2_gripper_sensor_msgs/PR2GripperForceServo
+   :raw: tail

@@ -1,0 +1,10 @@
+romeo_description
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: romeo_description

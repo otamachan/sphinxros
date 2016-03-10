@@ -1,0 +1,10 @@
+collada_urdf_jsk_patch
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: collada_urdf_jsk_patch

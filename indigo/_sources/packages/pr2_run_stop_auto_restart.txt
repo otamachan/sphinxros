@@ -1,0 +1,10 @@
+pr2_run_stop_auto_restart
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_run_stop_auto_restart

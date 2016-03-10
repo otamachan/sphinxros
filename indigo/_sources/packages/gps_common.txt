@@ -1,0 +1,25 @@
+gps_common
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: gps_common
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`gps_common/GPSStatus`
+* :ros:msg:`gps_common/GPSFix`
+
+.. ros:automessage:: gps_common/GPSStatus
+   :raw: tail
+
+.. ros:automessage:: gps_common/GPSFix
+   :raw: tail

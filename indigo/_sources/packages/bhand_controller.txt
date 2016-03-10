@@ -1,0 +1,41 @@
+bhand_controller
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bhand_controller
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bhand_controller/State`
+* :ros:msg:`bhand_controller/Service`
+* :ros:msg:`bhand_controller/TactileArray`
+
+.. ros:automessage:: bhand_controller/State
+   :raw: tail
+
+.. ros:automessage:: bhand_controller/Service
+   :raw: tail
+
+.. ros:automessage:: bhand_controller/TactileArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`bhand_controller/SetControlMode`
+* :ros:srv:`bhand_controller/Actions`
+
+.. ros:autoservice:: bhand_controller/SetControlMode
+   :raw: tail
+
+.. ros:autoservice:: bhand_controller/Actions
+   :raw: tail

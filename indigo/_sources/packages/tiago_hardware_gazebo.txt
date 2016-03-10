@@ -1,0 +1,10 @@
+tiago_hardware_gazebo
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: tiago_hardware_gazebo

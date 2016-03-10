@@ -1,0 +1,33 @@
+wireless_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wireless_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`wireless_msgs/Quality`
+* :ros:msg:`wireless_msgs/Network`
+* :ros:msg:`wireless_msgs/Connection`
+* :ros:msg:`wireless_msgs/Scan`
+
+.. ros:automessage:: wireless_msgs/Quality
+   :raw: tail
+
+.. ros:automessage:: wireless_msgs/Network
+   :raw: tail
+
+.. ros:automessage:: wireless_msgs/Connection
+   :raw: tail
+
+.. ros:automessage:: wireless_msgs/Scan
+   :raw: tail

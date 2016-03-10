@@ -1,0 +1,10 @@
+nao_path_follower
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nao_path_follower

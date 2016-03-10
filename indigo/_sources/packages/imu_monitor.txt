@@ -1,0 +1,10 @@
+imu_monitor
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: imu_monitor

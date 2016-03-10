@@ -1,0 +1,10 @@
+cob_twist_controller
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_twist_controller

@@ -1,0 +1,10 @@
+pepper_moveit_config
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pepper_moveit_config

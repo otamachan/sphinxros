@@ -1,0 +1,49 @@
+turtlesim
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlesim
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`turtlesim/Color`
+* :ros:msg:`turtlesim/Pose`
+
+.. ros:automessage:: turtlesim/Color
+   :raw: tail
+
+.. ros:automessage:: turtlesim/Pose
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`turtlesim/TeleportAbsolute`
+* :ros:srv:`turtlesim/TeleportRelative`
+* :ros:srv:`turtlesim/Kill`
+* :ros:srv:`turtlesim/SetPen`
+* :ros:srv:`turtlesim/Spawn`
+
+.. ros:autoservice:: turtlesim/TeleportAbsolute
+   :raw: tail
+
+.. ros:autoservice:: turtlesim/TeleportRelative
+   :raw: tail
+
+.. ros:autoservice:: turtlesim/Kill
+   :raw: tail
+
+.. ros:autoservice:: turtlesim/SetPen
+   :raw: tail
+
+.. ros:autoservice:: turtlesim/Spawn
+   :raw: tail

@@ -1,0 +1,41 @@
+schunk_pg70
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_pg70
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`schunk_pg70/stop`
+* :ros:srv:`schunk_pg70/get_error`
+* :ros:srv:`schunk_pg70/set_position`
+* :ros:srv:`schunk_pg70/get_position`
+* :ros:srv:`schunk_pg70/reference`
+* :ros:srv:`schunk_pg70/acknowledge_error`
+
+.. ros:autoservice:: schunk_pg70/stop
+   :raw: tail
+
+.. ros:autoservice:: schunk_pg70/get_error
+   :raw: tail
+
+.. ros:autoservice:: schunk_pg70/set_position
+   :raw: tail
+
+.. ros:autoservice:: schunk_pg70/get_position
+   :raw: tail
+
+.. ros:autoservice:: schunk_pg70/reference
+   :raw: tail
+
+.. ros:autoservice:: schunk_pg70/acknowledge_error
+   :raw: tail

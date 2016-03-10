@@ -1,0 +1,10 @@
+bride_plugin_source
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bride_plugin_source

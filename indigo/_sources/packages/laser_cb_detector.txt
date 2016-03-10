@@ -1,0 +1,21 @@
+laser_cb_detector
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: laser_cb_detector
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`laser_cb_detector/Config`
+
+.. ros:autoaction:: laser_cb_detector/Config
+   :raw: tail

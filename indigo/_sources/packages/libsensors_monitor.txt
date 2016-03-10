@@ -1,0 +1,10 @@
+libsensors_monitor
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: libsensors_monitor

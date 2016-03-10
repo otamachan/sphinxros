@@ -1,0 +1,21 @@
+um7
++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: um7
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`um7/Reset`
+
+.. ros:autoservice:: um7/Reset
+   :raw: tail

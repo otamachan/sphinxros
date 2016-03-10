@@ -1,0 +1,57 @@
+jsk_network_tools
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_network_tools
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_network_tools/AllTypeTest`
+* :ros:msg:`jsk_network_tools/OpenNISample`
+* :ros:msg:`jsk_network_tools/HeartbeatResponse`
+* :ros:msg:`jsk_network_tools/CompressedAngleVectorPR2`
+* :ros:msg:`jsk_network_tools/Heartbeat`
+* :ros:msg:`jsk_network_tools/OCS2FC`
+* :ros:msg:`jsk_network_tools/FC2OCSLargeData`
+* :ros:msg:`jsk_network_tools/FC2OCS`
+
+.. ros:automessage:: jsk_network_tools/AllTypeTest
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/OpenNISample
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/HeartbeatResponse
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/CompressedAngleVectorPR2
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/Heartbeat
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/OCS2FC
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/FC2OCSLargeData
+   :raw: tail
+
+.. ros:automessage:: jsk_network_tools/FC2OCS
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`jsk_network_tools/SetSendRate`
+
+.. ros:autoservice:: jsk_network_tools/SetSendRate
+   :raw: tail

@@ -1,0 +1,10 @@
+yocs_navigator
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_navigator

@@ -1,0 +1,57 @@
+nao_interaction_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nao_interaction_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nao_interaction_msgs/AudioSourceLocalization`
+* :ros:msg:`nao_interaction_msgs/LandmarkDetected`
+* :ros:msg:`nao_interaction_msgs/MovementDetected`
+* :ros:msg:`nao_interaction_msgs/FaceDetected`
+
+.. ros:automessage:: nao_interaction_msgs/AudioSourceLocalization
+   :raw: tail
+
+.. ros:automessage:: nao_interaction_msgs/LandmarkDetected
+   :raw: tail
+
+.. ros:automessage:: nao_interaction_msgs/MovementDetected
+   :raw: tail
+
+.. ros:automessage:: nao_interaction_msgs/FaceDetected
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`nao_interaction_msgs/VisionMotionSensitivity`
+* :ros:srv:`nao_interaction_msgs/AudioPlayback`
+* :ros:srv:`nao_interaction_msgs/AudioMasterVolume`
+* :ros:srv:`nao_interaction_msgs/LearnFace`
+* :ros:srv:`nao_interaction_msgs/AudioRecorder`
+
+.. ros:autoservice:: nao_interaction_msgs/VisionMotionSensitivity
+   :raw: tail
+
+.. ros:autoservice:: nao_interaction_msgs/AudioPlayback
+   :raw: tail
+
+.. ros:autoservice:: nao_interaction_msgs/AudioMasterVolume
+   :raw: tail
+
+.. ros:autoservice:: nao_interaction_msgs/LearnFace
+   :raw: tail
+
+.. ros:autoservice:: nao_interaction_msgs/AudioRecorder
+   :raw: tail

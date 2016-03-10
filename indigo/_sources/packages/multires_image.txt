@@ -1,0 +1,10 @@
+multires_image
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multires_image

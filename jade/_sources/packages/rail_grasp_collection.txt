@@ -1,0 +1,10 @@
+rail_grasp_collection
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_grasp_collection

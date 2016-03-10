@@ -1,0 +1,10 @@
+rosparam_shortcuts
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosparam_shortcuts

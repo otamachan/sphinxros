@@ -1,0 +1,10 @@
+pepper_robot
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pepper_robot

@@ -1,0 +1,10 @@
+flatbuffers
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: flatbuffers

@@ -1,0 +1,10 @@
+arbotix_firmware
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: arbotix_firmware

@@ -1,0 +1,29 @@
+grizzly_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: grizzly_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`grizzly_msgs/Ambience`
+* :ros:msg:`grizzly_msgs/RawStatus`
+* :ros:msg:`grizzly_msgs/Drive`
+
+.. ros:automessage:: grizzly_msgs/Ambience
+   :raw: tail
+
+.. ros:automessage:: grizzly_msgs/RawStatus
+   :raw: tail
+
+.. ros:automessage:: grizzly_msgs/Drive
+   :raw: tail

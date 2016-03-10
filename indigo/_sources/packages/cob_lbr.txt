@@ -1,0 +1,10 @@
+cob_lbr
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_lbr

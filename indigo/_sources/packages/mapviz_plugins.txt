@@ -1,0 +1,10 @@
+mapviz_plugins
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mapviz_plugins

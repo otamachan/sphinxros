@@ -1,0 +1,10 @@
+cob_linear_nav
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_linear_nav

@@ -1,0 +1,21 @@
+rosauth
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosauth
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`rosauth/Authentication`
+
+.. ros:autoservice:: rosauth/Authentication
+   :raw: tail

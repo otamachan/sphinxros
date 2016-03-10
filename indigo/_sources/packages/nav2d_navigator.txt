@@ -1,0 +1,41 @@
+nav2d_navigator
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nav2d_navigator
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`nav2d_navigator/SendCommand`
+
+.. ros:autoservice:: nav2d_navigator/SendCommand
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`nav2d_navigator/GetFirstMap`
+* :ros:action:`nav2d_navigator/Localize`
+* :ros:action:`nav2d_navigator/MoveToPosition2D`
+* :ros:action:`nav2d_navigator/Explore`
+
+.. ros:autoaction:: nav2d_navigator/GetFirstMap
+   :raw: tail
+
+.. ros:autoaction:: nav2d_navigator/Localize
+   :raw: tail
+
+.. ros:autoaction:: nav2d_navigator/MoveToPosition2D
+   :raw: tail
+
+.. ros:autoaction:: nav2d_navigator/Explore
+   :raw: tail

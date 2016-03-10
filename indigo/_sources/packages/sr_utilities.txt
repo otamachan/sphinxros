@@ -1,0 +1,21 @@
+sr_utilities
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_utilities
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`sr_utilities/getJointState`
+
+.. ros:autoservice:: sr_utilities/getJointState
+   :raw: tail

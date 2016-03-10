@@ -1,0 +1,21 @@
+audio_common_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: audio_common_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`audio_common_msgs/AudioData`
+
+.. ros:automessage:: audio_common_msgs/AudioData
+   :raw: tail

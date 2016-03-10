@@ -1,0 +1,10 @@
+point_cloud_publisher_tutorial
+++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: point_cloud_publisher_tutorial

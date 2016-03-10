@@ -1,0 +1,10 @@
+sr_self_test
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_self_test

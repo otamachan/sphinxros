@@ -1,0 +1,33 @@
+underwater_sensor_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: underwater_sensor_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`underwater_sensor_msgs/DVL`
+* :ros:msg:`underwater_sensor_msgs/Pressure`
+
+.. ros:automessage:: underwater_sensor_msgs/DVL
+   :raw: tail
+
+.. ros:automessage:: underwater_sensor_msgs/Pressure
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`underwater_sensor_msgs/SpawnMarker`
+
+.. ros:autoservice:: underwater_sensor_msgs/SpawnMarker
+   :raw: tail

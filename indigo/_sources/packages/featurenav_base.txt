@@ -1,0 +1,41 @@
+featurenav_base
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: featurenav_base
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`featurenav_base/Landmark`
+* :ros:msg:`featurenav_base/Segment`
+* :ros:msg:`featurenav_base/Feature`
+
+.. ros:automessage:: featurenav_base/Landmark
+   :raw: tail
+
+.. ros:automessage:: featurenav_base/Segment
+   :raw: tail
+
+.. ros:automessage:: featurenav_base/Feature
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`featurenav_base/SetSegment`
+* :ros:srv:`featurenav_base/GetSegment`
+
+.. ros:autoservice:: featurenav_base/SetSegment
+   :raw: tail
+
+.. ros:autoservice:: featurenav_base/GetSegment
+   :raw: tail

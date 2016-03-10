@@ -1,0 +1,41 @@
+cob_phidgets
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_phidgets
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_phidgets/AnalogSensor`
+* :ros:msg:`cob_phidgets/DigitalSensor`
+
+.. ros:automessage:: cob_phidgets/AnalogSensor
+   :raw: tail
+
+.. ros:automessage:: cob_phidgets/DigitalSensor
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`cob_phidgets/SetTriggerValue`
+* :ros:srv:`cob_phidgets/SetDigitalSensor`
+* :ros:srv:`cob_phidgets/SetDataRate`
+
+.. ros:autoservice:: cob_phidgets/SetTriggerValue
+   :raw: tail
+
+.. ros:autoservice:: cob_phidgets/SetDigitalSensor
+   :raw: tail
+
+.. ros:autoservice:: cob_phidgets/SetDataRate
+   :raw: tail

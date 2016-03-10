@@ -1,0 +1,33 @@
+pano_ros
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pano_ros
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pano_ros/Pano`
+
+.. ros:automessage:: pano_ros/Pano
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`pano_ros/PanoCapture`
+* :ros:action:`pano_ros/Stitch`
+
+.. ros:autoaction:: pano_ros/PanoCapture
+   :raw: tail
+
+.. ros:autoaction:: pano_ros/Stitch
+   :raw: tail

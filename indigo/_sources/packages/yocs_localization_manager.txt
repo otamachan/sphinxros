@@ -1,0 +1,10 @@
+yocs_localization_manager
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_localization_manager

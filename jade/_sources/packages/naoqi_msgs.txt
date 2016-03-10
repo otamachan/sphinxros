@@ -1,0 +1,113 @@
+naoqi_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`naoqi_msgs/AudioBuffer`
+* :ros:msg:`naoqi_msgs/JointAngleTrajectory`
+* :ros:msg:`naoqi_msgs/WordRecognized`
+* :ros:msg:`naoqi_msgs/FadeRGB`
+* :ros:msg:`naoqi_msgs/Bumper`
+* :ros:msg:`naoqi_msgs/JointAnglesWithSpeed`
+* :ros:msg:`naoqi_msgs/TactileTouch`
+
+.. ros:automessage:: naoqi_msgs/AudioBuffer
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/JointAngleTrajectory
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/WordRecognized
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/FadeRGB
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/Bumper
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/JointAnglesWithSpeed
+   :raw: tail
+
+.. ros:automessage:: naoqi_msgs/TactileTouch
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`naoqi_msgs/GetInstalledBehaviors`
+* :ros:srv:`naoqi_msgs/SetArmsEnabled`
+* :ros:srv:`naoqi_msgs/CmdPoseService`
+* :ros:srv:`naoqi_msgs/SetTransform`
+* :ros:srv:`naoqi_msgs/CmdVelService`
+* :ros:srv:`naoqi_msgs/GetTruepose`
+
+.. ros:autoservice:: naoqi_msgs/GetInstalledBehaviors
+   :raw: tail
+
+.. ros:autoservice:: naoqi_msgs/SetArmsEnabled
+   :raw: tail
+
+.. ros:autoservice:: naoqi_msgs/CmdPoseService
+   :raw: tail
+
+.. ros:autoservice:: naoqi_msgs/SetTransform
+   :raw: tail
+
+.. ros:autoservice:: naoqi_msgs/CmdVelService
+   :raw: tail
+
+.. ros:autoservice:: naoqi_msgs/GetTruepose
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`naoqi_msgs/RunBehavior`
+* :ros:action:`naoqi_msgs/BodyPose`
+* :ros:action:`naoqi_msgs/JointAnglesWithSpeed`
+* :ros:action:`naoqi_msgs/FollowPath`
+* :ros:action:`naoqi_msgs/BodyPoseWithSpeed`
+* :ros:action:`naoqi_msgs/Blink`
+* :ros:action:`naoqi_msgs/SpeechWithFeedback`
+* :ros:action:`naoqi_msgs/SetSpeechVocabulary`
+* :ros:action:`naoqi_msgs/JointTrajectory`
+
+.. ros:autoaction:: naoqi_msgs/RunBehavior
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/BodyPose
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/JointAnglesWithSpeed
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/FollowPath
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/BodyPoseWithSpeed
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/Blink
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/SpeechWithFeedback
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/SetSpeechVocabulary
+   :raw: tail
+
+.. ros:autoaction:: naoqi_msgs/JointTrajectory
+   :raw: tail

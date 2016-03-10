@@ -1,0 +1,37 @@
+hector_nav_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_nav_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`hector_nav_msgs/GetRobotTrajectory`
+* :ros:srv:`hector_nav_msgs/GetDistanceToObstacle`
+* :ros:srv:`hector_nav_msgs/GetNormal`
+* :ros:srv:`hector_nav_msgs/GetSearchPosition`
+* :ros:srv:`hector_nav_msgs/GetRecoveryInfo`
+
+.. ros:autoservice:: hector_nav_msgs/GetRobotTrajectory
+   :raw: tail
+
+.. ros:autoservice:: hector_nav_msgs/GetDistanceToObstacle
+   :raw: tail
+
+.. ros:autoservice:: hector_nav_msgs/GetNormal
+   :raw: tail
+
+.. ros:autoservice:: hector_nav_msgs/GetSearchPosition
+   :raw: tail
+
+.. ros:autoservice:: hector_nav_msgs/GetRecoveryInfo
+   :raw: tail

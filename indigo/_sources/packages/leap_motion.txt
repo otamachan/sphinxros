@@ -1,0 +1,25 @@
+leap_motion
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: leap_motion
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`leap_motion/leap`
+* :ros:msg:`leap_motion/leapros`
+
+.. ros:automessage:: leap_motion/leap
+   :raw: tail
+
+.. ros:automessage:: leap_motion/leapros
+   :raw: tail

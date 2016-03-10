@@ -1,0 +1,21 @@
+local_map
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: local_map
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`local_map/SaveMap`
+
+.. ros:autoservice:: local_map/SaveMap
+   :raw: tail

@@ -1,0 +1,21 @@
+microstrain_3dmgx2_imu
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: microstrain_3dmgx2_imu
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`microstrain_3dmgx2_imu/AddOffset`
+
+.. ros:autoservice:: microstrain_3dmgx2_imu/AddOffset
+   :raw: tail

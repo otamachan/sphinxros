@@ -1,0 +1,10 @@
+md49_base_controller
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: md49_base_controller

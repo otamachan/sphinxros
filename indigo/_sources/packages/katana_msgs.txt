@@ -1,0 +1,29 @@
+katana_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: katana_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`katana_msgs/GripperControllerState`
+
+.. ros:automessage:: katana_msgs/GripperControllerState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`katana_msgs/JointMovement`
+
+.. ros:autoaction:: katana_msgs/JointMovement
+   :raw: tail

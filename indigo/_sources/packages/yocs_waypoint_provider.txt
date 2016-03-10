@@ -1,0 +1,10 @@
+yocs_waypoint_provider
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_waypoint_provider

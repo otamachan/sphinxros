@@ -1,0 +1,10 @@
+nextage_moveit_config
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nextage_moveit_config

@@ -1,0 +1,25 @@
+fingertip_pressure
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fingertip_pressure
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`fingertip_pressure/PressureInfo`
+* :ros:msg:`fingertip_pressure/PressureInfoElement`
+
+.. ros:automessage:: fingertip_pressure/PressureInfo
+   :raw: tail
+
+.. ros:automessage:: fingertip_pressure/PressureInfoElement
+   :raw: tail

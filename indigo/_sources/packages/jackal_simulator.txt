@@ -1,0 +1,10 @@
+jackal_simulator
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jackal_simulator

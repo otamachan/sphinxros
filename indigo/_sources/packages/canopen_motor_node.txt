@@ -1,0 +1,10 @@
+canopen_motor_node
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: canopen_motor_node

@@ -1,0 +1,10 @@
+zbar_ros
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: zbar_ros

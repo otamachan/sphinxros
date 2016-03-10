@@ -1,0 +1,10 @@
+cob_canopen_motor
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_canopen_motor

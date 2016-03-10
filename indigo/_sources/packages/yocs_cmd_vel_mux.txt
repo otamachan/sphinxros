@@ -1,0 +1,10 @@
+yocs_cmd_vel_mux
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_cmd_vel_mux

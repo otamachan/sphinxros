@@ -1,0 +1,10 @@
+openhrp3
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openhrp3

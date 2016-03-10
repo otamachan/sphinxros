@@ -1,0 +1,10 @@
+hector_marker_drawing
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_marker_drawing

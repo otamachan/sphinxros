@@ -1,0 +1,10 @@
+open_industrial_ros_controllers
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: open_industrial_ros_controllers

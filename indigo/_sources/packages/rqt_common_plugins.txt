@@ -1,0 +1,10 @@
+rqt_common_plugins
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_common_plugins

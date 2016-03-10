@@ -1,0 +1,41 @@
+topic_proxy
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: topic_proxy
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`topic_proxy/MessageInstance`
+
+.. ros:automessage:: topic_proxy/MessageInstance
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`topic_proxy/GetMessage`
+* :ros:srv:`topic_proxy/PublishMessage`
+* :ros:srv:`topic_proxy/RequestMessage`
+* :ros:srv:`topic_proxy/AddPublisher`
+
+.. ros:autoservice:: topic_proxy/GetMessage
+   :raw: tail
+
+.. ros:autoservice:: topic_proxy/PublishMessage
+   :raw: tail
+
+.. ros:autoservice:: topic_proxy/RequestMessage
+   :raw: tail
+
+.. ros:autoservice:: topic_proxy/AddPublisher
+   :raw: tail

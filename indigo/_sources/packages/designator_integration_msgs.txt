@@ -1,0 +1,41 @@
+designator_integration_msgs
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: designator_integration_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`designator_integration_msgs/Designator`
+* :ros:msg:`designator_integration_msgs/DesignatorRequest`
+* :ros:msg:`designator_integration_msgs/DesignatorResponse`
+* :ros:msg:`designator_integration_msgs/KeyValuePair`
+
+.. ros:automessage:: designator_integration_msgs/Designator
+   :raw: tail
+
+.. ros:automessage:: designator_integration_msgs/DesignatorRequest
+   :raw: tail
+
+.. ros:automessage:: designator_integration_msgs/DesignatorResponse
+   :raw: tail
+
+.. ros:automessage:: designator_integration_msgs/KeyValuePair
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`designator_integration_msgs/DesignatorCommunication`
+
+.. ros:autoservice:: designator_integration_msgs/DesignatorCommunication
+   :raw: tail

@@ -1,0 +1,10 @@
+katana_gazebo_plugins
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: katana_gazebo_plugins

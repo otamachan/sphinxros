@@ -1,0 +1,10 @@
+nao_gazebo_plugin
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nao_gazebo_plugin

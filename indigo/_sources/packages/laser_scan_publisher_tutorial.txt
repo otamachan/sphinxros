@@ -1,0 +1,10 @@
+laser_scan_publisher_tutorial
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: laser_scan_publisher_tutorial

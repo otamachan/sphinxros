@@ -1,0 +1,73 @@
+or_msgs
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: or_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`or_msgs/OrCommand`
+* :ros:msg:`or_msgs/BoundingBox2D`
+* :ros:msg:`or_msgs/OrLearningStatus`
+* :ros:msg:`or_msgs/KeyPoint`
+* :ros:msg:`or_msgs/Point2D`
+* :ros:msg:`or_msgs/OrMatchResult`
+* :ros:msg:`or_msgs/KeyPointMatch`
+* :ros:msg:`or_msgs/OrLearnCommand`
+* :ros:msg:`or_msgs/OrObjectNames`
+* :ros:msg:`or_msgs/ExtractKeyPoints`
+* :ros:msg:`or_msgs/MatchResult`
+* :ros:msg:`or_msgs/KeyPointMatchArray`
+
+.. ros:automessage:: or_msgs/OrCommand
+   :raw: tail
+
+.. ros:automessage:: or_msgs/BoundingBox2D
+   :raw: tail
+
+.. ros:automessage:: or_msgs/OrLearningStatus
+   :raw: tail
+
+.. ros:automessage:: or_msgs/KeyPoint
+   :raw: tail
+
+.. ros:automessage:: or_msgs/Point2D
+   :raw: tail
+
+.. ros:automessage:: or_msgs/OrMatchResult
+   :raw: tail
+
+.. ros:automessage:: or_msgs/KeyPointMatch
+   :raw: tail
+
+.. ros:automessage:: or_msgs/OrLearnCommand
+   :raw: tail
+
+.. ros:automessage:: or_msgs/OrObjectNames
+   :raw: tail
+
+.. ros:automessage:: or_msgs/ExtractKeyPoints
+   :raw: tail
+
+.. ros:automessage:: or_msgs/MatchResult
+   :raw: tail
+
+.. ros:automessage:: or_msgs/KeyPointMatchArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`or_msgs/RecognizeImage`
+
+.. ros:autoservice:: or_msgs/RecognizeImage
+   :raw: tail

@@ -1,0 +1,10 @@
+hector_geotiff_plugins
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_geotiff_plugins

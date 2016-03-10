@@ -1,0 +1,61 @@
+p2os_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: p2os_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`p2os_msgs/ArmState`
+* :ros:msg:`p2os_msgs/LiftState`
+* :ros:msg:`p2os_msgs/PTZState`
+* :ros:msg:`p2os_msgs/AIO`
+* :ros:msg:`p2os_msgs/DIO`
+* :ros:msg:`p2os_msgs/TCMState`
+* :ros:msg:`p2os_msgs/GripperState`
+* :ros:msg:`p2os_msgs/MotorState`
+* :ros:msg:`p2os_msgs/BatteryState`
+* :ros:msg:`p2os_msgs/GripState`
+* :ros:msg:`p2os_msgs/SonarArray`
+
+.. ros:automessage:: p2os_msgs/ArmState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/LiftState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/PTZState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/AIO
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/DIO
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/TCMState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/GripperState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/MotorState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/BatteryState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/GripState
+   :raw: tail
+
+.. ros:automessage:: p2os_msgs/SonarArray
+   :raw: tail

@@ -1,0 +1,25 @@
+cob_obstacle_distance
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_obstacle_distance
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_obstacle_distance/ObstacleDistance`
+* :ros:msg:`cob_obstacle_distance/ObstacleDistances`
+
+.. ros:automessage:: cob_obstacle_distance/ObstacleDistance
+   :raw: tail
+
+.. ros:automessage:: cob_obstacle_distance/ObstacleDistances
+   :raw: tail

@@ -1,0 +1,10 @@
+pr2_make_a_map_app
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_make_a_map_app

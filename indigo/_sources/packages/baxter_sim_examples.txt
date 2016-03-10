@@ -1,0 +1,10 @@
+baxter_sim_examples
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_sim_examples

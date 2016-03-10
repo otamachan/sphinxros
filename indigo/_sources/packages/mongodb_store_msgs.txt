@@ -1,0 +1,61 @@
+mongodb_store_msgs
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mongodb_store_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mongodb_store_msgs/StringPair`
+* :ros:msg:`mongodb_store_msgs/StringPairList`
+* :ros:msg:`mongodb_store_msgs/SerialisedMessage`
+* :ros:msg:`mongodb_store_msgs/StringList`
+
+.. ros:automessage:: mongodb_store_msgs/StringPair
+   :raw: tail
+
+.. ros:automessage:: mongodb_store_msgs/StringPairList
+   :raw: tail
+
+.. ros:automessage:: mongodb_store_msgs/SerialisedMessage
+   :raw: tail
+
+.. ros:automessage:: mongodb_store_msgs/StringList
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`mongodb_store_msgs/MongoUpdateMsg`
+* :ros:srv:`mongodb_store_msgs/MongoQueryMsg`
+* :ros:srv:`mongodb_store_msgs/MongoDeleteMsg`
+* :ros:srv:`mongodb_store_msgs/MongoInsertMsg`
+
+.. ros:autoservice:: mongodb_store_msgs/MongoUpdateMsg
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store_msgs/MongoQueryMsg
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store_msgs/MongoDeleteMsg
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store_msgs/MongoInsertMsg
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`mongodb_store_msgs/MoveEntries`
+
+.. ros:autoaction:: mongodb_store_msgs/MoveEntries
+   :raw: tail

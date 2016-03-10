@@ -1,0 +1,45 @@
+baxter_maintenance_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_maintenance_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`baxter_maintenance_msgs/UpdateSources`
+* :ros:msg:`baxter_maintenance_msgs/TareData`
+* :ros:msg:`baxter_maintenance_msgs/UpdateSource`
+* :ros:msg:`baxter_maintenance_msgs/TareEnable`
+* :ros:msg:`baxter_maintenance_msgs/CalibrateArmEnable`
+* :ros:msg:`baxter_maintenance_msgs/CalibrateArmData`
+* :ros:msg:`baxter_maintenance_msgs/UpdateStatus`
+
+.. ros:automessage:: baxter_maintenance_msgs/UpdateSources
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/TareData
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/UpdateSource
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/TareEnable
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/CalibrateArmEnable
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/CalibrateArmData
+   :raw: tail
+
+.. ros:automessage:: baxter_maintenance_msgs/UpdateStatus
+   :raw: tail

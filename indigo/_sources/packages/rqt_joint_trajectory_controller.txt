@@ -1,0 +1,10 @@
+rqt_joint_trajectory_controller
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_joint_trajectory_controller

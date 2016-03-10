@@ -1,0 +1,25 @@
+ackermann_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ackermann_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ackermann_msgs/AckermannDriveStamped`
+* :ros:msg:`ackermann_msgs/AckermannDrive`
+
+.. ros:automessage:: ackermann_msgs/AckermannDriveStamped
+   :raw: tail
+
+.. ros:automessage:: ackermann_msgs/AckermannDrive
+   :raw: tail

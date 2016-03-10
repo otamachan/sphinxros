@@ -1,0 +1,10 @@
+evarobot_state_publisher
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: evarobot_state_publisher

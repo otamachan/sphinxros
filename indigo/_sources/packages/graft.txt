@@ -1,0 +1,29 @@
+graft
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: graft
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`graft/GraftControl`
+* :ros:msg:`graft/GraftSensorResidual`
+* :ros:msg:`graft/GraftState`
+
+.. ros:automessage:: graft/GraftControl
+   :raw: tail
+
+.. ros:automessage:: graft/GraftSensorResidual
+   :raw: tail
+
+.. ros:automessage:: graft/GraftState
+   :raw: tail

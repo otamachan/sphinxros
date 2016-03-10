@@ -1,0 +1,45 @@
+roseus
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roseus
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`roseus/String`
+* :ros:msg:`roseus/StringStamped`
+* :ros:msg:`roseus/FixedArray`
+* :ros:msg:`roseus/VariableArray`
+
+.. ros:automessage:: roseus/String
+   :raw: tail
+
+.. ros:automessage:: roseus/StringStamped
+   :raw: tail
+
+.. ros:automessage:: roseus/FixedArray
+   :raw: tail
+
+.. ros:automessage:: roseus/VariableArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`roseus/StringString`
+* :ros:srv:`roseus/AddTwoInts`
+
+.. ros:autoservice:: roseus/StringString
+   :raw: tail
+
+.. ros:autoservice:: roseus/AddTwoInts
+   :raw: tail

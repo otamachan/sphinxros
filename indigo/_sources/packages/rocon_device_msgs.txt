@@ -1,0 +1,45 @@
+rocon_device_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_device_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rocon_device_msgs/HueState`
+* :ros:msg:`rocon_device_msgs/Devices`
+* :ros:msg:`rocon_device_msgs/Hue`
+* :ros:msg:`rocon_device_msgs/Device`
+* :ros:msg:`rocon_device_msgs/HueArray`
+
+.. ros:automessage:: rocon_device_msgs/HueState
+   :raw: tail
+
+.. ros:automessage:: rocon_device_msgs/Devices
+   :raw: tail
+
+.. ros:automessage:: rocon_device_msgs/Hue
+   :raw: tail
+
+.. ros:automessage:: rocon_device_msgs/Device
+   :raw: tail
+
+.. ros:automessage:: rocon_device_msgs/HueArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rocon_device_msgs/GetDeviceList`
+
+.. ros:autoservice:: rocon_device_msgs/GetDeviceList
+   :raw: tail

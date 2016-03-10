@@ -1,0 +1,49 @@
+rail_manipulation_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_manipulation_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rail_manipulation_msgs/Grasp`
+* :ros:msg:`rail_manipulation_msgs/SegmentedObjectList`
+* :ros:msg:`rail_manipulation_msgs/SegmentedObject`
+
+.. ros:automessage:: rail_manipulation_msgs/Grasp
+   :raw: tail
+
+.. ros:automessage:: rail_manipulation_msgs/SegmentedObjectList
+   :raw: tail
+
+.. ros:automessage:: rail_manipulation_msgs/SegmentedObject
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`rail_manipulation_msgs/Lift`
+* :ros:action:`rail_manipulation_msgs/VerifyGrasp`
+* :ros:action:`rail_manipulation_msgs/Gripper`
+* :ros:action:`rail_manipulation_msgs/RecognizeObject`
+
+.. ros:autoaction:: rail_manipulation_msgs/Lift
+   :raw: tail
+
+.. ros:autoaction:: rail_manipulation_msgs/VerifyGrasp
+   :raw: tail
+
+.. ros:autoaction:: rail_manipulation_msgs/Gripper
+   :raw: tail
+
+.. ros:autoaction:: rail_manipulation_msgs/RecognizeObject
+   :raw: tail

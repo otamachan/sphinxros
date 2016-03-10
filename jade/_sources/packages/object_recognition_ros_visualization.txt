@@ -1,0 +1,10 @@
+object_recognition_ros_visualization
+++++++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: object_recognition_ros_visualization

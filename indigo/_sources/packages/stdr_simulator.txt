@@ -1,0 +1,10 @@
+stdr_simulator
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_simulator

@@ -1,0 +1,10 @@
+gazebo_ros_pkgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: gazebo_ros_pkgs

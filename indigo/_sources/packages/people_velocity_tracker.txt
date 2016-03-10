@@ -1,0 +1,10 @@
+people_velocity_tracker
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: people_velocity_tracker

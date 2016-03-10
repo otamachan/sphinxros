@@ -1,0 +1,10 @@
+pr2_self_test
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_self_test

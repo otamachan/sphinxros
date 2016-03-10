@@ -1,0 +1,21 @@
+joint_states_settler
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: joint_states_settler
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`joint_states_settler/Config`
+
+.. ros:autoaction:: joint_states_settler/Config
+   :raw: tail

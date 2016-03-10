@@ -1,0 +1,10 @@
+allocators
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: allocators

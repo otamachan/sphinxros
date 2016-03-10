@@ -1,0 +1,10 @@
+cob_object_detection_visualizer
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_object_detection_visualizer

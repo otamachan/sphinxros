@@ -1,0 +1,49 @@
+fetch_driver_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fetch_driver_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`fetch_driver_msgs/RobotState`
+* :ros:msg:`fetch_driver_msgs/ChargerState`
+* :ros:msg:`fetch_driver_msgs/BoardState`
+* :ros:msg:`fetch_driver_msgs/GripperState`
+* :ros:msg:`fetch_driver_msgs/MotorState`
+* :ros:msg:`fetch_driver_msgs/JointState`
+
+.. ros:automessage:: fetch_driver_msgs/RobotState
+   :raw: tail
+
+.. ros:automessage:: fetch_driver_msgs/ChargerState
+   :raw: tail
+
+.. ros:automessage:: fetch_driver_msgs/BoardState
+   :raw: tail
+
+.. ros:automessage:: fetch_driver_msgs/GripperState
+   :raw: tail
+
+.. ros:automessage:: fetch_driver_msgs/MotorState
+   :raw: tail
+
+.. ros:automessage:: fetch_driver_msgs/JointState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`fetch_driver_msgs/DisableCharging`
+
+.. ros:autoaction:: fetch_driver_msgs/DisableCharging
+   :raw: tail

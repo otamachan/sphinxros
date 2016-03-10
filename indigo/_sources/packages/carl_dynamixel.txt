@@ -1,0 +1,25 @@
+carl_dynamixel
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_dynamixel
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`carl_dynamixel/LookAtFrame`
+* :ros:srv:`carl_dynamixel/LookAtPoint`
+
+.. ros:autoservice:: carl_dynamixel/LookAtFrame
+   :raw: tail
+
+.. ros:autoservice:: carl_dynamixel/LookAtPoint
+   :raw: tail

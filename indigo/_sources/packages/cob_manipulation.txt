@@ -1,0 +1,10 @@
+cob_manipulation
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_manipulation

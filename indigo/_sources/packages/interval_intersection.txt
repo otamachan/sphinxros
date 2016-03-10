@@ -1,0 +1,21 @@
+interval_intersection
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: interval_intersection
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`interval_intersection/Config`
+
+.. ros:autoaction:: interval_intersection/Config
+   :raw: tail

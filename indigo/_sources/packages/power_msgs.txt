@@ -1,0 +1,33 @@
+power_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: power_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`power_msgs/BatteryState`
+* :ros:msg:`power_msgs/BreakerState`
+
+.. ros:automessage:: power_msgs/BatteryState
+   :raw: tail
+
+.. ros:automessage:: power_msgs/BreakerState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`power_msgs/BreakerCommand`
+
+.. ros:autoservice:: power_msgs/BreakerCommand
+   :raw: tail

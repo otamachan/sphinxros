@@ -1,0 +1,10 @@
+qt_gui_core
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: qt_gui_core

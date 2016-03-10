@@ -1,0 +1,10 @@
+schunk_modular_robotics
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_modular_robotics

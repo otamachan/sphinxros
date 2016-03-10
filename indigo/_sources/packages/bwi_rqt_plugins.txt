@@ -1,0 +1,10 @@
+bwi_rqt_plugins
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_rqt_plugins

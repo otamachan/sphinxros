@@ -1,0 +1,37 @@
+cob_cartesian_controller
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_cartesian_controller
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_cartesian_controller/Profile`
+* :ros:msg:`cob_cartesian_controller/MoveCirc`
+* :ros:msg:`cob_cartesian_controller/MoveLin`
+
+.. ros:automessage:: cob_cartesian_controller/Profile
+   :raw: tail
+
+.. ros:automessage:: cob_cartesian_controller/MoveCirc
+   :raw: tail
+
+.. ros:automessage:: cob_cartesian_controller/MoveLin
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`cob_cartesian_controller/CartesianController`
+
+.. ros:autoaction:: cob_cartesian_controller/CartesianController
+   :raw: tail

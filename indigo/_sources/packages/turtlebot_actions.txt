@@ -1,0 +1,25 @@
+turtlebot_actions
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_actions
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`turtlebot_actions/TurtlebotMove`
+* :ros:action:`turtlebot_actions/FindFiducial`
+
+.. ros:autoaction:: turtlebot_actions/TurtlebotMove
+   :raw: tail
+
+.. ros:autoaction:: turtlebot_actions/FindFiducial
+   :raw: tail

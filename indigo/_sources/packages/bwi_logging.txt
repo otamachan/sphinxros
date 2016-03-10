@@ -1,0 +1,10 @@
+bwi_logging
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_logging

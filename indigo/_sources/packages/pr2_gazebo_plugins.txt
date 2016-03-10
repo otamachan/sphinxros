@@ -1,0 +1,33 @@
+pr2_gazebo_plugins
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_gazebo_plugins
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_gazebo_plugins/ModelJointsState`
+* :ros:msg:`pr2_gazebo_plugins/PlugCommand`
+
+.. ros:automessage:: pr2_gazebo_plugins/ModelJointsState
+   :raw: tail
+
+.. ros:automessage:: pr2_gazebo_plugins/PlugCommand
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pr2_gazebo_plugins/SetModelsJointsStates`
+
+.. ros:autoservice:: pr2_gazebo_plugins/SetModelsJointsStates
+   :raw: tail

@@ -1,0 +1,41 @@
+cob_script_server
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_script_server
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_script_server/ScriptState`
+
+.. ros:automessage:: cob_script_server/ScriptState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`cob_script_server/ComposeTrajectory`
+
+.. ros:autoservice:: cob_script_server/ComposeTrajectory
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`cob_script_server/State`
+* :ros:action:`cob_script_server/Script`
+
+.. ros:autoaction:: cob_script_server/State
+   :raw: tail
+
+.. ros:autoaction:: cob_script_server/Script
+   :raw: tail

@@ -1,0 +1,37 @@
+contact_states_observer
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: contact_states_observer
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`contact_states_observer/GraspState`
+* :ros:msg:`contact_states_observer/GraspReferenceData`
+* :ros:msg:`contact_states_observer/OREContactState`
+* :ros:msg:`contact_states_observer/OREContactStates`
+* :ros:msg:`contact_states_observer/GraspStates`
+
+.. ros:automessage:: contact_states_observer/GraspState
+   :raw: tail
+
+.. ros:automessage:: contact_states_observer/GraspReferenceData
+   :raw: tail
+
+.. ros:automessage:: contact_states_observer/OREContactState
+   :raw: tail
+
+.. ros:automessage:: contact_states_observer/OREContactStates
+   :raw: tail
+
+.. ros:automessage:: contact_states_observer/GraspStates
+   :raw: tail

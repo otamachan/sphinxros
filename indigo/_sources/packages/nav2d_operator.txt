@@ -1,0 +1,21 @@
+nav2d_operator
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nav2d_operator
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nav2d_operator/cmd`
+
+.. ros:automessage:: nav2d_operator/cmd
+   :raw: tail

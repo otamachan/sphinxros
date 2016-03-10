@@ -1,0 +1,57 @@
+marti_sensor_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_sensor_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_sensor_msgs/DioRealTimeData`
+* :ros:msg:`marti_sensor_msgs/Exposure`
+* :ros:msg:`marti_sensor_msgs/WheelEncoder`
+* :ros:msg:`marti_sensor_msgs/Gyro`
+* :ros:msg:`marti_sensor_msgs/WheelEncoderSet`
+* :ros:msg:`marti_sensor_msgs/Altitude`
+* :ros:msg:`marti_sensor_msgs/DioPortState`
+* :ros:msg:`marti_sensor_msgs/Velocity`
+
+.. ros:automessage:: marti_sensor_msgs/DioRealTimeData
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/Exposure
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/WheelEncoder
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/Gyro
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/WheelEncoderSet
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/Altitude
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/DioPortState
+   :raw: tail
+
+.. ros:automessage:: marti_sensor_msgs/Velocity
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`marti_sensor_msgs/SetExposure`
+
+.. ros:autoservice:: marti_sensor_msgs/SetExposure
+   :raw: tail

@@ -1,0 +1,10 @@
+rotors_gazebo_plugins
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rotors_gazebo_plugins

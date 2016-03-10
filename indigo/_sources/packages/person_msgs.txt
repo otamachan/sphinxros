@@ -1,0 +1,37 @@
+person_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: person_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`person_msgs/Person`
+* :ros:msg:`person_msgs/SkeletonBBox`
+* :ros:msg:`person_msgs/Skeleton2D`
+* :ros:msg:`person_msgs/Skeleton3D`
+* :ros:msg:`person_msgs/PointEvents`
+
+.. ros:automessage:: person_msgs/Person
+   :raw: tail
+
+.. ros:automessage:: person_msgs/SkeletonBBox
+   :raw: tail
+
+.. ros:automessage:: person_msgs/Skeleton2D
+   :raw: tail
+
+.. ros:automessage:: person_msgs/Skeleton3D
+   :raw: tail
+
+.. ros:automessage:: person_msgs/PointEvents
+   :raw: tail

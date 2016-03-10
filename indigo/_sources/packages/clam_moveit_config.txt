@@ -1,0 +1,10 @@
+clam_moveit_config
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: clam_moveit_config

@@ -1,0 +1,10 @@
+prace_common
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: prace_common

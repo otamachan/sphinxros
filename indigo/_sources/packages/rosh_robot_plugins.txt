@@ -1,0 +1,10 @@
+rosh_robot_plugins
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosh_robot_plugins

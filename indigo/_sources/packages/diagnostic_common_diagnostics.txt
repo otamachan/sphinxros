@@ -1,0 +1,10 @@
+diagnostic_common_diagnostics
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: diagnostic_common_diagnostics

@@ -1,0 +1,10 @@
+pepper_sensors_py
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pepper_sensors_py

@@ -1,0 +1,10 @@
+rail_pick_and_place
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_pick_and_place

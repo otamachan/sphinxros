@@ -1,0 +1,10 @@
+trivial_gray_streams
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: trivial_gray_streams

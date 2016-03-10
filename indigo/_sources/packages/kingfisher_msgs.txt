@@ -1,0 +1,33 @@
+kingfisher_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kingfisher_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`kingfisher_msgs/Sense`
+* :ros:msg:`kingfisher_msgs/Helm`
+* :ros:msg:`kingfisher_msgs/Drive`
+* :ros:msg:`kingfisher_msgs/Course`
+
+.. ros:automessage:: kingfisher_msgs/Sense
+   :raw: tail
+
+.. ros:automessage:: kingfisher_msgs/Helm
+   :raw: tail
+
+.. ros:automessage:: kingfisher_msgs/Drive
+   :raw: tail
+
+.. ros:automessage:: kingfisher_msgs/Course
+   :raw: tail

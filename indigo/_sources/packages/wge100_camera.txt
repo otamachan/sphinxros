@@ -1,0 +1,21 @@
+wge100_camera
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wge100_camera
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`wge100_camera/BoardConfig`
+
+.. ros:autoservice:: wge100_camera/BoardConfig
+   :raw: tail

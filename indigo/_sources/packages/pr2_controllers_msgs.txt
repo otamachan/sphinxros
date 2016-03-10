@@ -1,0 +1,61 @@
+pr2_controllers_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_controllers_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_controllers_msgs/JointControllerState`
+* :ros:msg:`pr2_controllers_msgs/Pr2GripperCommand`
+* :ros:msg:`pr2_controllers_msgs/JointTrajectoryControllerState`
+
+.. ros:automessage:: pr2_controllers_msgs/JointControllerState
+   :raw: tail
+
+.. ros:automessage:: pr2_controllers_msgs/Pr2GripperCommand
+   :raw: tail
+
+.. ros:automessage:: pr2_controllers_msgs/JointTrajectoryControllerState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pr2_controllers_msgs/QueryCalibrationState`
+* :ros:srv:`pr2_controllers_msgs/QueryTrajectoryState`
+
+.. ros:autoservice:: pr2_controllers_msgs/QueryCalibrationState
+   :raw: tail
+
+.. ros:autoservice:: pr2_controllers_msgs/QueryTrajectoryState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`pr2_controllers_msgs/Pr2GripperCommand`
+* :ros:action:`pr2_controllers_msgs/SingleJointPosition`
+* :ros:action:`pr2_controllers_msgs/JointTrajectory`
+* :ros:action:`pr2_controllers_msgs/PointHead`
+
+.. ros:autoaction:: pr2_controllers_msgs/Pr2GripperCommand
+   :raw: tail
+
+.. ros:autoaction:: pr2_controllers_msgs/SingleJointPosition
+   :raw: tail
+
+.. ros:autoaction:: pr2_controllers_msgs/JointTrajectory
+   :raw: tail
+
+.. ros:autoaction:: pr2_controllers_msgs/PointHead
+   :raw: tail

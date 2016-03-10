@@ -1,0 +1,10 @@
+stdr_gui
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_gui

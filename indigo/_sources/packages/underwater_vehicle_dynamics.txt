@@ -1,0 +1,10 @@
+underwater_vehicle_dynamics
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: underwater_vehicle_dynamics

@@ -1,0 +1,10 @@
+hector_slam_launch
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_slam_launch

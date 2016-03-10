@@ -1,0 +1,65 @@
+dynamic_reconfigure
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dynamic_reconfigure
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`dynamic_reconfigure/ParamDescription`
+* :ros:msg:`dynamic_reconfigure/StrParameter`
+* :ros:msg:`dynamic_reconfigure/ConfigDescription`
+* :ros:msg:`dynamic_reconfigure/SensorLevels`
+* :ros:msg:`dynamic_reconfigure/Config`
+* :ros:msg:`dynamic_reconfigure/IntParameter`
+* :ros:msg:`dynamic_reconfigure/Group`
+* :ros:msg:`dynamic_reconfigure/DoubleParameter`
+* :ros:msg:`dynamic_reconfigure/GroupState`
+* :ros:msg:`dynamic_reconfigure/BoolParameter`
+
+.. ros:automessage:: dynamic_reconfigure/ParamDescription
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/StrParameter
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/ConfigDescription
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/SensorLevels
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/Config
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/IntParameter
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/Group
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/DoubleParameter
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/GroupState
+   :raw: tail
+
+.. ros:automessage:: dynamic_reconfigure/BoolParameter
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`dynamic_reconfigure/Reconfigure`
+
+.. ros:autoservice:: dynamic_reconfigure/Reconfigure
+   :raw: tail

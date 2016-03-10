@@ -1,0 +1,10 @@
+camera1394stereo
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: camera1394stereo

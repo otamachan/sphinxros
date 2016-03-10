@@ -1,0 +1,10 @@
+turtlebot_arm_ikfast_plugin
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_arm_ikfast_plugin

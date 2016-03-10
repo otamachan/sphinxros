@@ -1,0 +1,85 @@
+manipulation_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: manipulation_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`manipulation_msgs/GraspPlanningErrorCode`
+* :ros:msg:`manipulation_msgs/CartesianGains`
+* :ros:msg:`manipulation_msgs/GripperTranslation`
+* :ros:msg:`manipulation_msgs/SceneRegion`
+* :ros:msg:`manipulation_msgs/ManipulationResult`
+* :ros:msg:`manipulation_msgs/PlaceLocation`
+* :ros:msg:`manipulation_msgs/GraspResult`
+* :ros:msg:`manipulation_msgs/ClusterBoundingBox`
+* :ros:msg:`manipulation_msgs/ManipulationPhase`
+* :ros:msg:`manipulation_msgs/PlaceLocationResult`
+* :ros:msg:`manipulation_msgs/GraspableObject`
+* :ros:msg:`manipulation_msgs/GraspableObjectList`
+* :ros:msg:`manipulation_msgs/Grasp`
+
+.. ros:automessage:: manipulation_msgs/GraspPlanningErrorCode
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/CartesianGains
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/GripperTranslation
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/SceneRegion
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/ManipulationResult
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/PlaceLocation
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/GraspResult
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/ClusterBoundingBox
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/ManipulationPhase
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/PlaceLocationResult
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/GraspableObject
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/GraspableObjectList
+   :raw: tail
+
+.. ros:automessage:: manipulation_msgs/Grasp
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`manipulation_msgs/GraspPlanning`
+
+.. ros:autoservice:: manipulation_msgs/GraspPlanning
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`manipulation_msgs/GraspPlanning`
+
+.. ros:autoaction:: manipulation_msgs/GraspPlanning
+   :raw: tail

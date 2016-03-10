@@ -1,0 +1,10 @@
+rtmros_common
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rtmros_common

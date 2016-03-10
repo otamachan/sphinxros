@@ -1,0 +1,49 @@
+pddl_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pddl_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pddl_msgs/PDDLProblem`
+* :ros:msg:`pddl_msgs/PDDLObject`
+* :ros:msg:`pddl_msgs/PDDLAction`
+* :ros:msg:`pddl_msgs/PDDLDomain`
+* :ros:msg:`pddl_msgs/PDDLStep`
+* :ros:msg:`pddl_msgs/PDDLActionArray`
+
+.. ros:automessage:: pddl_msgs/PDDLProblem
+   :raw: tail
+
+.. ros:automessage:: pddl_msgs/PDDLObject
+   :raw: tail
+
+.. ros:automessage:: pddl_msgs/PDDLAction
+   :raw: tail
+
+.. ros:automessage:: pddl_msgs/PDDLDomain
+   :raw: tail
+
+.. ros:automessage:: pddl_msgs/PDDLStep
+   :raw: tail
+
+.. ros:automessage:: pddl_msgs/PDDLActionArray
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`pddl_msgs/PDDLPlanner`
+
+.. ros:autoaction:: pddl_msgs/PDDLPlanner
+   :raw: tail

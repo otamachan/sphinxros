@@ -1,0 +1,10 @@
+opencv3
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: opencv3

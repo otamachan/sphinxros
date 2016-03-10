@@ -1,0 +1,29 @@
+rmp_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rmp_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rmp_msgs/RMPCommand`
+* :ros:msg:`rmp_msgs/RMPBatteryStatus`
+* :ros:msg:`rmp_msgs/RMPFeedback`
+
+.. ros:automessage:: rmp_msgs/RMPCommand
+   :raw: tail
+
+.. ros:automessage:: rmp_msgs/RMPBatteryStatus
+   :raw: tail
+
+.. ros:automessage:: rmp_msgs/RMPFeedback
+   :raw: tail

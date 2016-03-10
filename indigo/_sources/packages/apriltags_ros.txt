@@ -1,0 +1,25 @@
+apriltags_ros
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: apriltags_ros
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`apriltags_ros/AprilTagDetection`
+* :ros:msg:`apriltags_ros/AprilTagDetectionArray`
+
+.. ros:automessage:: apriltags_ros/AprilTagDetection
+   :raw: tail
+
+.. ros:automessage:: apriltags_ros/AprilTagDetectionArray
+   :raw: tail

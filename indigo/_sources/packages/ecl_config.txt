@@ -1,0 +1,10 @@
+ecl_config
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_config

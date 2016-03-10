@@ -1,0 +1,10 @@
+agvs_common
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: agvs_common

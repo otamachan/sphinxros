@@ -1,0 +1,10 @@
+sicktoolbox_wrapper
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sicktoolbox_wrapper

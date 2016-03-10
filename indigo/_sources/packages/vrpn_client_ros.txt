@@ -1,0 +1,10 @@
+vrpn_client_ros
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: vrpn_client_ros

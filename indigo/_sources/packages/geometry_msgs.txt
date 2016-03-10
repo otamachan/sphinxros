@@ -1,0 +1,133 @@
+geometry_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: geometry_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`geometry_msgs/Vector3Stamped`
+* :ros:msg:`geometry_msgs/Pose`
+* :ros:msg:`geometry_msgs/Accel`
+* :ros:msg:`geometry_msgs/PoseStamped`
+* :ros:msg:`geometry_msgs/Quaternion`
+* :ros:msg:`geometry_msgs/TransformStamped`
+* :ros:msg:`geometry_msgs/TwistWithCovariance`
+* :ros:msg:`geometry_msgs/AccelWithCovariance`
+* :ros:msg:`geometry_msgs/PoseArray`
+* :ros:msg:`geometry_msgs/InertiaStamped`
+* :ros:msg:`geometry_msgs/Inertia`
+* :ros:msg:`geometry_msgs/TwistStamped`
+* :ros:msg:`geometry_msgs/Polygon`
+* :ros:msg:`geometry_msgs/Twist`
+* :ros:msg:`geometry_msgs/Point`
+* :ros:msg:`geometry_msgs/Transform`
+* :ros:msg:`geometry_msgs/PolygonStamped`
+* :ros:msg:`geometry_msgs/PointStamped`
+* :ros:msg:`geometry_msgs/QuaternionStamped`
+* :ros:msg:`geometry_msgs/TwistWithCovarianceStamped`
+* :ros:msg:`geometry_msgs/Pose2D`
+* :ros:msg:`geometry_msgs/Vector3`
+* :ros:msg:`geometry_msgs/PoseWithCovariance`
+* :ros:msg:`geometry_msgs/WrenchStamped`
+* :ros:msg:`geometry_msgs/PoseWithCovarianceStamped`
+* :ros:msg:`geometry_msgs/AccelStamped`
+* :ros:msg:`geometry_msgs/Wrench`
+* :ros:msg:`geometry_msgs/AccelWithCovarianceStamped`
+* :ros:msg:`geometry_msgs/Point32`
+
+.. ros:automessage:: geometry_msgs/Vector3Stamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Pose
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Accel
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PoseStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Quaternion
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/TransformStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/TwistWithCovariance
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/AccelWithCovariance
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PoseArray
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/InertiaStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Inertia
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/TwistStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Polygon
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Twist
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Point
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Transform
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PolygonStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PointStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/QuaternionStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/TwistWithCovarianceStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Pose2D
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Vector3
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PoseWithCovariance
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/WrenchStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/PoseWithCovarianceStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/AccelStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Wrench
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/AccelWithCovarianceStamped
+   :raw: tail
+
+.. ros:automessage:: geometry_msgs/Point32
+   :raw: tail

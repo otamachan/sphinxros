@@ -1,0 +1,29 @@
+razer_hydra
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: razer_hydra
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`razer_hydra/Hydra`
+* :ros:msg:`razer_hydra/HydraPaddle`
+* :ros:msg:`razer_hydra/HydraRaw`
+
+.. ros:automessage:: razer_hydra/Hydra
+   :raw: tail
+
+.. ros:automessage:: razer_hydra/HydraPaddle
+   :raw: tail
+
+.. ros:automessage:: razer_hydra/HydraRaw
+   :raw: tail

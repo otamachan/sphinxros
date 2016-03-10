@@ -1,0 +1,10 @@
+fanuc_lrmate200ic_moveit_plugins
+++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_lrmate200ic_moveit_plugins

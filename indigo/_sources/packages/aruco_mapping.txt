@@ -1,0 +1,21 @@
+aruco_mapping
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: aruco_mapping
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`aruco_mapping/ArucoMarker`
+
+.. ros:automessage:: aruco_mapping/ArucoMarker
+   :raw: tail

@@ -1,0 +1,21 @@
+nerian_sp1
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nerian_sp1
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nerian_sp1/StereoCameraInfo`
+
+.. ros:automessage:: nerian_sp1/StereoCameraInfo
+   :raw: tail

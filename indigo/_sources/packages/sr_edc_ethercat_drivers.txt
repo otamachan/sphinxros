@@ -1,0 +1,29 @@
+sr_edc_ethercat_drivers
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_edc_ethercat_drivers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`sr_edc_ethercat_drivers/MotorTrace`
+* :ros:msg:`sr_edc_ethercat_drivers/MotorTraceSample`
+* :ros:msg:`sr_edc_ethercat_drivers/ActuatorInfo`
+
+.. ros:automessage:: sr_edc_ethercat_drivers/MotorTrace
+   :raw: tail
+
+.. ros:automessage:: sr_edc_ethercat_drivers/MotorTraceSample
+   :raw: tail
+
+.. ros:automessage:: sr_edc_ethercat_drivers/ActuatorInfo
+   :raw: tail

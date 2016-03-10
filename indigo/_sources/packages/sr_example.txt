@@ -1,0 +1,10 @@
+sr_example
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_example

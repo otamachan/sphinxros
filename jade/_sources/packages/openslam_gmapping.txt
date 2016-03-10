@@ -1,0 +1,10 @@
+openslam_gmapping
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openslam_gmapping

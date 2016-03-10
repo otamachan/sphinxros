@@ -1,0 +1,69 @@
+control_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: control_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`control_msgs/JointControllerState`
+* :ros:msg:`control_msgs/GripperCommand`
+* :ros:msg:`control_msgs/JointTrajectoryControllerState`
+* :ros:msg:`control_msgs/JointTolerance`
+
+.. ros:automessage:: control_msgs/JointControllerState
+   :raw: tail
+
+.. ros:automessage:: control_msgs/GripperCommand
+   :raw: tail
+
+.. ros:automessage:: control_msgs/JointTrajectoryControllerState
+   :raw: tail
+
+.. ros:automessage:: control_msgs/JointTolerance
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`control_msgs/QueryCalibrationState`
+* :ros:srv:`control_msgs/QueryTrajectoryState`
+
+.. ros:autoservice:: control_msgs/QueryCalibrationState
+   :raw: tail
+
+.. ros:autoservice:: control_msgs/QueryTrajectoryState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`control_msgs/GripperCommand`
+* :ros:action:`control_msgs/SingleJointPosition`
+* :ros:action:`control_msgs/FollowJointTrajectory`
+* :ros:action:`control_msgs/JointTrajectory`
+* :ros:action:`control_msgs/PointHead`
+
+.. ros:autoaction:: control_msgs/GripperCommand
+   :raw: tail
+
+.. ros:autoaction:: control_msgs/SingleJointPosition
+   :raw: tail
+
+.. ros:autoaction:: control_msgs/FollowJointTrajectory
+   :raw: tail
+
+.. ros:autoaction:: control_msgs/JointTrajectory
+   :raw: tail
+
+.. ros:autoaction:: control_msgs/PointHead
+   :raw: tail

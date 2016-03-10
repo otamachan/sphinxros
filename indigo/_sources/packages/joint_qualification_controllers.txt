@@ -1,0 +1,65 @@
+joint_qualification_controllers
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: joint_qualification_controllers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`joint_qualification_controllers/CounterbalanceTestData`
+* :ros:msg:`joint_qualification_controllers/WristRollTurn`
+* :ros:msg:`joint_qualification_controllers/CBPositionData`
+* :ros:msg:`joint_qualification_controllers/CBRunData`
+* :ros:msg:`joint_qualification_controllers/RobotData`
+* :ros:msg:`joint_qualification_controllers/HysteresisData`
+* :ros:msg:`joint_qualification_controllers/HysteresisRun`
+* :ros:msg:`joint_qualification_controllers/ActuatorData`
+* :ros:msg:`joint_qualification_controllers/JointData`
+* :ros:msg:`joint_qualification_controllers/WristDiffData`
+* :ros:msg:`joint_qualification_controllers/HysteresisData2`
+* :ros:msg:`joint_qualification_controllers/JointPositionData`
+
+.. ros:automessage:: joint_qualification_controllers/CounterbalanceTestData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/WristRollTurn
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/CBPositionData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/CBRunData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/RobotData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/HysteresisData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/HysteresisRun
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/ActuatorData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/JointData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/WristDiffData
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/HysteresisData2
+   :raw: tail
+
+.. ros:automessage:: joint_qualification_controllers/JointPositionData
+   :raw: tail

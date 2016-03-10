@@ -1,0 +1,10 @@
+industrial_core
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: industrial_core

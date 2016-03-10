@@ -1,0 +1,65 @@
+posedetection_msgs
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: posedetection_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`posedetection_msgs/ImageFeature1D`
+* :ros:msg:`posedetection_msgs/Feature1D`
+* :ros:msg:`posedetection_msgs/ImageFeature0D`
+* :ros:msg:`posedetection_msgs/ObjectDetection`
+* :ros:msg:`posedetection_msgs/Curve1D`
+* :ros:msg:`posedetection_msgs/Feature0D`
+* :ros:msg:`posedetection_msgs/Object6DPose`
+
+.. ros:automessage:: posedetection_msgs/ImageFeature1D
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/Feature1D
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/ImageFeature0D
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/ObjectDetection
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/Curve1D
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/Feature0D
+   :raw: tail
+
+.. ros:automessage:: posedetection_msgs/Object6DPose
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`posedetection_msgs/Feature1DDetect`
+* :ros:srv:`posedetection_msgs/Detect`
+* :ros:srv:`posedetection_msgs/Feature0DDetect`
+* :ros:srv:`posedetection_msgs/TargetObj`
+
+.. ros:autoservice:: posedetection_msgs/Feature1DDetect
+   :raw: tail
+
+.. ros:autoservice:: posedetection_msgs/Detect
+   :raw: tail
+
+.. ros:autoservice:: posedetection_msgs/Feature0DDetect
+   :raw: tail
+
+.. ros:autoservice:: posedetection_msgs/TargetObj
+   :raw: tail

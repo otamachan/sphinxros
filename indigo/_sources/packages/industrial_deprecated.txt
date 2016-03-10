@@ -1,0 +1,10 @@
+industrial_deprecated
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: industrial_deprecated

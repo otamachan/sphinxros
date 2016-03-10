@@ -1,0 +1,61 @@
+ethercat_hardware
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ethercat_hardware
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ethercat_hardware/BoardInfo`
+* :ros:msg:`ethercat_hardware/RawFTData`
+* :ros:msg:`ethercat_hardware/MotorTrace`
+* :ros:msg:`ethercat_hardware/MotorTemperature`
+* :ros:msg:`ethercat_hardware/RawFTDataSample`
+* :ros:msg:`ethercat_hardware/MotorTraceSample`
+* :ros:msg:`ethercat_hardware/ActuatorInfo`
+
+.. ros:automessage:: ethercat_hardware/BoardInfo
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/RawFTData
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/MotorTrace
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/MotorTemperature
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/RawFTDataSample
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/MotorTraceSample
+   :raw: tail
+
+.. ros:automessage:: ethercat_hardware/ActuatorInfo
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`ethercat_hardware/SoftProcessorFirmwareRead`
+* :ros:srv:`ethercat_hardware/SoftProcessorFirmwareWrite`
+* :ros:srv:`ethercat_hardware/SoftProcessorReset`
+
+.. ros:autoservice:: ethercat_hardware/SoftProcessorFirmwareRead
+   :raw: tail
+
+.. ros:autoservice:: ethercat_hardware/SoftProcessorFirmwareWrite
+   :raw: tail
+
+.. ros:autoservice:: ethercat_hardware/SoftProcessorReset
+   :raw: tail

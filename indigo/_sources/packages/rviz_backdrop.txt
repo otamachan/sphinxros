@@ -1,0 +1,10 @@
+rviz_backdrop
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rviz_backdrop

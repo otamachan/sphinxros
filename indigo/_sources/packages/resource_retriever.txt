@@ -1,0 +1,10 @@
+resource_retriever
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: resource_retriever

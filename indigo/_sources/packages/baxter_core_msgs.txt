@@ -1,0 +1,137 @@
+baxter_core_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_core_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`baxter_core_msgs/DigitalIOState`
+* :ros:msg:`baxter_core_msgs/JointCommand`
+* :ros:msg:`baxter_core_msgs/EndEffectorCommand`
+* :ros:msg:`baxter_core_msgs/AnalogIOState`
+* :ros:msg:`baxter_core_msgs/EndpointStates`
+* :ros:msg:`baxter_core_msgs/EndEffectorState`
+* :ros:msg:`baxter_core_msgs/HeadState`
+* :ros:msg:`baxter_core_msgs/HeadPanCommand`
+* :ros:msg:`baxter_core_msgs/CameraControl`
+* :ros:msg:`baxter_core_msgs/CollisionAvoidanceState`
+* :ros:msg:`baxter_core_msgs/AnalogIOStates`
+* :ros:msg:`baxter_core_msgs/EndEffectorProperties`
+* :ros:msg:`baxter_core_msgs/URDFConfiguration`
+* :ros:msg:`baxter_core_msgs/NavigatorStates`
+* :ros:msg:`baxter_core_msgs/EndpointState`
+* :ros:msg:`baxter_core_msgs/AnalogOutputCommand`
+* :ros:msg:`baxter_core_msgs/AssemblyState`
+* :ros:msg:`baxter_core_msgs/CameraSettings`
+* :ros:msg:`baxter_core_msgs/RobustControllerStatus`
+* :ros:msg:`baxter_core_msgs/CollisionDetectionState`
+* :ros:msg:`baxter_core_msgs/AssemblyStates`
+* :ros:msg:`baxter_core_msgs/SEAJointState`
+* :ros:msg:`baxter_core_msgs/DigitalOutputCommand`
+* :ros:msg:`baxter_core_msgs/NavigatorState`
+* :ros:msg:`baxter_core_msgs/DigitalIOStates`
+
+.. ros:automessage:: baxter_core_msgs/DigitalIOState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/JointCommand
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/EndEffectorCommand
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/AnalogIOState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/EndpointStates
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/EndEffectorState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/HeadState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/HeadPanCommand
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/CameraControl
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/CollisionAvoidanceState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/AnalogIOStates
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/EndEffectorProperties
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/URDFConfiguration
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/NavigatorStates
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/EndpointState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/AnalogOutputCommand
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/AssemblyState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/CameraSettings
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/RobustControllerStatus
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/CollisionDetectionState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/AssemblyStates
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/SEAJointState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/DigitalOutputCommand
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/NavigatorState
+   :raw: tail
+
+.. ros:automessage:: baxter_core_msgs/DigitalIOStates
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`baxter_core_msgs/SolvePositionIK`
+* :ros:srv:`baxter_core_msgs/OpenCamera`
+* :ros:srv:`baxter_core_msgs/CloseCamera`
+* :ros:srv:`baxter_core_msgs/ListCameras`
+
+.. ros:autoservice:: baxter_core_msgs/SolvePositionIK
+   :raw: tail
+
+.. ros:autoservice:: baxter_core_msgs/OpenCamera
+   :raw: tail
+
+.. ros:autoservice:: baxter_core_msgs/CloseCamera
+   :raw: tail
+
+.. ros:autoservice:: baxter_core_msgs/ListCameras
+   :raw: tail

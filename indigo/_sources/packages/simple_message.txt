@@ -1,0 +1,10 @@
+simple_message
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: simple_message

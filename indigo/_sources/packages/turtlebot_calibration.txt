@@ -1,0 +1,21 @@
+turtlebot_calibration
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_calibration
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`turtlebot_calibration/ScanAngle`
+
+.. ros:automessage:: turtlebot_calibration/ScanAngle
+   :raw: tail

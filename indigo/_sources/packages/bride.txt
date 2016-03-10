@@ -1,0 +1,10 @@
+bride
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bride

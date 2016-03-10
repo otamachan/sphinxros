@@ -1,0 +1,10 @@
+jackal_desktop
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jackal_desktop

@@ -1,0 +1,10 @@
+designator_integration
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: designator_integration

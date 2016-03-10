@@ -1,0 +1,10 @@
+baxter_sdk
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_sdk

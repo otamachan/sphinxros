@@ -1,0 +1,10 @@
+agvs_control
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: agvs_control

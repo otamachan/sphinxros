@@ -1,0 +1,21 @@
+statistics_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: statistics_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`statistics_msgs/Stats1D`
+
+.. ros:automessage:: statistics_msgs/Stats1D
+   :raw: tail

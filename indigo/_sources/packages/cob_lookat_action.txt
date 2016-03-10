@@ -1,0 +1,21 @@
+cob_lookat_action
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_lookat_action
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`cob_lookat_action/LookAt`
+
+.. ros:autoaction:: cob_lookat_action/LookAt
+   :raw: tail

@@ -1,0 +1,37 @@
+mastering_ros_demo_pkg
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mastering_ros_demo_pkg
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mastering_ros_demo_pkg/demo_msg`
+
+.. ros:automessage:: mastering_ros_demo_pkg/demo_msg
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`mastering_ros_demo_pkg/demo_srv`
+
+.. ros:autoservice:: mastering_ros_demo_pkg/demo_srv
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`mastering_ros_demo_pkg/Demo_action`
+
+.. ros:autoaction:: mastering_ros_demo_pkg/Demo_action
+   :raw: tail

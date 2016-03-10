@@ -1,0 +1,10 @@
+checkerboard_detector
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: checkerboard_detector

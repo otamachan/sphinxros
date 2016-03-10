@@ -1,0 +1,165 @@
+ardrone_autonomy
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ardrone_autonomy
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ardrone_autonomy/navdata_watchdog`
+* :ros:msg:`ardrone_autonomy/matrix33`
+* :ros:msg:`ardrone_autonomy/Navdata`
+* :ros:msg:`ardrone_autonomy/navdata_hdvideo_stream`
+* :ros:msg:`ardrone_autonomy/navdata_raw_measures`
+* :ros:msg:`ardrone_autonomy/navdata_time`
+* :ros:msg:`ardrone_autonomy/navdata_gyros_offsets`
+* :ros:msg:`ardrone_autonomy/navdata_kalman_pressure`
+* :ros:msg:`ardrone_autonomy/navdata_demo`
+* :ros:msg:`ardrone_autonomy/navdata_zimmu_3000`
+* :ros:msg:`ardrone_autonomy/navdata_vision_of`
+* :ros:msg:`ardrone_autonomy/navdata_altitude`
+* :ros:msg:`ardrone_autonomy/navdata_references`
+* :ros:msg:`ardrone_autonomy/navdata_games`
+* :ros:msg:`ardrone_autonomy/navdata_pwm`
+* :ros:msg:`ardrone_autonomy/navdata_video_stream`
+* :ros:msg:`ardrone_autonomy/navdata_trims`
+* :ros:msg:`ardrone_autonomy/navdata_magneto`
+* :ros:msg:`ardrone_autonomy/navdata_wind_speed`
+* :ros:msg:`ardrone_autonomy/navdata_vision_detect`
+* :ros:msg:`ardrone_autonomy/navdata_rc_references`
+* :ros:msg:`ardrone_autonomy/navdata_adc_data_frame`
+* :ros:msg:`ardrone_autonomy/navdata_trackers_send`
+* :ros:msg:`ardrone_autonomy/navdata_vision_perf`
+* :ros:msg:`ardrone_autonomy/navdata_pressure_raw`
+* :ros:msg:`ardrone_autonomy/navdata_wifi`
+* :ros:msg:`ardrone_autonomy/navdata_vision_raw`
+* :ros:msg:`ardrone_autonomy/navdata_euler_angles`
+* :ros:msg:`ardrone_autonomy/vector31`
+* :ros:msg:`ardrone_autonomy/navdata_vision`
+* :ros:msg:`ardrone_autonomy/navdata_phys_measures`
+* :ros:msg:`ardrone_autonomy/vector21`
+
+.. ros:automessage:: ardrone_autonomy/navdata_watchdog
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/matrix33
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/Navdata
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_hdvideo_stream
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_raw_measures
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_time
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_gyros_offsets
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_kalman_pressure
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_demo
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_zimmu_3000
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_vision_of
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_altitude
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_references
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_games
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_pwm
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_video_stream
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_trims
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_magneto
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_wind_speed
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_vision_detect
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_rc_references
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_adc_data_frame
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_trackers_send
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_vision_perf
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_pressure_raw
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_wifi
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_vision_raw
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_euler_angles
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/vector31
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_vision
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/navdata_phys_measures
+   :raw: tail
+
+.. ros:automessage:: ardrone_autonomy/vector21
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`ardrone_autonomy/RecordEnable`
+* :ros:srv:`ardrone_autonomy/FlightAnim`
+* :ros:srv:`ardrone_autonomy/CamSelect`
+* :ros:srv:`ardrone_autonomy/LedAnim`
+
+.. ros:autoservice:: ardrone_autonomy/RecordEnable
+   :raw: tail
+
+.. ros:autoservice:: ardrone_autonomy/FlightAnim
+   :raw: tail
+
+.. ros:autoservice:: ardrone_autonomy/CamSelect
+   :raw: tail
+
+.. ros:autoservice:: ardrone_autonomy/LedAnim
+   :raw: tail

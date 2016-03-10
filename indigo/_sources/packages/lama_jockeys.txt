@@ -1,0 +1,29 @@
+lama_jockeys
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lama_jockeys
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`lama_jockeys/Navigate`
+* :ros:action:`lama_jockeys/Learn`
+* :ros:action:`lama_jockeys/Localize`
+
+.. ros:autoaction:: lama_jockeys/Navigate
+   :raw: tail
+
+.. ros:autoaction:: lama_jockeys/Learn
+   :raw: tail
+
+.. ros:autoaction:: lama_jockeys/Localize
+   :raw: tail

@@ -1,0 +1,10 @@
+fanuc_m430ia2f_moveit_config
+++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_m430ia2f_moveit_config

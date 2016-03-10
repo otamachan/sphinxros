@@ -1,0 +1,37 @@
+visp_hand2eye_calibration
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visp_hand2eye_calibration
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`visp_hand2eye_calibration/TransformArray`
+
+.. ros:automessage:: visp_hand2eye_calibration/TransformArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`visp_hand2eye_calibration/compute_effector_camera_quick`
+* :ros:srv:`visp_hand2eye_calibration/compute_effector_camera`
+* :ros:srv:`visp_hand2eye_calibration/reset`
+
+.. ros:autoservice:: visp_hand2eye_calibration/compute_effector_camera_quick
+   :raw: tail
+
+.. ros:autoservice:: visp_hand2eye_calibration/compute_effector_camera
+   :raw: tail
+
+.. ros:autoservice:: visp_hand2eye_calibration/reset
+   :raw: tail

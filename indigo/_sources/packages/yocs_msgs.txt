@@ -1,0 +1,97 @@
+yocs_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`yocs_msgs/Table`
+* :ros:msg:`yocs_msgs/Trajectory`
+* :ros:msg:`yocs_msgs/WallList`
+* :ros:msg:`yocs_msgs/TableList`
+* :ros:msg:`yocs_msgs/ARPair`
+* :ros:msg:`yocs_msgs/ARPairList`
+* :ros:msg:`yocs_msgs/Column`
+* :ros:msg:`yocs_msgs/Wall`
+* :ros:msg:`yocs_msgs/TrajectoryList`
+* :ros:msg:`yocs_msgs/WaypointList`
+* :ros:msg:`yocs_msgs/NavigationControlStatus`
+* :ros:msg:`yocs_msgs/ColumnList`
+* :ros:msg:`yocs_msgs/NavigationControl`
+* :ros:msg:`yocs_msgs/Waypoint`
+
+.. ros:automessage:: yocs_msgs/Table
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/Trajectory
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/WallList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/TableList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/ARPair
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/ARPairList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/Column
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/Wall
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/TrajectoryList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/WaypointList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/NavigationControlStatus
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/ColumnList
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/NavigationControl
+   :raw: tail
+
+.. ros:automessage:: yocs_msgs/Waypoint
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`yocs_msgs/WaypointListService`
+
+.. ros:autoservice:: yocs_msgs/WaypointListService
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`yocs_msgs/DockingInteractor`
+* :ros:action:`yocs_msgs/NavigateTo`
+* :ros:action:`yocs_msgs/Localize`
+
+.. ros:autoaction:: yocs_msgs/DockingInteractor
+   :raw: tail
+
+.. ros:autoaction:: yocs_msgs/NavigateTo
+   :raw: tail
+
+.. ros:autoaction:: yocs_msgs/Localize
+   :raw: tail

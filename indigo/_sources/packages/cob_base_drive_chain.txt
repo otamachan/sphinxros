@@ -1,0 +1,25 @@
+cob_base_drive_chain
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_base_drive_chain
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_base_drive_chain/ElmoRecorderConfig`
+* :ros:srv:`cob_base_drive_chain/ElmoRecorderReadout`
+
+.. ros:autoservice:: cob_base_drive_chain/ElmoRecorderConfig
+   :raw: tail
+
+.. ros:autoservice:: cob_base_drive_chain/ElmoRecorderReadout
+   :raw: tail

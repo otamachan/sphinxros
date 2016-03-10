@@ -1,0 +1,25 @@
+multi_interface_roam
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multi_interface_roam
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`multi_interface_roam/InterfaceStatus`
+* :ros:msg:`multi_interface_roam/MultiInterfaceStatus`
+
+.. ros:automessage:: multi_interface_roam/InterfaceStatus
+   :raw: tail
+
+.. ros:automessage:: multi_interface_roam/MultiInterfaceStatus
+   :raw: tail

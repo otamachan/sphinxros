@@ -1,0 +1,29 @@
+myo_ros
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: myo_ros
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`myo_ros/Status`
+* :ros:msg:`myo_ros/Gesture`
+* :ros:msg:`myo_ros/Vibration`
+
+.. ros:automessage:: myo_ros/Status
+   :raw: tail
+
+.. ros:automessage:: myo_ros/Gesture
+   :raw: tail
+
+.. ros:automessage:: myo_ros/Vibration
+   :raw: tail

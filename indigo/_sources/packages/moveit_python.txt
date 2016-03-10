@@ -1,0 +1,10 @@
+moveit_python
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_python

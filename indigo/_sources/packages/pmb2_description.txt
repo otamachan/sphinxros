@@ -1,0 +1,10 @@
+pmb2_description
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pmb2_description

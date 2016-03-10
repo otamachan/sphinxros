@@ -1,0 +1,10 @@
+mrpt_tutorials
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrpt_tutorials

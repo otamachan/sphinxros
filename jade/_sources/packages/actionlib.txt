@@ -1,0 +1,29 @@
+actionlib
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: actionlib
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`actionlib/TwoInts`
+* :ros:action:`actionlib/Test`
+* :ros:action:`actionlib/TestRequest`
+
+.. ros:autoaction:: actionlib/TwoInts
+   :raw: tail
+
+.. ros:autoaction:: actionlib/Test
+   :raw: tail
+
+.. ros:autoaction:: actionlib/TestRequest
+   :raw: tail

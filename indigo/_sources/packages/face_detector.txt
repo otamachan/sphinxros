@@ -1,0 +1,21 @@
+face_detector
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: face_detector
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`face_detector/FaceDetector`
+
+.. ros:autoaction:: face_detector/FaceDetector
+   :raw: tail

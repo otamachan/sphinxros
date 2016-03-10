@@ -1,0 +1,29 @@
+cob_srvs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_srvs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_srvs/SetFloat`
+* :ros:srv:`cob_srvs/SetString`
+* :ros:srv:`cob_srvs/SetInt`
+
+.. ros:autoservice:: cob_srvs/SetFloat
+   :raw: tail
+
+.. ros:autoservice:: cob_srvs/SetString
+   :raw: tail
+
+.. ros:autoservice:: cob_srvs/SetInt
+   :raw: tail

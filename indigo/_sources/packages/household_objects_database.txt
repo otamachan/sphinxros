@@ -1,0 +1,10 @@
+household_objects_database
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: household_objects_database

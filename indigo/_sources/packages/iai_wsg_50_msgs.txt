@@ -1,0 +1,49 @@
+iai_wsg_50_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_wsg_50_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`iai_wsg_50_msgs/Status`
+* :ros:msg:`iai_wsg_50_msgs/SpeedCmd`
+* :ros:msg:`iai_wsg_50_msgs/Cmd`
+* :ros:msg:`iai_wsg_50_msgs/PositionCmd`
+
+.. ros:automessage:: iai_wsg_50_msgs/Status
+   :raw: tail
+
+.. ros:automessage:: iai_wsg_50_msgs/SpeedCmd
+   :raw: tail
+
+.. ros:automessage:: iai_wsg_50_msgs/Cmd
+   :raw: tail
+
+.. ros:automessage:: iai_wsg_50_msgs/PositionCmd
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`iai_wsg_50_msgs/Conf`
+* :ros:srv:`iai_wsg_50_msgs/Move`
+* :ros:srv:`iai_wsg_50_msgs/Incr`
+
+.. ros:autoservice:: iai_wsg_50_msgs/Conf
+   :raw: tail
+
+.. ros:autoservice:: iai_wsg_50_msgs/Move
+   :raw: tail
+
+.. ros:autoservice:: iai_wsg_50_msgs/Incr
+   :raw: tail

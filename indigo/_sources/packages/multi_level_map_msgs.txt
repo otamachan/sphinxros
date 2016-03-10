@@ -1,0 +1,41 @@
+multi_level_map_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multi_level_map_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`multi_level_map_msgs/MultiLevelMapPoint`
+* :ros:msg:`multi_level_map_msgs/MultiLevelMapLink`
+* :ros:msg:`multi_level_map_msgs/LevelMetaData`
+* :ros:msg:`multi_level_map_msgs/MultiLevelMapData`
+
+.. ros:automessage:: multi_level_map_msgs/MultiLevelMapPoint
+   :raw: tail
+
+.. ros:automessage:: multi_level_map_msgs/MultiLevelMapLink
+   :raw: tail
+
+.. ros:automessage:: multi_level_map_msgs/LevelMetaData
+   :raw: tail
+
+.. ros:automessage:: multi_level_map_msgs/MultiLevelMapData
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`multi_level_map_msgs/ChangeCurrentLevel`
+
+.. ros:autoservice:: multi_level_map_msgs/ChangeCurrentLevel
+   :raw: tail

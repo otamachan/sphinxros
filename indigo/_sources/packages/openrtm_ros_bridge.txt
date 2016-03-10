@@ -1,0 +1,45 @@
+openrtm_ros_bridge
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openrtm_ros_bridge
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`openrtm_ros_bridge/SimpleService_MyService`
+
+.. ros:automessage:: openrtm_ros_bridge/SimpleService_MyService
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`openrtm_ros_bridge/SimpleService_MyService_get_echo_history`
+* :ros:srv:`openrtm_ros_bridge/SimpleService_MyService_echo`
+* :ros:srv:`openrtm_ros_bridge/SimpleService_MyService_get_value_history`
+* :ros:srv:`openrtm_ros_bridge/SimpleService_MyService_get_value`
+* :ros:srv:`openrtm_ros_bridge/SimpleService_MyService_set_value`
+
+.. ros:autoservice:: openrtm_ros_bridge/SimpleService_MyService_get_echo_history
+   :raw: tail
+
+.. ros:autoservice:: openrtm_ros_bridge/SimpleService_MyService_echo
+   :raw: tail
+
+.. ros:autoservice:: openrtm_ros_bridge/SimpleService_MyService_get_value_history
+   :raw: tail
+
+.. ros:autoservice:: openrtm_ros_bridge/SimpleService_MyService_get_value
+   :raw: tail
+
+.. ros:autoservice:: openrtm_ros_bridge/SimpleService_MyService_set_value
+   :raw: tail

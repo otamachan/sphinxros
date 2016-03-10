@@ -1,0 +1,10 @@
+controller_manager_tests
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: controller_manager_tests

@@ -1,0 +1,10 @@
+vs060_moveit_config
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: vs060_moveit_config

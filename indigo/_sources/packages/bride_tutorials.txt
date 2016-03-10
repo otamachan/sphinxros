@@ -1,0 +1,29 @@
+bride_tutorials
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bride_tutorials
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bride_tutorials/Dummy`
+
+.. ros:automessage:: bride_tutorials/Dummy
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`bride_tutorials/TriggerPublish`
+
+.. ros:autoaction:: bride_tutorials/TriggerPublish
+   :raw: tail

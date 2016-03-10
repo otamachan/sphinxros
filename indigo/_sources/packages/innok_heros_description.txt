@@ -1,0 +1,10 @@
+innok_heros_description
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: innok_heros_description

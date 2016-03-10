@@ -1,0 +1,10 @@
+ros_control
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_control

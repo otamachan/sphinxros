@@ -1,0 +1,10 @@
+rtt_diagnostic_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rtt_diagnostic_msgs

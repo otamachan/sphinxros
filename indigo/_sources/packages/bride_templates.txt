@@ -1,0 +1,10 @@
+bride_templates
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bride_templates

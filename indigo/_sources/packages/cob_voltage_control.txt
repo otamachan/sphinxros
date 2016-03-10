@@ -1,0 +1,10 @@
+cob_voltage_control
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_voltage_control

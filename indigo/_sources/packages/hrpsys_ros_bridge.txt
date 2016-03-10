@@ -1,0 +1,1025 @@
+hrpsys_ros_bridge
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hrpsys_ros_bridge
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_Monitoring`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_Profile`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_OGMap3DService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_Fsm`
+* :ros:msg:`hrpsys_ros_bridge/RTC_FsmObject`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_TorqueFilterService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_FsmParticipantAction`
+* :ros:msg:`hrpsys_ros_bridge/RTC_LightweightRTObject`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_forcemomentOffsetParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_SupportPolygonVertices`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_SupportLegState`
+* :ros:msg:`hrpsys_ros_bridge/RTC_TimedDoubleSeq`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_MultiModeObject`
+* :ros:msg:`hrpsys_ros_bridge/RTC_PortService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_SoftErrorLimiterService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_EmergencyCheckMode`
+* :ros:msg:`hrpsys_ros_bridge/RTC_ModeCapable`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_DetectorMode`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StateHolderService_Command`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService`
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_Organization`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_Footstep`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ServoControllerService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_StepParams`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService_KFAlgorithm`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_DataLoggerService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_interpolationMode`
+* :ros:msg:`hrpsys_ros_bridge/RTC_DataFlowComponent`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_FootstepParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_ControllerMode`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_RobotState2`
+* :ros:msg:`hrpsys_ros_bridge/RTC_Mode`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_NullService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_OrbitType`
+* :ros:msg:`hrpsys_ros_bridge/ContactStateStamped`
+* :ros:msg:`hrpsys_ros_bridge/ContactStatesStamped`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_BatteryState`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ThermoLimiterService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_OGMap3D`
+* :ros:msg:`hrpsys_ros_bridge/RTC_Size3D`
+* :ros:msg:`hrpsys_ros_bridge/RTC_MultiModeComponentAction`
+* :ros:msg:`hrpsys_ros_bridge/MotorStates`
+* :ros:msg:`hrpsys_ros_bridge/RTC_ComponentAction`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_objectTurnaroundDetectorParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_TimeKeeperService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_Footsteps`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService`
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_Configuration`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService_KalmanFilterParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_VirtualForceSensorService`
+* :ros:msg:`hrpsys_ros_bridge/Img_CameraCaptureService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_DataFlowComponentAction`
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_SDOSystemElement`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StateHolderService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_ComponentProfile`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_stParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AABB`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_RobotState`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_AutoBalancerParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_tlParam`
+* :ros:msg:`hrpsys_ros_bridge/RTC_ExecutionContextService`
+* :ros:msg:`hrpsys_ros_bridge/OpenRTM_DataFlowComponent`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_impedanceParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_ControllerMode`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_TwoDimensionVertex`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_WavPlayerService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_ExecutionContext`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_SwitchStatus`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_FsmParticipant`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_GaitGeneratorParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_UseForceMode`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_torqueControllerParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenRTM_ExtTrigExecutionContextService`
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_SDOService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_GraspControllerService`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_EmergencyStopperParam`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_ControllerMode`
+* :ros:msg:`hrpsys_ros_bridge/RTC_Point3D`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_StabilizerService_STAlgorithm`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_StepParam`
+* :ros:msg:`hrpsys_ros_bridge/RTC_Time`
+* :ros:msg:`hrpsys_ros_bridge/SDOPackage_SDO`
+* :ros:msg:`hrpsys_ros_bridge/RTC_RTObject`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService`
+* :ros:msg:`hrpsys_ros_bridge/RTC_FsmService`
+* :ros:msg:`hrpsys_ros_bridge/ContactState`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_CollisionState`
+* :ros:msg:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService`
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_Monitoring
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_Profile
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_OGMap3DService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_Fsm
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_FsmObject
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_TorqueFilterService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_FsmParticipantAction
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_LightweightRTObject
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_forcemomentOffsetParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_SupportPolygonVertices
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_SupportLegState
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_TimedDoubleSeq
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_MultiModeObject
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_PortService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_SoftErrorLimiterService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_EmergencyCheckMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_ModeCapable
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_DetectorMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StateHolderService_Command
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_Organization
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_Footstep
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ServoControllerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_StepParams
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService_KFAlgorithm
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_DataLoggerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_interpolationMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_DataFlowComponent
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_FootstepParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_ControllerMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_RobotState2
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_Mode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_NullService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_OrbitType
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/ContactStateStamped
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/ContactStatesStamped
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_BatteryState
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ThermoLimiterService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_OGMap3D
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_Size3D
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_MultiModeComponentAction
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/MotorStates
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_ComponentAction
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_objectTurnaroundDetectorParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_TimeKeeperService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_Footsteps
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_Configuration
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService_KalmanFilterParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_VirtualForceSensorService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/Img_CameraCaptureService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_DataFlowComponentAction
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_SDOSystemElement
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StateHolderService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_ComponentProfile
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_stParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AABB
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_RobotState
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_AutoBalancerParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_tlParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_ExecutionContextService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenRTM_DataFlowComponent
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_impedanceParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_ControllerMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_TwoDimensionVertex
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_WavPlayerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_ExecutionContext
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_SwitchStatus
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_FsmParticipant
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_GaitGeneratorParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_UseForceMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_torqueControllerParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenRTM_ExtTrigExecutionContextService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_SDOService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_GraspControllerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_EmergencyStopperParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_ControllerMode
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_Point3D
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_StabilizerService_STAlgorithm
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_StepParam
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_Time
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/SDOPackage_SDO
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_RTObject
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/RTC_FsmService
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/ContactState
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_CollisionState
+   :raw: tail
+
+.. ros:automessage:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getReferencePose`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getSpeed`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setInterpolationMode`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_setReset`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SoftErrorLimiterService_setServoErrorLimit`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_readDigitalInput`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StateHolderService_goActual`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setBasePos`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_getProfile`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_NullService_echo`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_enableMultipleTorqueControllers`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setFootStepsWithParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_servoOff`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceFull`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_setServoErrorLimit`
+* :ros:srv:`hrpsys_ros_bridge/Img_CameraCaptureService_start_continuous`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_enableTorqueController`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_getStatus`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_stopImpedanceController`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_setObjectTurnaroundDetectorParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_getEmergencyStopperParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getObjectForcesMoments`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_waitFootStepsEarly`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getTorque`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getTemperature`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearJointAnglesOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_enableCollisionDetection`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_stopMultipleTorqueControls`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_startAutoBalancer`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_getForceMomentOffsetParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setGaitGeneratorParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getVoltage`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getMaxTorque`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goStop`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_readDigitalOutput`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_resetProfile`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_playPatternOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_waitInterpolationOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_DataLoggerService_add`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getGaitGeneratorParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_lengthDigitalInput`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_setEmergencyStopperParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setAutoBalancerParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_playPattern`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequence`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_WavPlayerService_playWav`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StabilizerService_setParameter`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StabilizerService_stopStabilizer`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_startTorqueControl`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAngle`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_servo`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_DataLoggerService_clear`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_lengthDigitalOutput`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_OGMap3DService_save`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_disableMultipleTorqueControllers`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setMultipleReferenceTorques`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_loadPattern`
+* :ros:srv:`hrpsys_ros_bridge/Img_CameraCaptureService_stop_continuous`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearNoWait`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setMaxIKIteration`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_calibrateInertiaSensor`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_stopTorqueControl`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService_setKalmanFilterParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueFilterService_dummy`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_addJointGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goPos`
+* :ros:srv:`hrpsys_ros_bridge/Img_CameraCaptureService_take_one_frame`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_writeDigitalOutputWithMask`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_loadForceMomentOffsetParams`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_writeDigitalOutput`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_stopMotion`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_adjustFootSteps`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_removeJointGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_waitImpedanceControllerTransition`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_GraspControllerService_stopGrasp`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StateHolderService_getCommand`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StabilizerService_startStabilizer`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_selectBaseLink`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAngles`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_GraspControllerService_startGrasp`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getRemainingFootstepSequence`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_getComponentProfile`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setMaxIKError`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getImpedanceControllerParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_checkObjectTurnaroundDetection`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_releaseMotion`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clear`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setInitialState`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_setImpedanceControllerParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TimeKeeperService_sleep`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goVelocity`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_removeJointGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setBaseRpy`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_getStatus2`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_stopImpedanceControllerNoWait`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getAutoBalancerParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_WavPlayerService_playWavNoWait`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_addJointGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceWithMask`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_disableCollisionDetection`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setTargetPose`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StabilizerService_getParameter`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_getParameter`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_isEmpty`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getJointAngle`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_setForceMomentOffsetParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_power`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setZmp`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesWithMask`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_VirtualForceSensorService_removeVirtualForceSensorOffset`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getCurrentPose`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_DataLoggerService_save`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_StabilizerService_dummy`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_OGMap3DService_clear`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getObjectTurnaroundDetectorParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAnglesOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_stopAutoBalancer`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setTorqueControllerParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getRelativeCurrentPosition`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setReferenceTorque`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_waitInterpolation`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_getCollisionStatus`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startImpedanceController`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setFootSteps`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService_getKalmanFilterParam`
+* :ros:srv:`hrpsys_ros_bridge/SetSensorTransformation`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_OGMap3DService_getOGMap3D`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getDuration`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_KalmanFilterService_resetKalmanFilterState`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_setServoGainPercentage`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_setParameter`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_addJointGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_emergencyStop`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_waitFootSteps`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_initializeJointAngle`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_releaseEmergencyStop`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_servoOn`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RobotHardwareService_removeForceSensorOffset`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearJointAngles`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearOfGroup`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startImpedanceControllerNoWait`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setWrenches`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_setMaxTorque`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_DataLoggerService_maxLength`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAngle`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_disableTorqueController`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAngles`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getFootstepParam`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_TorqueControllerService_startMultipleTorqueControls`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_dumpForceMomentOffsetParams`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startObjectTurnaroundDetection`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_setTolerance`
+* :ros:srv:`hrpsys_ros_bridge/OpenHRP_ServoControllerService_getJointAngles`
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getReferencePose
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getSpeed
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setInterpolationMode
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_setReset
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SoftErrorLimiterService_setServoErrorLimit
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_readDigitalInput
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StateHolderService_goActual
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setBasePos
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_getProfile
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_NullService_echo
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_enableMultipleTorqueControllers
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setFootStepsWithParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_servoOff
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceFull
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_setServoErrorLimit
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/Img_CameraCaptureService_start_continuous
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_enableTorqueController
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_getStatus
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_stopImpedanceController
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_setObjectTurnaroundDetectorParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_getEmergencyStopperParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getObjectForcesMoments
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_waitFootStepsEarly
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getTorque
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getTemperature
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearJointAnglesOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_enableCollisionDetection
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_stopMultipleTorqueControls
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_startAutoBalancer
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_getForceMomentOffsetParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setGaitGeneratorParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getVoltage
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getMaxTorque
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goStop
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_readDigitalOutput
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_resetProfile
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_playPatternOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_waitInterpolationOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_DataLoggerService_add
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getGaitGeneratorParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_lengthDigitalInput
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_setEmergencyStopperParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setAutoBalancerParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_playPattern
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequence
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_WavPlayerService_playWav
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StabilizerService_setParameter
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StabilizerService_stopStabilizer
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_startTorqueControl
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAngle
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_servo
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_DataLoggerService_clear
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_lengthDigitalOutput
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_OGMap3DService_save
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_disableMultipleTorqueControllers
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setMultipleReferenceTorques
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_loadPattern
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/Img_CameraCaptureService_stop_continuous
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearNoWait
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setMaxIKIteration
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_calibrateInertiaSensor
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_stopTorqueControl
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService_setKalmanFilterParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueFilterService_dummy
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_addJointGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goPos
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/Img_CameraCaptureService_take_one_frame
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_writeDigitalOutputWithMask
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_loadForceMomentOffsetParams
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_writeDigitalOutput
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_stopMotion
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_adjustFootSteps
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_removeJointGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_waitImpedanceControllerTransition
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_GraspControllerService_stopGrasp
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StateHolderService_getCommand
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StabilizerService_startStabilizer
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_selectBaseLink
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAngles
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_GraspControllerService_startGrasp
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getRemainingFootstepSequence
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ExecutionProfileService_getComponentProfile
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setMaxIKError
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getImpedanceControllerParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_checkObjectTurnaroundDetection
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_EmergencyStopperService_releaseMotion
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clear
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setInitialState
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_setImpedanceControllerParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TimeKeeperService_sleep
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_goVelocity
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_removeJointGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setBaseRpy
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_getStatus2
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_stopImpedanceControllerNoWait
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getAutoBalancerParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_WavPlayerService_playWavNoWait
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_addJointGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesSequenceWithMask
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_disableCollisionDetection
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setTargetPose
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StabilizerService_getParameter
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_getParameter
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_isEmpty
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getJointAngle
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_setForceMomentOffsetParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_power
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setZmp
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAnglesWithMask
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_VirtualForceSensorService_removeVirtualForceSensorOffset
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getCurrentPose
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_DataLoggerService_save
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_StabilizerService_dummy
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_OGMap3DService_clear
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_getObjectTurnaroundDetectorParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAnglesOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_stopAutoBalancer
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setTorqueControllerParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ForwardKinematicsService_getRelativeCurrentPosition
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_setReferenceTorque
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_waitInterpolation
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_getCollisionStatus
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startImpedanceController
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_setFootSteps
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService_getKalmanFilterParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/SetSensorTransformation
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_OGMap3DService_getOGMap3D
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getDuration
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_KalmanFilterService_resetKalmanFilterState
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_setServoGainPercentage
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ThermoLimiterService_setParameter
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_addJointGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_emergencyStop
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_waitFootSteps
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_initializeJointAngle
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_releaseEmergencyStop
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_servoOn
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RobotHardwareService_removeForceSensorOffset
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearJointAngles
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_clearOfGroup
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startImpedanceControllerNoWait
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setWrenches
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_setMaxTorque
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_DataLoggerService_maxLength
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_setJointAngle
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_disableTorqueController
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_SequencePlayerService_setJointAngles
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_AutoBalancerService_getFootstepParam
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_TorqueControllerService_startMultipleTorqueControls
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_RemoveForceSensorLinkOffsetService_dumpForceMomentOffsetParams
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ImpedanceControllerService_startObjectTurnaroundDetection
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_CollisionDetectorService_setTolerance
+   :raw: tail
+
+.. ros:autoservice:: hrpsys_ros_bridge/OpenHRP_ServoControllerService_getJointAngles
+   :raw: tail

@@ -1,0 +1,10 @@
+laptop_battery_monitor
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: laptop_battery_monitor

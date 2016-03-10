@@ -1,0 +1,10 @@
+cob_controller_configuration_gazebo
++++++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_controller_configuration_gazebo

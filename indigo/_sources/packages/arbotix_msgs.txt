@@ -1,0 +1,45 @@
+arbotix_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: arbotix_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`arbotix_msgs/Digital`
+* :ros:msg:`arbotix_msgs/Analog`
+
+.. ros:automessage:: arbotix_msgs/Digital
+   :raw: tail
+
+.. ros:automessage:: arbotix_msgs/Analog
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`arbotix_msgs/Relax`
+* :ros:srv:`arbotix_msgs/Enable`
+* :ros:srv:`arbotix_msgs/SetupChannel`
+* :ros:srv:`arbotix_msgs/SetSpeed`
+
+.. ros:autoservice:: arbotix_msgs/Relax
+   :raw: tail
+
+.. ros:autoservice:: arbotix_msgs/Enable
+   :raw: tail
+
+.. ros:autoservice:: arbotix_msgs/SetupChannel
+   :raw: tail
+
+.. ros:autoservice:: arbotix_msgs/SetSpeed
+   :raw: tail

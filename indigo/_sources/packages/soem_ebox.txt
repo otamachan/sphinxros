@@ -1,0 +1,33 @@
+soem_ebox
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: soem_ebox
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`soem_ebox/EBOXPWM`
+* :ros:msg:`soem_ebox/EBOXDigital`
+* :ros:msg:`soem_ebox/EBOXOut`
+* :ros:msg:`soem_ebox/EBOXAnalog`
+
+.. ros:automessage:: soem_ebox/EBOXPWM
+   :raw: tail
+
+.. ros:automessage:: soem_ebox/EBOXDigital
+   :raw: tail
+
+.. ros:automessage:: soem_ebox/EBOXOut
+   :raw: tail
+
+.. ros:automessage:: soem_ebox/EBOXAnalog
+   :raw: tail

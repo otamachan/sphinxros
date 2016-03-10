@@ -1,0 +1,10 @@
+pr2_mannequin_mode
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_mannequin_mode

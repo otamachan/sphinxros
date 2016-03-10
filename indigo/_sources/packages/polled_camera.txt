@@ -1,0 +1,21 @@
+polled_camera
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: polled_camera
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`polled_camera/GetPolledImage`
+
+.. ros:autoservice:: polled_camera/GetPolledImage
+   :raw: tail

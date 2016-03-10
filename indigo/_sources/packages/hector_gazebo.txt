@@ -1,0 +1,10 @@
+hector_gazebo
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_gazebo

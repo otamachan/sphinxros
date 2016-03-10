@@ -1,0 +1,10 @@
+pr2_ps3_joystick_app
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_ps3_joystick_app

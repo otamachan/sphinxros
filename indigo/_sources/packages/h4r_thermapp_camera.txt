@@ -1,0 +1,10 @@
+h4r_thermapp_camera
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: h4r_thermapp_camera

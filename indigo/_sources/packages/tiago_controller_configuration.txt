@@ -1,0 +1,10 @@
+tiago_controller_configuration
+++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: tiago_controller_configuration

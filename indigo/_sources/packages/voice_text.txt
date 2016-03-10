@@ -1,0 +1,10 @@
+voice_text
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: voice_text

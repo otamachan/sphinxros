@@ -1,0 +1,10 @@
+message_generation
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: message_generation

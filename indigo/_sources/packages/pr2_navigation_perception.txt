@@ -1,0 +1,10 @@
+pr2_navigation_perception
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_navigation_perception

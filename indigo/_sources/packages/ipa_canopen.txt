@@ -1,0 +1,10 @@
+ipa_canopen
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ipa_canopen

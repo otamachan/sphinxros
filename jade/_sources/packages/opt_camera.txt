@@ -1,0 +1,10 @@
+opt_camera
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: opt_camera

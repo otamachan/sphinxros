@@ -1,0 +1,10 @@
+fanuc_m10ia_moveit_config
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_m10ia_moveit_config

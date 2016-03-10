@@ -1,0 +1,10 @@
+roboteq_diagnostics
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roboteq_diagnostics

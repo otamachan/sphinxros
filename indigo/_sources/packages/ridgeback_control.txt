@@ -1,0 +1,10 @@
+ridgeback_control
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ridgeback_control

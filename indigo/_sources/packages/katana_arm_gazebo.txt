@@ -1,0 +1,10 @@
+katana_arm_gazebo
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: katana_arm_gazebo

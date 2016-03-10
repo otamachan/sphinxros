@@ -1,0 +1,10 @@
+world_item_observer
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: world_item_observer

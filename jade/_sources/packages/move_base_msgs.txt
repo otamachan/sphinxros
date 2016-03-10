@@ -1,0 +1,21 @@
+move_base_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: move_base_msgs
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`move_base_msgs/MoveBase`
+
+.. ros:autoaction:: move_base_msgs/MoveBase
+   :raw: tail

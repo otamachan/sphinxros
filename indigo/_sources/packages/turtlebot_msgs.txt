@@ -1,0 +1,33 @@
+turtlebot_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`turtlebot_msgs/PanoramaImg`
+
+.. ros:automessage:: turtlebot_msgs/PanoramaImg
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`turtlebot_msgs/SetFollowState`
+* :ros:srv:`turtlebot_msgs/TakePanorama`
+
+.. ros:autoservice:: turtlebot_msgs/SetFollowState
+   :raw: tail
+
+.. ros:autoservice:: turtlebot_msgs/TakePanorama
+   :raw: tail

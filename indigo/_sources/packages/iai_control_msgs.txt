@@ -1,0 +1,49 @@
+iai_control_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_control_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`iai_control_msgs/CartGoal`
+* :ros:msg:`iai_control_msgs/MultiJointVelocityImpedanceState`
+* :ros:msg:`iai_control_msgs/MultiJointVelocityImpedanceCommand`
+* :ros:msg:`iai_control_msgs/JointLimits`
+* :ros:msg:`iai_control_msgs/MultiJointVelocityCommand`
+* :ros:msg:`iai_control_msgs/CartState`
+
+.. ros:automessage:: iai_control_msgs/CartGoal
+   :raw: tail
+
+.. ros:automessage:: iai_control_msgs/MultiJointVelocityImpedanceState
+   :raw: tail
+
+.. ros:automessage:: iai_control_msgs/MultiJointVelocityImpedanceCommand
+   :raw: tail
+
+.. ros:automessage:: iai_control_msgs/JointLimits
+   :raw: tail
+
+.. ros:automessage:: iai_control_msgs/MultiJointVelocityCommand
+   :raw: tail
+
+.. ros:automessage:: iai_control_msgs/CartState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`iai_control_msgs/PTU`
+
+.. ros:autoaction:: iai_control_msgs/PTU
+   :raw: tail

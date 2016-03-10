@@ -1,0 +1,10 @@
+sr_gui_change_muscle_controllers
+++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_gui_change_muscle_controllers

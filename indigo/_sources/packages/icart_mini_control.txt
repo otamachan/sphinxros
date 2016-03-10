@@ -1,0 +1,10 @@
+icart_mini_control
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: icart_mini_control

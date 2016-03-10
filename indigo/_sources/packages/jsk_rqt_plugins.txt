@@ -1,0 +1,21 @@
+jsk_rqt_plugins
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_rqt_plugins
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`jsk_rqt_plugins/YesNo`
+
+.. ros:autoservice:: jsk_rqt_plugins/YesNo
+   :raw: tail

@@ -1,0 +1,10 @@
+common_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: common_msgs

@@ -1,0 +1,10 @@
+ubiquity_launches
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ubiquity_launches

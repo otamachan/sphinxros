@@ -1,0 +1,10 @@
+katana_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: katana_description

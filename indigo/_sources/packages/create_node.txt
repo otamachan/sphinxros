@@ -1,0 +1,53 @@
+create_node
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: create_node
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`create_node/RoombaSensorState`
+* :ros:msg:`create_node/RawTurtlebotSensorState`
+* :ros:msg:`create_node/Turtle`
+* :ros:msg:`create_node/BatteryState`
+* :ros:msg:`create_node/Drive`
+* :ros:msg:`create_node/TurtlebotSensorState`
+
+.. ros:automessage:: create_node/RoombaSensorState
+   :raw: tail
+
+.. ros:automessage:: create_node/RawTurtlebotSensorState
+   :raw: tail
+
+.. ros:automessage:: create_node/Turtle
+   :raw: tail
+
+.. ros:automessage:: create_node/BatteryState
+   :raw: tail
+
+.. ros:automessage:: create_node/Drive
+   :raw: tail
+
+.. ros:automessage:: create_node/TurtlebotSensorState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`create_node/SetTurtlebotMode`
+* :ros:srv:`create_node/SetDigitalOutputs`
+
+.. ros:autoservice:: create_node/SetTurtlebotMode
+   :raw: tail
+
+.. ros:autoservice:: create_node/SetDigitalOutputs
+   :raw: tail

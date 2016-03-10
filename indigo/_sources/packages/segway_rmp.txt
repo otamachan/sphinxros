@@ -1,0 +1,25 @@
+segway_rmp
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: segway_rmp
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`segway_rmp/SegwayStatus`
+* :ros:msg:`segway_rmp/SegwayStatusStamped`
+
+.. ros:automessage:: segway_rmp/SegwayStatus
+   :raw: tail
+
+.. ros:automessage:: segway_rmp/SegwayStatusStamped
+   :raw: tail

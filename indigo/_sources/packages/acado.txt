@@ -1,0 +1,10 @@
+acado
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: acado

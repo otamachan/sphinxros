@@ -1,0 +1,65 @@
+jsk_gui_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_gui_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_gui_msgs/DeviceSensor`
+* :ros:msg:`jsk_gui_msgs/Tablet`
+* :ros:msg:`jsk_gui_msgs/Touch`
+* :ros:msg:`jsk_gui_msgs/Gravity`
+* :ros:msg:`jsk_gui_msgs/TouchEvent`
+* :ros:msg:`jsk_gui_msgs/VoiceMessage`
+* :ros:msg:`jsk_gui_msgs/AndroidSensor`
+* :ros:msg:`jsk_gui_msgs/MagneticField`
+* :ros:msg:`jsk_gui_msgs/Action`
+* :ros:msg:`jsk_gui_msgs/MultiTouch`
+
+.. ros:automessage:: jsk_gui_msgs/DeviceSensor
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/Tablet
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/Touch
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/Gravity
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/TouchEvent
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/VoiceMessage
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/AndroidSensor
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/MagneticField
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/Action
+   :raw: tail
+
+.. ros:automessage:: jsk_gui_msgs/MultiTouch
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`jsk_gui_msgs/Query`
+
+.. ros:autoservice:: jsk_gui_msgs/Query
+   :raw: tail

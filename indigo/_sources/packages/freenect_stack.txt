@@ -1,0 +1,10 @@
+freenect_stack
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: freenect_stack

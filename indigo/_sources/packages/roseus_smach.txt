@@ -1,0 +1,25 @@
+roseus_smach
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roseus_smach
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`roseus_smach/Sub5`
+* :ros:action:`roseus_smach/Multiply10`
+
+.. ros:autoaction:: roseus_smach/Sub5
+   :raw: tail
+
+.. ros:autoaction:: roseus_smach/Multiply10
+   :raw: tail

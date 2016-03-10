@@ -1,0 +1,25 @@
+bond
+++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bond
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bond/Status`
+* :ros:msg:`bond/Constants`
+
+.. ros:automessage:: bond/Status
+   :raw: tail
+
+.. ros:automessage:: bond/Constants
+   :raw: tail

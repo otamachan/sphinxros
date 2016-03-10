@@ -1,0 +1,10 @@
+naoqi_bridge
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_bridge

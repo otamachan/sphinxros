@@ -1,0 +1,10 @@
+mrp2_desktop
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrp2_desktop

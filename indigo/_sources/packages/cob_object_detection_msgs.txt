@@ -1,0 +1,97 @@
+cob_object_detection_msgs
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_object_detection_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_object_detection_msgs/Rect`
+* :ros:msg:`cob_object_detection_msgs/DetectionArray`
+* :ros:msg:`cob_object_detection_msgs/Detection`
+* :ros:msg:`cob_object_detection_msgs/RectArray`
+* :ros:msg:`cob_object_detection_msgs/MaskArray`
+* :ros:msg:`cob_object_detection_msgs/PoseRT`
+* :ros:msg:`cob_object_detection_msgs/Mask`
+
+.. ros:automessage:: cob_object_detection_msgs/Rect
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/DetectionArray
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/Detection
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/RectArray
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/MaskArray
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/PoseRT
+   :raw: tail
+
+.. ros:automessage:: cob_object_detection_msgs/Mask
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`cob_object_detection_msgs/TrainObject`
+* :ros:srv:`cob_object_detection_msgs/StopObjectRecording`
+* :ros:srv:`cob_object_detection_msgs/BaTestEnvironment`
+* :ros:srv:`cob_object_detection_msgs/BagTrainObject`
+* :ros:srv:`cob_object_detection_msgs/SaveRecordedObject`
+* :ros:srv:`cob_object_detection_msgs/StartObjectRecording`
+* :ros:srv:`cob_object_detection_msgs/AcquireObjectImage`
+* :ros:srv:`cob_object_detection_msgs/DetectObjects`
+
+.. ros:autoservice:: cob_object_detection_msgs/TrainObject
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/StopObjectRecording
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/BaTestEnvironment
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/BagTrainObject
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/SaveRecordedObject
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/StartObjectRecording
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/AcquireObjectImage
+   :raw: tail
+
+.. ros:autoservice:: cob_object_detection_msgs/DetectObjects
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`cob_object_detection_msgs/TrainObject`
+* :ros:action:`cob_object_detection_msgs/DetectObjects`
+* :ros:action:`cob_object_detection_msgs/AcquireObjectImage`
+
+.. ros:autoaction:: cob_object_detection_msgs/TrainObject
+   :raw: tail
+
+.. ros:autoaction:: cob_object_detection_msgs/DetectObjects
+   :raw: tail
+
+.. ros:autoaction:: cob_object_detection_msgs/AcquireObjectImage
+   :raw: tail

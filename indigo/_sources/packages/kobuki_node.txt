@@ -1,0 +1,10 @@
+kobuki_node
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kobuki_node

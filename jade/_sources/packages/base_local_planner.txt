@@ -1,0 +1,21 @@
+base_local_planner
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: base_local_planner
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`base_local_planner/Position2DInt`
+
+.. ros:automessage:: base_local_planner/Position2DInt
+   :raw: tail

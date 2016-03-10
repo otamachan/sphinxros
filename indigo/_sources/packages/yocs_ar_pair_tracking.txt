@@ -1,0 +1,10 @@
+yocs_ar_pair_tracking
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_ar_pair_tracking

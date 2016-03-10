@@ -1,0 +1,57 @@
+visualization_msgs
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visualization_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`visualization_msgs/ImageMarker`
+* :ros:msg:`visualization_msgs/InteractiveMarkerUpdate`
+* :ros:msg:`visualization_msgs/InteractiveMarker`
+* :ros:msg:`visualization_msgs/InteractiveMarkerPose`
+* :ros:msg:`visualization_msgs/InteractiveMarkerInit`
+* :ros:msg:`visualization_msgs/InteractiveMarkerControl`
+* :ros:msg:`visualization_msgs/MarkerArray`
+* :ros:msg:`visualization_msgs/MenuEntry`
+* :ros:msg:`visualization_msgs/InteractiveMarkerFeedback`
+* :ros:msg:`visualization_msgs/Marker`
+
+.. ros:automessage:: visualization_msgs/ImageMarker
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarkerUpdate
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarker
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarkerPose
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarkerInit
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarkerControl
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/MarkerArray
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/MenuEntry
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/InteractiveMarkerFeedback
+   :raw: tail
+
+.. ros:automessage:: visualization_msgs/Marker
+   :raw: tail

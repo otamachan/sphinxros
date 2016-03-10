@@ -1,0 +1,65 @@
+calibration_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: calibration_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`calibration_msgs/IntervalStatus`
+* :ros:msg:`calibration_msgs/DenseLaserPoint`
+* :ros:msg:`calibration_msgs/JointStateCalibrationPattern`
+* :ros:msg:`calibration_msgs/CameraMeasurement`
+* :ros:msg:`calibration_msgs/ChainMeasurement`
+* :ros:msg:`calibration_msgs/IntervalStamped`
+* :ros:msg:`calibration_msgs/DenseLaserSnapshot`
+* :ros:msg:`calibration_msgs/Interval`
+* :ros:msg:`calibration_msgs/RobotMeasurement`
+* :ros:msg:`calibration_msgs/LaserMeasurement`
+* :ros:msg:`calibration_msgs/CalibrationPattern`
+* :ros:msg:`calibration_msgs/DenseLaserObjectFeatures`
+
+.. ros:automessage:: calibration_msgs/IntervalStatus
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/DenseLaserPoint
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/JointStateCalibrationPattern
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/CameraMeasurement
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/ChainMeasurement
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/IntervalStamped
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/DenseLaserSnapshot
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/Interval
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/RobotMeasurement
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/LaserMeasurement
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/CalibrationPattern
+   :raw: tail
+
+.. ros:automessage:: calibration_msgs/DenseLaserObjectFeatures
+   :raw: tail

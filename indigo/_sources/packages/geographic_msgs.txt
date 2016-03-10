@@ -1,0 +1,77 @@
+geographic_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: geographic_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`geographic_msgs/MapFeature`
+* :ros:msg:`geographic_msgs/RouteSegment`
+* :ros:msg:`geographic_msgs/GeoPose`
+* :ros:msg:`geographic_msgs/RouteNetwork`
+* :ros:msg:`geographic_msgs/GeoPoint`
+* :ros:msg:`geographic_msgs/WayPoint`
+* :ros:msg:`geographic_msgs/KeyValue`
+* :ros:msg:`geographic_msgs/RoutePath`
+* :ros:msg:`geographic_msgs/GeographicMapChanges`
+* :ros:msg:`geographic_msgs/BoundingBox`
+* :ros:msg:`geographic_msgs/GeographicMap`
+
+.. ros:automessage:: geographic_msgs/MapFeature
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/RouteSegment
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/GeoPose
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/RouteNetwork
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/GeoPoint
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/WayPoint
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/KeyValue
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/RoutePath
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/GeographicMapChanges
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/BoundingBox
+   :raw: tail
+
+.. ros:automessage:: geographic_msgs/GeographicMap
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`geographic_msgs/GetGeographicMap`
+* :ros:srv:`geographic_msgs/GetRoutePlan`
+* :ros:srv:`geographic_msgs/UpdateGeographicMap`
+
+.. ros:autoservice:: geographic_msgs/GetGeographicMap
+   :raw: tail
+
+.. ros:autoservice:: geographic_msgs/GetRoutePlan
+   :raw: tail
+
+.. ros:autoservice:: geographic_msgs/UpdateGeographicMap
+   :raw: tail

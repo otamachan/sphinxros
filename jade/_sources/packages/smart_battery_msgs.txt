@@ -1,0 +1,21 @@
+smart_battery_msgs
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: smart_battery_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`smart_battery_msgs/SmartBatteryStatus`
+
+.. ros:automessage:: smart_battery_msgs/SmartBatteryStatus
+   :raw: tail

@@ -1,0 +1,10 @@
+ackermann_vehicle_description
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ackermann_vehicle_description

@@ -1,0 +1,10 @@
+husky_ur5_moveit_config
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_ur5_moveit_config

@@ -1,0 +1,25 @@
+robot_face
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_face
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`robot_face/ImageFileDisplay`
+* :ros:msg:`robot_face/ImageDisplay`
+
+.. ros:automessage:: robot_face/ImageFileDisplay
+   :raw: tail
+
+.. ros:automessage:: robot_face/ImageDisplay
+   :raw: tail

@@ -1,0 +1,10 @@
+kobuki_controller_tutorial
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kobuki_controller_tutorial

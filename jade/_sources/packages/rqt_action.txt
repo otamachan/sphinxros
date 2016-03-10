@@ -1,0 +1,10 @@
+rqt_action
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_action

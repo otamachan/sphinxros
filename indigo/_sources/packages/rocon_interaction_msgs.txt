@@ -1,0 +1,73 @@
+rocon_interaction_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_interaction_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rocon_interaction_msgs/Pair`
+* :ros:msg:`rocon_interaction_msgs/InteractiveClient`
+* :ros:msg:`rocon_interaction_msgs/InteractiveClients`
+* :ros:msg:`rocon_interaction_msgs/Pairing`
+* :ros:msg:`rocon_interaction_msgs/Strings`
+* :ros:msg:`rocon_interaction_msgs/ErrorCodes`
+* :ros:msg:`rocon_interaction_msgs/RemoconStatus`
+* :ros:msg:`rocon_interaction_msgs/Interaction`
+
+.. ros:automessage:: rocon_interaction_msgs/Pair
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/InteractiveClient
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/InteractiveClients
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/Pairing
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/Strings
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/ErrorCodes
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/RemoconStatus
+   :raw: tail
+
+.. ros:automessage:: rocon_interaction_msgs/Interaction
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rocon_interaction_msgs/RequestInteraction`
+* :ros:srv:`rocon_interaction_msgs/GetInteraction`
+* :ros:srv:`rocon_interaction_msgs/GetInteractions`
+* :ros:srv:`rocon_interaction_msgs/GetRoles`
+* :ros:srv:`rocon_interaction_msgs/SetInteractions`
+
+.. ros:autoservice:: rocon_interaction_msgs/RequestInteraction
+   :raw: tail
+
+.. ros:autoservice:: rocon_interaction_msgs/GetInteraction
+   :raw: tail
+
+.. ros:autoservice:: rocon_interaction_msgs/GetInteractions
+   :raw: tail
+
+.. ros:autoservice:: rocon_interaction_msgs/GetRoles
+   :raw: tail
+
+.. ros:autoservice:: rocon_interaction_msgs/SetInteractions
+   :raw: tail

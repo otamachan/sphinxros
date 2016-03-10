@@ -1,0 +1,33 @@
+bayesian_belief_networks
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bayesian_belief_networks
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bayesian_belief_networks/Observation`
+* :ros:msg:`bayesian_belief_networks/Result`
+
+.. ros:automessage:: bayesian_belief_networks/Observation
+   :raw: tail
+
+.. ros:automessage:: bayesian_belief_networks/Result
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`bayesian_belief_networks/Query`
+
+.. ros:autoservice:: bayesian_belief_networks/Query
+   :raw: tail

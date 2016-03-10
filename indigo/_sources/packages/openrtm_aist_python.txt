@@ -1,0 +1,10 @@
+openrtm_aist_python
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openrtm_aist_python

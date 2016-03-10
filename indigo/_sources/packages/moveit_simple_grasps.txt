@@ -1,0 +1,29 @@
+moveit_simple_grasps
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_simple_grasps
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`moveit_simple_grasps/GraspGeneratorOptions`
+
+.. ros:automessage:: moveit_simple_grasps/GraspGeneratorOptions
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`moveit_simple_grasps/GenerateGrasps`
+
+.. ros:autoaction:: moveit_simple_grasps/GenerateGrasps
+   :raw: tail

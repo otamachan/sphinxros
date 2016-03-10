@@ -1,0 +1,29 @@
+cob_mimic
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_mimic
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_mimic/SetMimic`
+
+.. ros:autoservice:: cob_mimic/SetMimic
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`cob_mimic/SetMimic`
+
+.. ros:autoaction:: cob_mimic/SetMimic
+   :raw: tail

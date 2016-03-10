@@ -1,0 +1,57 @@
+zeroconf_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: zeroconf_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`zeroconf_msgs/PublishedService`
+* :ros:msg:`zeroconf_msgs/Protocols`
+* :ros:msg:`zeroconf_msgs/DiscoveredService`
+
+.. ros:automessage:: zeroconf_msgs/PublishedService
+   :raw: tail
+
+.. ros:automessage:: zeroconf_msgs/Protocols
+   :raw: tail
+
+.. ros:automessage:: zeroconf_msgs/DiscoveredService
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`zeroconf_msgs/RemoveService`
+* :ros:srv:`zeroconf_msgs/AddListener`
+* :ros:srv:`zeroconf_msgs/ListDiscoveredServices`
+* :ros:srv:`zeroconf_msgs/AddService`
+* :ros:srv:`zeroconf_msgs/RemoveListener`
+* :ros:srv:`zeroconf_msgs/ListPublishedServices`
+
+.. ros:autoservice:: zeroconf_msgs/RemoveService
+   :raw: tail
+
+.. ros:autoservice:: zeroconf_msgs/AddListener
+   :raw: tail
+
+.. ros:autoservice:: zeroconf_msgs/ListDiscoveredServices
+   :raw: tail
+
+.. ros:autoservice:: zeroconf_msgs/AddService
+   :raw: tail
+
+.. ros:autoservice:: zeroconf_msgs/RemoveListener
+   :raw: tail
+
+.. ros:autoservice:: zeroconf_msgs/ListPublishedServices
+   :raw: tail

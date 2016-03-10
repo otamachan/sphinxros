@@ -1,0 +1,10 @@
+fulanghua_static_path_publisher
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fulanghua_static_path_publisher

@@ -1,0 +1,10 @@
+naoqi_dashboard
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_dashboard

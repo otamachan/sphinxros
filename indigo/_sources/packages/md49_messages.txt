@@ -1,0 +1,25 @@
+md49_messages
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: md49_messages
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`md49_messages/md49_data`
+* :ros:msg:`md49_messages/md49_encoders`
+
+.. ros:automessage:: md49_messages/md49_data
+   :raw: tail
+
+.. ros:automessage:: md49_messages/md49_encoders
+   :raw: tail

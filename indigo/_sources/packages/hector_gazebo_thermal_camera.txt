@@ -1,0 +1,10 @@
+hector_gazebo_thermal_camera
+++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_gazebo_thermal_camera

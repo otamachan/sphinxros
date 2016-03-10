@@ -1,0 +1,21 @@
+marti_perception_msgs
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_perception_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_perception_msgs/PedestrianImageID`
+
+.. ros:automessage:: marti_perception_msgs/PedestrianImageID
+   :raw: tail

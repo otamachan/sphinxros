@@ -1,0 +1,10 @@
+object_recognition_linemod
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: object_recognition_linemod

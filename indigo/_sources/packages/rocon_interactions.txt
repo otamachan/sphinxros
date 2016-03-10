@@ -1,0 +1,10 @@
+rocon_interactions
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_interactions

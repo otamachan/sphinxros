@@ -1,0 +1,21 @@
+control_toolbox
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: control_toolbox
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`control_toolbox/SetPidGains`
+
+.. ros:autoservice:: control_toolbox/SetPidGains
+   :raw: tail

@@ -1,0 +1,10 @@
+jsk_pr2_startup
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_pr2_startup

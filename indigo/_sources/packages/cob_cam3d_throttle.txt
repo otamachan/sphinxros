@@ -1,0 +1,10 @@
+cob_cam3d_throttle
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_cam3d_throttle

@@ -1,0 +1,41 @@
+rosserial_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosserial_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rosserial_msgs/TopicInfo`
+* :ros:msg:`rosserial_msgs/Log`
+
+.. ros:automessage:: rosserial_msgs/TopicInfo
+   :raw: tail
+
+.. ros:automessage:: rosserial_msgs/Log
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rosserial_msgs/RequestMessageInfo`
+* :ros:srv:`rosserial_msgs/RequestServiceInfo`
+* :ros:srv:`rosserial_msgs/RequestParam`
+
+.. ros:autoservice:: rosserial_msgs/RequestMessageInfo
+   :raw: tail
+
+.. ros:autoservice:: rosserial_msgs/RequestServiceInfo
+   :raw: tail
+
+.. ros:autoservice:: rosserial_msgs/RequestParam
+   :raw: tail

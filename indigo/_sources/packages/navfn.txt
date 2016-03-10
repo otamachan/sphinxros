@@ -1,0 +1,25 @@
+navfn
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: navfn
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`navfn/SetCostmap`
+* :ros:srv:`navfn/MakeNavPlan`
+
+.. ros:autoservice:: navfn/SetCostmap
+   :raw: tail
+
+.. ros:autoservice:: navfn/MakeNavPlan
+   :raw: tail

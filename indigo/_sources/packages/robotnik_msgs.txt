@@ -1,0 +1,113 @@
+robotnik_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robotnik_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`robotnik_msgs/encoders`
+* :ros:msg:`robotnik_msgs/Interfaces`
+* :ros:msg:`robotnik_msgs/MotorsStatus`
+* :ros:msg:`robotnik_msgs/State`
+* :ros:msg:`robotnik_msgs/AlarmSensor`
+* :ros:msg:`robotnik_msgs/inputs_outputs`
+* :ros:msg:`robotnik_msgs/Axis`
+* :ros:msg:`robotnik_msgs/Alarms`
+* :ros:msg:`robotnik_msgs/ptz`
+* :ros:msg:`robotnik_msgs/MotorStatus`
+* :ros:msg:`robotnik_msgs/Data`
+
+.. ros:automessage:: robotnik_msgs/encoders
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/Interfaces
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/MotorsStatus
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/State
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/AlarmSensor
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/inputs_outputs
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/Axis
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/Alarms
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/ptz
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/MotorStatus
+   :raw: tail
+
+.. ros:automessage:: robotnik_msgs/Data
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`robotnik_msgs/enable_disable`
+* :ros:srv:`robotnik_msgs/set_ptz`
+* :ros:srv:`robotnik_msgs/set_analog_output`
+* :ros:srv:`robotnik_msgs/set_digital_output`
+* :ros:srv:`robotnik_msgs/get_digital_input`
+* :ros:srv:`robotnik_msgs/get_mode`
+* :ros:srv:`robotnik_msgs/axis_record`
+* :ros:srv:`robotnik_msgs/set_height`
+* :ros:srv:`robotnik_msgs/set_odometry`
+* :ros:srv:`robotnik_msgs/set_mode`
+* :ros:srv:`robotnik_msgs/set_float_value`
+* :ros:srv:`robotnik_msgs/home`
+
+.. ros:autoservice:: robotnik_msgs/enable_disable
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_ptz
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_analog_output
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_digital_output
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/get_digital_input
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/get_mode
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/axis_record
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_height
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_odometry
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_mode
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/set_float_value
+   :raw: tail
+
+.. ros:autoservice:: robotnik_msgs/home
+   :raw: tail

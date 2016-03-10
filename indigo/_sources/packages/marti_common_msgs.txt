@@ -1,0 +1,73 @@
+marti_common_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_common_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_common_msgs/Int8Stamped`
+* :ros:msg:`marti_common_msgs/Int16Stamped`
+* :ros:msg:`marti_common_msgs/UInt64Stamped`
+* :ros:msg:`marti_common_msgs/Int32Stamped`
+* :ros:msg:`marti_common_msgs/BoolStamped`
+* :ros:msg:`marti_common_msgs/UInt8Stamped`
+* :ros:msg:`marti_common_msgs/StringStamped`
+* :ros:msg:`marti_common_msgs/UInt16Stamped`
+* :ros:msg:`marti_common_msgs/DurationStamped`
+* :ros:msg:`marti_common_msgs/UInt32Stamped`
+* :ros:msg:`marti_common_msgs/Int64Stamped`
+* :ros:msg:`marti_common_msgs/TimeStamped`
+* :ros:msg:`marti_common_msgs/Float32Stamped`
+* :ros:msg:`marti_common_msgs/Float64Stamped`
+
+.. ros:automessage:: marti_common_msgs/Int8Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/Int16Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/UInt64Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/Int32Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/BoolStamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/UInt8Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/StringStamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/UInt16Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/DurationStamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/UInt32Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/Int64Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/TimeStamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/Float32Stamped
+   :raw: tail
+
+.. ros:automessage:: marti_common_msgs/Float64Stamped
+   :raw: tail

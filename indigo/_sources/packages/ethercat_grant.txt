@@ -1,0 +1,10 @@
+ethercat_grant
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ethercat_grant

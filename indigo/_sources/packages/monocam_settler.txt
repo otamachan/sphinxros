@@ -1,0 +1,21 @@
+monocam_settler
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: monocam_settler
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`monocam_settler/Config`
+
+.. ros:autoaction:: monocam_settler/Config
+   :raw: tail

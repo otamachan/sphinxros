@@ -1,0 +1,69 @@
+industrial_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: industrial_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`industrial_msgs/ServiceReturnCode`
+* :ros:msg:`industrial_msgs/DeviceInfo`
+* :ros:msg:`industrial_msgs/TriState`
+* :ros:msg:`industrial_msgs/RobotStatus`
+* :ros:msg:`industrial_msgs/RobotMode`
+* :ros:msg:`industrial_msgs/DebugLevel`
+
+.. ros:automessage:: industrial_msgs/ServiceReturnCode
+   :raw: tail
+
+.. ros:automessage:: industrial_msgs/DeviceInfo
+   :raw: tail
+
+.. ros:automessage:: industrial_msgs/TriState
+   :raw: tail
+
+.. ros:automessage:: industrial_msgs/RobotStatus
+   :raw: tail
+
+.. ros:automessage:: industrial_msgs/RobotMode
+   :raw: tail
+
+.. ros:automessage:: industrial_msgs/DebugLevel
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`industrial_msgs/StartMotion`
+* :ros:srv:`industrial_msgs/StopMotion`
+* :ros:srv:`industrial_msgs/CmdJointTrajectory`
+* :ros:srv:`industrial_msgs/SetDrivePower`
+* :ros:srv:`industrial_msgs/SetRemoteLoggerLevel`
+* :ros:srv:`industrial_msgs/GetRobotInfo`
+
+.. ros:autoservice:: industrial_msgs/StartMotion
+   :raw: tail
+
+.. ros:autoservice:: industrial_msgs/StopMotion
+   :raw: tail
+
+.. ros:autoservice:: industrial_msgs/CmdJointTrajectory
+   :raw: tail
+
+.. ros:autoservice:: industrial_msgs/SetDrivePower
+   :raw: tail
+
+.. ros:autoservice:: industrial_msgs/SetRemoteLoggerLevel
+   :raw: tail
+
+.. ros:autoservice:: industrial_msgs/GetRobotInfo
+   :raw: tail

@@ -1,0 +1,21 @@
+find_object_2d
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: find_object_2d
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`find_object_2d/ObjectsStamped`
+
+.. ros:automessage:: find_object_2d/ObjectsStamped
+   :raw: tail

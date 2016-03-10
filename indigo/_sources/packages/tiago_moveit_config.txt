@@ -1,0 +1,10 @@
+tiago_moveit_config
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: tiago_moveit_config

@@ -1,0 +1,10 @@
+nav2_platform
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nav2_platform

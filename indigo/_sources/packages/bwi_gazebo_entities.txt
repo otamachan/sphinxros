@@ -1,0 +1,10 @@
+bwi_gazebo_entities
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_gazebo_entities

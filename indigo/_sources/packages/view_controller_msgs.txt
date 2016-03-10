@@ -1,0 +1,21 @@
+view_controller_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: view_controller_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`view_controller_msgs/CameraPlacement`
+
+.. ros:automessage:: view_controller_msgs/CameraPlacement
+   :raw: tail

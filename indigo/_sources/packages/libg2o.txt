@@ -1,0 +1,10 @@
+libg2o
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: libg2o

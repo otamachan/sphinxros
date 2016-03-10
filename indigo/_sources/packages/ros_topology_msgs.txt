@@ -1,0 +1,37 @@
+ros_topology_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_topology_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ros_topology_msgs/Connection`
+* :ros:msg:`ros_topology_msgs/Topic`
+* :ros:msg:`ros_topology_msgs/Graph`
+* :ros:msg:`ros_topology_msgs/Node`
+* :ros:msg:`ros_topology_msgs/Service`
+
+.. ros:automessage:: ros_topology_msgs/Connection
+   :raw: tail
+
+.. ros:automessage:: ros_topology_msgs/Topic
+   :raw: tail
+
+.. ros:automessage:: ros_topology_msgs/Graph
+   :raw: tail
+
+.. ros:automessage:: ros_topology_msgs/Node
+   :raw: tail
+
+.. ros:automessage:: ros_topology_msgs/Service
+   :raw: tail

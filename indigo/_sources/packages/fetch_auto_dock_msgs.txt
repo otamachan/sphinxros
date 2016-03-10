@@ -1,0 +1,25 @@
+fetch_auto_dock_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fetch_auto_dock_msgs
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`fetch_auto_dock_msgs/Undock`
+* :ros:action:`fetch_auto_dock_msgs/Dock`
+
+.. ros:autoaction:: fetch_auto_dock_msgs/Undock
+   :raw: tail
+
+.. ros:autoaction:: fetch_auto_dock_msgs/Dock
+   :raw: tail

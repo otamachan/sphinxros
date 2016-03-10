@@ -1,0 +1,10 @@
+stdr_resources
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_resources

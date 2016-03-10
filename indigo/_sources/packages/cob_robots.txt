@@ -1,0 +1,10 @@
+cob_robots
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_robots

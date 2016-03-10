@@ -1,0 +1,53 @@
+dynamixel_controllers
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dynamixel_controllers
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`dynamixel_controllers/StartController`
+* :ros:srv:`dynamixel_controllers/SetCompliancePunch`
+* :ros:srv:`dynamixel_controllers/SetTorqueLimit`
+* :ros:srv:`dynamixel_controllers/SetComplianceSlope`
+* :ros:srv:`dynamixel_controllers/StopController`
+* :ros:srv:`dynamixel_controllers/TorqueEnable`
+* :ros:srv:`dynamixel_controllers/SetSpeed`
+* :ros:srv:`dynamixel_controllers/SetComplianceMargin`
+* :ros:srv:`dynamixel_controllers/RestartController`
+
+.. ros:autoservice:: dynamixel_controllers/StartController
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/SetCompliancePunch
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/SetTorqueLimit
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/SetComplianceSlope
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/StopController
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/TorqueEnable
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/SetSpeed
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/SetComplianceMargin
+   :raw: tail
+
+.. ros:autoservice:: dynamixel_controllers/RestartController
+   :raw: tail

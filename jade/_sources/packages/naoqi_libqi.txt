@@ -1,0 +1,10 @@
+naoqi_libqi
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_libqi

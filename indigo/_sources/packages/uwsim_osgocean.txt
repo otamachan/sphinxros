@@ -1,0 +1,10 @@
+uwsim_osgocean
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: uwsim_osgocean

@@ -1,0 +1,21 @@
+husky_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`husky_msgs/HuskyStatus`
+
+.. ros:automessage:: husky_msgs/HuskyStatus
+   :raw: tail

@@ -1,0 +1,25 @@
+pid
++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pid
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pid/controller_msg`
+* :ros:msg:`pid/plant_msg`
+
+.. ros:automessage:: pid/controller_msg
+   :raw: tail
+
+.. ros:automessage:: pid/plant_msg
+   :raw: tail

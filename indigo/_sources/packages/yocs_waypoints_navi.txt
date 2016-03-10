@@ -1,0 +1,10 @@
+yocs_waypoints_navi
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_waypoints_navi

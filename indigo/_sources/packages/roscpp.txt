@@ -1,0 +1,37 @@
+roscpp
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roscpp
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`roscpp/Logger`
+
+.. ros:automessage:: roscpp/Logger
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`roscpp/GetLoggers`
+* :ros:srv:`roscpp/Empty`
+* :ros:srv:`roscpp/SetLoggerLevel`
+
+.. ros:autoservice:: roscpp/GetLoggers
+   :raw: tail
+
+.. ros:autoservice:: roscpp/Empty
+   :raw: tail
+
+.. ros:autoservice:: roscpp/SetLoggerLevel
+   :raw: tail

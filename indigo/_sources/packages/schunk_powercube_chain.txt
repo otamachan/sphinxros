@@ -1,0 +1,10 @@
+schunk_powercube_chain
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_powercube_chain

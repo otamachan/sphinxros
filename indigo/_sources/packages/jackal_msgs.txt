@@ -1,0 +1,33 @@
+jackal_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jackal_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jackal_msgs/Status`
+* :ros:msg:`jackal_msgs/Feedback`
+* :ros:msg:`jackal_msgs/DriveFeedback`
+* :ros:msg:`jackal_msgs/Drive`
+
+.. ros:automessage:: jackal_msgs/Status
+   :raw: tail
+
+.. ros:automessage:: jackal_msgs/Feedback
+   :raw: tail
+
+.. ros:automessage:: jackal_msgs/DriveFeedback
+   :raw: tail
+
+.. ros:automessage:: jackal_msgs/Drive
+   :raw: tail

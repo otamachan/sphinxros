@@ -1,0 +1,10 @@
+libpointmatcher
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: libpointmatcher

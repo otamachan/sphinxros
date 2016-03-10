@@ -1,0 +1,10 @@
+libfovis
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: libfovis

@@ -1,0 +1,10 @@
+rospeex_audiomonitor
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospeex_audiomonitor

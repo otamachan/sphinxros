@@ -1,0 +1,85 @@
+pr2_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_msgs/LaserTrajCmd`
+* :ros:msg:`pr2_msgs/BatteryState2`
+* :ros:msg:`pr2_msgs/GPUStatus`
+* :ros:msg:`pr2_msgs/PressureState`
+* :ros:msg:`pr2_msgs/BatteryState`
+* :ros:msg:`pr2_msgs/DashboardState`
+* :ros:msg:`pr2_msgs/PowerBoardState`
+* :ros:msg:`pr2_msgs/BatteryServer2`
+* :ros:msg:`pr2_msgs/AccessPoint`
+* :ros:msg:`pr2_msgs/LaserScannerSignal`
+* :ros:msg:`pr2_msgs/PowerState`
+* :ros:msg:`pr2_msgs/PeriodicCmd`
+* :ros:msg:`pr2_msgs/BatteryServer`
+* :ros:msg:`pr2_msgs/AccelerometerState`
+
+.. ros:automessage:: pr2_msgs/LaserTrajCmd
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/BatteryState2
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/GPUStatus
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/PressureState
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/BatteryState
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/DashboardState
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/PowerBoardState
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/BatteryServer2
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/AccessPoint
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/LaserScannerSignal
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/PowerState
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/PeriodicCmd
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/BatteryServer
+   :raw: tail
+
+.. ros:automessage:: pr2_msgs/AccelerometerState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pr2_msgs/SetLaserTrajCmd`
+* :ros:srv:`pr2_msgs/SetPeriodicCmd`
+
+.. ros:autoservice:: pr2_msgs/SetLaserTrajCmd
+   :raw: tail
+
+.. ros:autoservice:: pr2_msgs/SetPeriodicCmd
+   :raw: tail

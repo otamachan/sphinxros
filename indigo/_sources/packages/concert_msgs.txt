@@ -1,0 +1,97 @@
+concert_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: concert_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`concert_msgs/SoftwareInstances`
+* :ros:msg:`concert_msgs/SoftwareInstance`
+* :ros:msg:`concert_msgs/Strings`
+* :ros:msg:`concert_msgs/ErrorCodes`
+* :ros:msg:`concert_msgs/LinkGraph`
+* :ros:msg:`concert_msgs/ConcertClient`
+* :ros:msg:`concert_msgs/SoftwareProfiles`
+* :ros:msg:`concert_msgs/ConductorGraph`
+* :ros:msg:`concert_msgs/ConcertClients`
+* :ros:msg:`concert_msgs/ServiceProfile`
+* :ros:msg:`concert_msgs/LinkNode`
+* :ros:msg:`concert_msgs/Services`
+* :ros:msg:`concert_msgs/SoftwareProfile`
+* :ros:msg:`concert_msgs/LinkEdge`
+* :ros:msg:`concert_msgs/LinkConnection`
+* :ros:msg:`concert_msgs/ConcertClientState`
+
+.. ros:automessage:: concert_msgs/SoftwareInstances
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/SoftwareInstance
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/Strings
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ErrorCodes
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/LinkGraph
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ConcertClient
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/SoftwareProfiles
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ConductorGraph
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ConcertClients
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ServiceProfile
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/LinkNode
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/Services
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/SoftwareProfile
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/LinkEdge
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/LinkConnection
+   :raw: tail
+
+.. ros:automessage:: concert_msgs/ConcertClientState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`concert_msgs/UpdateServiceConfig`
+* :ros:srv:`concert_msgs/AllocateSoftware`
+* :ros:srv:`concert_msgs/EnableService`
+
+.. ros:autoservice:: concert_msgs/UpdateServiceConfig
+   :raw: tail
+
+.. ros:autoservice:: concert_msgs/AllocateSoftware
+   :raw: tail
+
+.. ros:autoservice:: concert_msgs/EnableService
+   :raw: tail

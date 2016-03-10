@@ -1,0 +1,10 @@
+camera_calibration_parsers
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: camera_calibration_parsers

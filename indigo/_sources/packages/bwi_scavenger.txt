@@ -1,0 +1,10 @@
+bwi_scavenger
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_scavenger

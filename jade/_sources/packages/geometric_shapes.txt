@@ -1,0 +1,10 @@
+geometric_shapes
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: geometric_shapes

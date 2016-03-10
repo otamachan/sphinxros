@@ -1,0 +1,145 @@
+std_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: std_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`std_msgs/String`
+* :ros:msg:`std_msgs/Int8`
+* :ros:msg:`std_msgs/UInt32`
+* :ros:msg:`std_msgs/Header`
+* :ros:msg:`std_msgs/Int8MultiArray`
+* :ros:msg:`std_msgs/Int16MultiArray`
+* :ros:msg:`std_msgs/UInt16`
+* :ros:msg:`std_msgs/Time`
+* :ros:msg:`std_msgs/MultiArrayLayout`
+* :ros:msg:`std_msgs/Float32`
+* :ros:msg:`std_msgs/Duration`
+* :ros:msg:`std_msgs/Int32MultiArray`
+* :ros:msg:`std_msgs/Float64`
+* :ros:msg:`std_msgs/Int64`
+* :ros:msg:`std_msgs/MultiArrayDimension`
+* :ros:msg:`std_msgs/ByteMultiArray`
+* :ros:msg:`std_msgs/Int32`
+* :ros:msg:`std_msgs/Bool`
+* :ros:msg:`std_msgs/ColorRGBA`
+* :ros:msg:`std_msgs/Int64MultiArray`
+* :ros:msg:`std_msgs/Byte`
+* :ros:msg:`std_msgs/Empty`
+* :ros:msg:`std_msgs/UInt64MultiArray`
+* :ros:msg:`std_msgs/UInt16MultiArray`
+* :ros:msg:`std_msgs/Char`
+* :ros:msg:`std_msgs/UInt64`
+* :ros:msg:`std_msgs/UInt8MultiArray`
+* :ros:msg:`std_msgs/UInt32MultiArray`
+* :ros:msg:`std_msgs/Float64MultiArray`
+* :ros:msg:`std_msgs/Float32MultiArray`
+* :ros:msg:`std_msgs/UInt8`
+* :ros:msg:`std_msgs/Int16`
+
+.. ros:automessage:: std_msgs/String
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int8
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt32
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Header
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int8MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int16MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt16
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Time
+   :raw: tail
+
+.. ros:automessage:: std_msgs/MultiArrayLayout
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Float32
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Duration
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int32MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Float64
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int64
+   :raw: tail
+
+.. ros:automessage:: std_msgs/MultiArrayDimension
+   :raw: tail
+
+.. ros:automessage:: std_msgs/ByteMultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int32
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Bool
+   :raw: tail
+
+.. ros:automessage:: std_msgs/ColorRGBA
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int64MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Byte
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Empty
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt64MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt16MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Char
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt64
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt8MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt32MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Float64MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Float32MultiArray
+   :raw: tail
+
+.. ros:automessage:: std_msgs/UInt8
+   :raw: tail
+
+.. ros:automessage:: std_msgs/Int16
+   :raw: tail

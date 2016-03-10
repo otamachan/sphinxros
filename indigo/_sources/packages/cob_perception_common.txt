@@ -1,0 +1,10 @@
+cob_perception_common
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_perception_common

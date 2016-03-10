@@ -1,0 +1,10 @@
+babel
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: babel

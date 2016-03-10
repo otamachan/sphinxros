@@ -1,0 +1,205 @@
+naoqi_bridge_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_bridge_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`naoqi_bridge_msgs/RobotInfo`
+* :ros:msg:`naoqi_bridge_msgs/FadeRGB`
+* :ros:msg:`naoqi_bridge_msgs/Bumper`
+* :ros:msg:`naoqi_bridge_msgs/JointAnglesWithSpeed`
+* :ros:msg:`naoqi_bridge_msgs/HandTouch`
+* :ros:msg:`naoqi_bridge_msgs/MemoryPairInt`
+* :ros:msg:`naoqi_bridge_msgs/BodyROI`
+* :ros:msg:`naoqi_bridge_msgs/PoseWithConfidenceStamped`
+* :ros:msg:`naoqi_bridge_msgs/FloatStamped`
+* :ros:msg:`naoqi_bridge_msgs/IntArrayStamped`
+* :ros:msg:`naoqi_bridge_msgs/FloatArrayStamped`
+* :ros:msg:`naoqi_bridge_msgs/WordRecognized`
+* :ros:msg:`naoqi_bridge_msgs/BoolStamped`
+* :ros:msg:`naoqi_bridge_msgs/AudioBuffer`
+* :ros:msg:`naoqi_bridge_msgs/StringStamped`
+* :ros:msg:`naoqi_bridge_msgs/StringArrayStamped`
+* :ros:msg:`naoqi_bridge_msgs/StatusChangeStamped`
+* :ros:msg:`naoqi_bridge_msgs/JointAngleTrajectory`
+* :ros:msg:`naoqi_bridge_msgs/TactileTouch`
+* :ros:msg:`naoqi_bridge_msgs/MemoryPairFloat`
+* :ros:msg:`naoqi_bridge_msgs/MemoryPairString`
+* :ros:msg:`naoqi_bridge_msgs/FaceROI`
+* :ros:msg:`naoqi_bridge_msgs/MemoryList`
+* :ros:msg:`naoqi_bridge_msgs/IntStamped`
+* :ros:msg:`naoqi_bridge_msgs/EventStamped`
+
+.. ros:automessage:: naoqi_bridge_msgs/RobotInfo
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/FadeRGB
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/Bumper
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/JointAnglesWithSpeed
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/HandTouch
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/MemoryPairInt
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/BodyROI
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/PoseWithConfidenceStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/FloatStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/IntArrayStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/FloatArrayStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/WordRecognized
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/BoolStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/AudioBuffer
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/StringStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/StringArrayStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/StatusChangeStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/JointAngleTrajectory
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/TactileTouch
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/MemoryPairFloat
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/MemoryPairString
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/FaceROI
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/MemoryList
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/IntStamped
+   :raw: tail
+
+.. ros:automessage:: naoqi_bridge_msgs/EventStamped
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`naoqi_bridge_msgs/OrthogonalSecurityDistance`
+* :ros:srv:`naoqi_bridge_msgs/SetTransform`
+* :ros:srv:`naoqi_bridge_msgs/CmdVelService`
+* :ros:srv:`naoqi_bridge_msgs/SetArmsEnabled`
+* :ros:srv:`naoqi_bridge_msgs/GetBodyROI`
+* :ros:srv:`naoqi_bridge_msgs/TangentialSecurityDistance`
+* :ros:srv:`naoqi_bridge_msgs/GetTruepose`
+* :ros:srv:`naoqi_bridge_msgs/GetFacesROI`
+* :ros:srv:`naoqi_bridge_msgs/GetRobotInfo`
+* :ros:srv:`naoqi_bridge_msgs/CmdPoseService`
+* :ros:srv:`naoqi_bridge_msgs/GetInstalledBehaviors`
+
+.. ros:autoservice:: naoqi_bridge_msgs/OrthogonalSecurityDistance
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/SetTransform
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/CmdVelService
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/SetArmsEnabled
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/GetBodyROI
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/TangentialSecurityDistance
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/GetTruepose
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/GetFacesROI
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/GetRobotInfo
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/CmdPoseService
+   :raw: tail
+
+.. ros:autoservice:: naoqi_bridge_msgs/GetInstalledBehaviors
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`naoqi_bridge_msgs/BodyPoseWithSpeed`
+* :ros:action:`naoqi_bridge_msgs/BodyPose`
+* :ros:action:`naoqi_bridge_msgs/JointAnglesWithSpeed`
+* :ros:action:`naoqi_bridge_msgs/SpeechWithFeedback`
+* :ros:action:`naoqi_bridge_msgs/RunBehavior`
+* :ros:action:`naoqi_bridge_msgs/JointTrajectory`
+* :ros:action:`naoqi_bridge_msgs/Blink`
+* :ros:action:`naoqi_bridge_msgs/FollowPath`
+* :ros:action:`naoqi_bridge_msgs/SetSpeechVocabulary`
+
+.. ros:autoaction:: naoqi_bridge_msgs/BodyPoseWithSpeed
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/BodyPose
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/JointAnglesWithSpeed
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/SpeechWithFeedback
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/RunBehavior
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/JointTrajectory
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/Blink
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/FollowPath
+   :raw: tail
+
+.. ros:autoaction:: naoqi_bridge_msgs/SetSpeechVocabulary
+   :raw: tail

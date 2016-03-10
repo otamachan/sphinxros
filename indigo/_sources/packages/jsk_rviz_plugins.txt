@@ -1,0 +1,61 @@
+jsk_rviz_plugins
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_rviz_plugins
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_rviz_plugins/OverlayText`
+* :ros:msg:`jsk_rviz_plugins/ObjectFitCommand`
+* :ros:msg:`jsk_rviz_plugins/TransformableMarkerOperate`
+* :ros:msg:`jsk_rviz_plugins/PictogramArray`
+* :ros:msg:`jsk_rviz_plugins/RecordCommand`
+* :ros:msg:`jsk_rviz_plugins/OverlayMenu`
+* :ros:msg:`jsk_rviz_plugins/Pictogram`
+
+.. ros:automessage:: jsk_rviz_plugins/OverlayText
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/ObjectFitCommand
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/TransformableMarkerOperate
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/PictogramArray
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/RecordCommand
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/OverlayMenu
+   :raw: tail
+
+.. ros:automessage:: jsk_rviz_plugins/Pictogram
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`jsk_rviz_plugins/RequestMarkerOperate`
+* :ros:srv:`jsk_rviz_plugins/EusCommand`
+* :ros:srv:`jsk_rviz_plugins/Screenshot`
+
+.. ros:autoservice:: jsk_rviz_plugins/RequestMarkerOperate
+   :raw: tail
+
+.. ros:autoservice:: jsk_rviz_plugins/EusCommand
+   :raw: tail
+
+.. ros:autoservice:: jsk_rviz_plugins/Screenshot
+   :raw: tail

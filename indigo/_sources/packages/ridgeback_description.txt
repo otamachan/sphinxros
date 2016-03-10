@@ -1,0 +1,10 @@
+ridgeback_description
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ridgeback_description

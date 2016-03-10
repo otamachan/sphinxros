@@ -1,0 +1,10 @@
+sr_mechanism_controllers
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_mechanism_controllers

@@ -1,0 +1,10 @@
+world_canvas_client_cpp
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: world_canvas_client_cpp

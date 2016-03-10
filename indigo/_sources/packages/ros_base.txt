@@ -1,0 +1,10 @@
+ros_base
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_base

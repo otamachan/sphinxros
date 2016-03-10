@@ -1,0 +1,53 @@
+visp_tracker
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visp_tracker
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`visp_tracker/MovingEdgeSites`
+* :ros:msg:`visp_tracker/KltPoint`
+* :ros:msg:`visp_tracker/KltSettings`
+* :ros:msg:`visp_tracker/TrackerSettings`
+* :ros:msg:`visp_tracker/KltPoints`
+* :ros:msg:`visp_tracker/MovingEdgeSettings`
+* :ros:msg:`visp_tracker/MovingEdgeSite`
+
+.. ros:automessage:: visp_tracker/MovingEdgeSites
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/KltPoint
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/KltSettings
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/TrackerSettings
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/KltPoints
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/MovingEdgeSettings
+   :raw: tail
+
+.. ros:automessage:: visp_tracker/MovingEdgeSite
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`visp_tracker/Init`
+
+.. ros:autoservice:: visp_tracker/Init
+   :raw: tail

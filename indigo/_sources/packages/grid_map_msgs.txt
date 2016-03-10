@@ -1,0 +1,41 @@
+grid_map_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: grid_map_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`grid_map_msgs/GridMapInfo`
+* :ros:msg:`grid_map_msgs/GridMap`
+
+.. ros:automessage:: grid_map_msgs/GridMapInfo
+   :raw: tail
+
+.. ros:automessage:: grid_map_msgs/GridMap
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`grid_map_msgs/GetGridMapInfo`
+* :ros:srv:`grid_map_msgs/GetGridMap`
+* :ros:srv:`grid_map_msgs/ProcessFile`
+
+.. ros:autoservice:: grid_map_msgs/GetGridMapInfo
+   :raw: tail
+
+.. ros:autoservice:: grid_map_msgs/GetGridMap
+   :raw: tail
+
+.. ros:autoservice:: grid_map_msgs/ProcessFile
+   :raw: tail

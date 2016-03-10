@@ -1,0 +1,10 @@
+eus_qpoases
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: eus_qpoases

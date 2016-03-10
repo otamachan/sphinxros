@@ -1,0 +1,33 @@
+trajectory_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: trajectory_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`trajectory_msgs/MultiDOFJointTrajectoryPoint`
+* :ros:msg:`trajectory_msgs/MultiDOFJointTrajectory`
+* :ros:msg:`trajectory_msgs/JointTrajectoryPoint`
+* :ros:msg:`trajectory_msgs/JointTrajectory`
+
+.. ros:automessage:: trajectory_msgs/MultiDOFJointTrajectoryPoint
+   :raw: tail
+
+.. ros:automessage:: trajectory_msgs/MultiDOFJointTrajectory
+   :raw: tail
+
+.. ros:automessage:: trajectory_msgs/JointTrajectoryPoint
+   :raw: tail
+
+.. ros:automessage:: trajectory_msgs/JointTrajectory
+   :raw: tail

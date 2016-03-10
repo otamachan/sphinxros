@@ -1,0 +1,10 @@
+hokuyo_node
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hokuyo_node

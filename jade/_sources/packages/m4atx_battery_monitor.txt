@@ -1,0 +1,21 @@
+m4atx_battery_monitor
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: m4atx_battery_monitor
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`m4atx_battery_monitor/PowerReading`
+
+.. ros:automessage:: m4atx_battery_monitor/PowerReading
+   :raw: tail

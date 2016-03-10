@@ -1,0 +1,10 @@
+move_slow_and_clear
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: move_slow_and_clear

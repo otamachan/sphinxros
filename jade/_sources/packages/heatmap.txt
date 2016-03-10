@@ -1,0 +1,33 @@
+heatmap
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: heatmap
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`heatmap/wifi_signal`
+
+.. ros:automessage:: heatmap/wifi_signal
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`heatmap/signal_service`
+* :ros:srv:`heatmap/interpolation_service`
+
+.. ros:autoservice:: heatmap/signal_service
+   :raw: tail
+
+.. ros:autoservice:: heatmap/interpolation_service
+   :raw: tail

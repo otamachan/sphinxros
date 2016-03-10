@@ -1,0 +1,10 @@
+pointcloud_to_laserscan
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pointcloud_to_laserscan

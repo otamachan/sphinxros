@@ -1,0 +1,65 @@
+lama_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lama_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`lama_msgs/PlaceProfile`
+* :ros:msg:`lama_msgs/DescriptorLink`
+* :ros:msg:`lama_msgs/Crossing`
+* :ros:msg:`lama_msgs/LamaObject`
+* :ros:msg:`lama_msgs/Frontier`
+
+.. ros:automessage:: lama_msgs/PlaceProfile
+   :raw: tail
+
+.. ros:automessage:: lama_msgs/DescriptorLink
+   :raw: tail
+
+.. ros:automessage:: lama_msgs/Crossing
+   :raw: tail
+
+.. ros:automessage:: lama_msgs/LamaObject
+   :raw: tail
+
+.. ros:automessage:: lama_msgs/Frontier
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`lama_msgs/SetLamaObject`
+* :ros:srv:`lama_msgs/GetPlaceProfile`
+* :ros:srv:`lama_msgs/GetLamaObject`
+* :ros:srv:`lama_msgs/SetPlaceProfile`
+* :ros:srv:`lama_msgs/GetCrossing`
+* :ros:srv:`lama_msgs/SetCrossing`
+
+.. ros:autoservice:: lama_msgs/SetLamaObject
+   :raw: tail
+
+.. ros:autoservice:: lama_msgs/GetPlaceProfile
+   :raw: tail
+
+.. ros:autoservice:: lama_msgs/GetLamaObject
+   :raw: tail
+
+.. ros:autoservice:: lama_msgs/SetPlaceProfile
+   :raw: tail
+
+.. ros:autoservice:: lama_msgs/GetCrossing
+   :raw: tail
+
+.. ros:autoservice:: lama_msgs/SetCrossing
+   :raw: tail

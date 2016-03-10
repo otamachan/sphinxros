@@ -1,0 +1,10 @@
+open_controllers_interface
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: open_controllers_interface

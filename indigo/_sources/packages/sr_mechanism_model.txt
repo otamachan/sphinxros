@@ -1,0 +1,10 @@
+sr_mechanism_model
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_mechanism_model

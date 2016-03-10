@@ -1,0 +1,10 @@
+ubiquity_motor
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ubiquity_motor

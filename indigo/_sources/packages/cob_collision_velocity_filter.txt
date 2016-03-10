@@ -1,0 +1,10 @@
+cob_collision_velocity_filter
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_collision_velocity_filter

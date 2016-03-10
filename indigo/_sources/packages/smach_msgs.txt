@@ -1,0 +1,29 @@
+smach_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: smach_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`smach_msgs/SmachContainerStructure`
+* :ros:msg:`smach_msgs/SmachContainerStatus`
+* :ros:msg:`smach_msgs/SmachContainerInitialStatusCmd`
+
+.. ros:automessage:: smach_msgs/SmachContainerStructure
+   :raw: tail
+
+.. ros:automessage:: smach_msgs/SmachContainerStatus
+   :raw: tail
+
+.. ros:automessage:: smach_msgs/SmachContainerInitialStatusCmd
+   :raw: tail

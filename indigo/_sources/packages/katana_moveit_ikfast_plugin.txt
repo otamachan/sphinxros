@@ -1,0 +1,10 @@
+katana_moveit_ikfast_plugin
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: katana_moveit_ikfast_plugin

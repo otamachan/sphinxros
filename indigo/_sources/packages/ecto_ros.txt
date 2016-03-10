@@ -1,0 +1,10 @@
+ecto_ros
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecto_ros

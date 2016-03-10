@@ -1,0 +1,10 @@
+dynamixel_motor
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dynamixel_motor

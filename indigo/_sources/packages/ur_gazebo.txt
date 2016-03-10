@@ -1,0 +1,10 @@
+ur_gazebo
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ur_gazebo

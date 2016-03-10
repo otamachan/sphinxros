@@ -1,0 +1,10 @@
+openni_launch
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openni_launch

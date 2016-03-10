@@ -1,0 +1,10 @@
+velocity_controllers
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: velocity_controllers

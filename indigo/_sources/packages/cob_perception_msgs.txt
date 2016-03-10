@@ -1,0 +1,69 @@
+cob_perception_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_perception_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_perception_msgs/PointCloud2Array`
+* :ros:msg:`cob_perception_msgs/ColorDepthImage`
+* :ros:msg:`cob_perception_msgs/People`
+* :ros:msg:`cob_perception_msgs/Rect`
+* :ros:msg:`cob_perception_msgs/Person`
+* :ros:msg:`cob_perception_msgs/DetectionArray`
+* :ros:msg:`cob_perception_msgs/Skeleton`
+* :ros:msg:`cob_perception_msgs/Detection`
+* :ros:msg:`cob_perception_msgs/ColorDepthImageArray`
+* :ros:msg:`cob_perception_msgs/PersonStamped`
+* :ros:msg:`cob_perception_msgs/Mask`
+* :ros:msg:`cob_perception_msgs/PositionMeasurement`
+* :ros:msg:`cob_perception_msgs/PositionMeasurementArray`
+
+.. ros:automessage:: cob_perception_msgs/PointCloud2Array
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/ColorDepthImage
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/People
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/Rect
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/Person
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/DetectionArray
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/Skeleton
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/Detection
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/ColorDepthImageArray
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/PersonStamped
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/Mask
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/PositionMeasurement
+   :raw: tail
+
+.. ros:automessage:: cob_perception_msgs/PositionMeasurementArray
+   :raw: tail

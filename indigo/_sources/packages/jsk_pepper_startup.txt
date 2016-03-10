@@ -1,0 +1,10 @@
+jsk_pepper_startup
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_pepper_startup

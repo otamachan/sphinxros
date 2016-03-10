@@ -1,0 +1,37 @@
+mongodb_store
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mongodb_store
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`mongodb_store/SetParam`
+* :ros:srv:`mongodb_store/MongoUpdate`
+* :ros:srv:`mongodb_store/GetParam`
+* :ros:srv:`mongodb_store/MongoFind`
+* :ros:srv:`mongodb_store/MongoInsert`
+
+.. ros:autoservice:: mongodb_store/SetParam
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store/MongoUpdate
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store/GetParam
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store/MongoFind
+   :raw: tail
+
+.. ros:autoservice:: mongodb_store/MongoInsert
+   :raw: tail

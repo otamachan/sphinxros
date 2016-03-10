@@ -1,0 +1,10 @@
+nodelet_core
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nodelet_core

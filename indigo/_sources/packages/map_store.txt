@@ -1,0 +1,45 @@
+map_store
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: map_store
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`map_store/MapListEntry`
+
+.. ros:automessage:: map_store/MapListEntry
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`map_store/DeleteMap`
+* :ros:srv:`map_store/RenameMap`
+* :ros:srv:`map_store/PublishMap`
+* :ros:srv:`map_store/SaveMap`
+* :ros:srv:`map_store/ListMaps`
+
+.. ros:autoservice:: map_store/DeleteMap
+   :raw: tail
+
+.. ros:autoservice:: map_store/RenameMap
+   :raw: tail
+
+.. ros:autoservice:: map_store/PublishMap
+   :raw: tail
+
+.. ros:autoservice:: map_store/SaveMap
+   :raw: tail
+
+.. ros:autoservice:: map_store/ListMaps
+   :raw: tail

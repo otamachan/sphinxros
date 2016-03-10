@@ -1,0 +1,10 @@
+node_manager_fkie
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: node_manager_fkie

@@ -1,0 +1,89 @@
+homer_mapnav_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: homer_mapnav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`homer_mapnav_msgs/RegionOfInterest`
+* :ros:msg:`homer_mapnav_msgs/StopNavigation`
+* :ros:msg:`homer_mapnav_msgs/ModifyMap`
+* :ros:msg:`homer_mapnav_msgs/MapLayers`
+* :ros:msg:`homer_mapnav_msgs/StartNavigation`
+* :ros:msg:`homer_mapnav_msgs/ModifyPOI`
+* :ros:msg:`homer_mapnav_msgs/DoMapping`
+* :ros:msg:`homer_mapnav_msgs/PointOfInterest`
+* :ros:msg:`homer_mapnav_msgs/TargetUnreachable`
+* :ros:msg:`homer_mapnav_msgs/DeletePointOfInterest`
+* :ros:msg:`homer_mapnav_msgs/NavigateToPOI`
+* :ros:msg:`homer_mapnav_msgs/PointsOfInterest`
+* :ros:msg:`homer_mapnav_msgs/RegionsOfInterest`
+
+.. ros:automessage:: homer_mapnav_msgs/RegionOfInterest
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/StopNavigation
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/ModifyMap
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/MapLayers
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/StartNavigation
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/ModifyPOI
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/DoMapping
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/PointOfInterest
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/TargetUnreachable
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/DeletePointOfInterest
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/NavigateToPOI
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/PointsOfInterest
+   :raw: tail
+
+.. ros:automessage:: homer_mapnav_msgs/RegionsOfInterest
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`homer_mapnav_msgs/LoadMap`
+* :ros:srv:`homer_mapnav_msgs/GetPointsOfInterest`
+* :ros:srv:`homer_mapnav_msgs/GetRegionsOfInterest`
+* :ros:srv:`homer_mapnav_msgs/SaveMap`
+
+.. ros:autoservice:: homer_mapnav_msgs/LoadMap
+   :raw: tail
+
+.. ros:autoservice:: homer_mapnav_msgs/GetPointsOfInterest
+   :raw: tail
+
+.. ros:autoservice:: homer_mapnav_msgs/GetRegionsOfInterest
+   :raw: tail
+
+.. ros:autoservice:: homer_mapnav_msgs/SaveMap
+   :raw: tail

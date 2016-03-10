@@ -1,0 +1,10 @@
+stereo_image_proc
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stereo_image_proc

@@ -1,0 +1,29 @@
+cob_grasp_generation
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_grasp_generation
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`cob_grasp_generation/GenerateGrasps`
+* :ros:action:`cob_grasp_generation/QueryGrasps`
+* :ros:action:`cob_grasp_generation/ShowGrasps`
+
+.. ros:autoaction:: cob_grasp_generation/GenerateGrasps
+   :raw: tail
+
+.. ros:autoaction:: cob_grasp_generation/QueryGrasps
+   :raw: tail
+
+.. ros:autoaction:: cob_grasp_generation/ShowGrasps
+   :raw: tail

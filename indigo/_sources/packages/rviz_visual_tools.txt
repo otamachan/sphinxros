@@ -1,0 +1,10 @@
+rviz_visual_tools
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rviz_visual_tools

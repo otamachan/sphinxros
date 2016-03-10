@@ -1,0 +1,29 @@
+handle_detector
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: handle_detector
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`handle_detector/CylinderMsg`
+* :ros:msg:`handle_detector/CylinderArrayMsg`
+* :ros:msg:`handle_detector/HandleListMsg`
+
+.. ros:automessage:: handle_detector/CylinderMsg
+   :raw: tail
+
+.. ros:automessage:: handle_detector/CylinderArrayMsg
+   :raw: tail
+
+.. ros:automessage:: handle_detector/HandleListMsg
+   :raw: tail

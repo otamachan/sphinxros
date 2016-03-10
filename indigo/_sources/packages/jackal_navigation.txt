@@ -1,0 +1,10 @@
+jackal_navigation
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jackal_navigation

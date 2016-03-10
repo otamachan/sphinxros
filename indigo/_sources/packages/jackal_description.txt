@@ -1,0 +1,10 @@
+jackal_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jackal_description

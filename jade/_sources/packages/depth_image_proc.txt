@@ -1,0 +1,10 @@
+depth_image_proc
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: depth_image_proc

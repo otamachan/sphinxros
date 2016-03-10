@@ -1,0 +1,29 @@
+mln_robosherlock_msgs
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mln_robosherlock_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mln_robosherlock_msgs/MLNAtoms`
+
+.. ros:automessage:: mln_robosherlock_msgs/MLNAtoms
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`mln_robosherlock_msgs/MLNQuery`
+
+.. ros:autoservice:: mln_robosherlock_msgs/MLNQuery
+   :raw: tail

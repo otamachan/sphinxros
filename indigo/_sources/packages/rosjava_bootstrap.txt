@@ -1,0 +1,10 @@
+rosjava_bootstrap
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosjava_bootstrap

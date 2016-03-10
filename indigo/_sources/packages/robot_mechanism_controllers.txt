@@ -1,0 +1,21 @@
+robot_mechanism_controllers
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_mechanism_controllers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`robot_mechanism_controllers/JTCartesianControllerState`
+
+.. ros:automessage:: robot_mechanism_controllers/JTCartesianControllerState
+   :raw: tail

@@ -1,0 +1,10 @@
+trivial_features
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: trivial_features

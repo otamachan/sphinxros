@@ -1,0 +1,21 @@
+costmap_2d
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: costmap_2d
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`costmap_2d/VoxelGrid`
+
+.. ros:automessage:: costmap_2d/VoxelGrid
+   :raw: tail

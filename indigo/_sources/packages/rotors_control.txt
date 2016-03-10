@@ -1,0 +1,10 @@
+rotors_control
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rotors_control

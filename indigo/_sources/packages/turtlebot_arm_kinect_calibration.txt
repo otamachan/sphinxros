@@ -1,0 +1,10 @@
+turtlebot_arm_kinect_calibration
+++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_arm_kinect_calibration

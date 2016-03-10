@@ -1,0 +1,65 @@
+lighting_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lighting_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`lighting_msgs/DmxDevice`
+* :ros:msg:`lighting_msgs/DmxFrame`
+* :ros:msg:`lighting_msgs/DmxStatus`
+* :ros:msg:`lighting_msgs/DmxCommand`
+* :ros:msg:`lighting_msgs/DmxValue`
+* :ros:msg:`lighting_msgs/DmxEasing`
+* :ros:msg:`lighting_msgs/DmxAddress`
+
+.. ros:automessage:: lighting_msgs/DmxDevice
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxFrame
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxStatus
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxCommand
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxValue
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxEasing
+   :raw: tail
+
+.. ros:automessage:: lighting_msgs/DmxAddress
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`lighting_msgs/create_dmx_device`
+* :ros:srv:`lighting_msgs/device_list`
+* :ros:srv:`lighting_msgs/dmx_command`
+* :ros:srv:`lighting_msgs/set_pixelmap`
+
+.. ros:autoservice:: lighting_msgs/create_dmx_device
+   :raw: tail
+
+.. ros:autoservice:: lighting_msgs/device_list
+   :raw: tail
+
+.. ros:autoservice:: lighting_msgs/dmx_command
+   :raw: tail
+
+.. ros:autoservice:: lighting_msgs/set_pixelmap
+   :raw: tail

@@ -1,0 +1,10 @@
+image_pipeline
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: image_pipeline

@@ -1,0 +1,10 @@
+cob_extern
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_extern

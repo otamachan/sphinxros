@@ -1,0 +1,10 @@
+yocs_rapps
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_rapps

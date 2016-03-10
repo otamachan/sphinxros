@@ -1,0 +1,10 @@
+swri_geometry_util
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: swri_geometry_util

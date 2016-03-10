@@ -1,0 +1,21 @@
+cob_kinematics
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_kinematics
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_kinematics/GetPositionIKExtended`
+
+.. ros:autoservice:: cob_kinematics/GetPositionIKExtended
+   :raw: tail

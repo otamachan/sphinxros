@@ -1,0 +1,45 @@
+novatel_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: novatel_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`novatel_msgs/CommonHeader`
+* :ros:msg:`novatel_msgs/INSCOV`
+* :ros:msg:`novatel_msgs/INSPVAX`
+* :ros:msg:`novatel_msgs/CommonFooter`
+* :ros:msg:`novatel_msgs/Ack`
+* :ros:msg:`novatel_msgs/BESTPOS`
+* :ros:msg:`novatel_msgs/CORRIMUDATA`
+
+.. ros:automessage:: novatel_msgs/CommonHeader
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/INSCOV
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/INSPVAX
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/CommonFooter
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/Ack
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/BESTPOS
+   :raw: tail
+
+.. ros:automessage:: novatel_msgs/CORRIMUDATA
+   :raw: tail

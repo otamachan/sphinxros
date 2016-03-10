@@ -1,0 +1,10 @@
+ecl_ipc
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_ipc

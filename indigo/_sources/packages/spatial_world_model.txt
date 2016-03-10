@@ -1,0 +1,10 @@
+spatial_world_model
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: spatial_world_model

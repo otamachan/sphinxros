@@ -1,0 +1,10 @@
+naoqi_libqicore
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: naoqi_libqicore

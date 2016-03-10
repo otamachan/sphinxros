@@ -1,0 +1,10 @@
+pcl_ros
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pcl_ros

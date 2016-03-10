@@ -1,0 +1,10 @@
+rospeex
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospeex

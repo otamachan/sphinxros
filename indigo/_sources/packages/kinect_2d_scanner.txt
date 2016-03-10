@@ -1,0 +1,10 @@
+kinect_2d_scanner
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kinect_2d_scanner

@@ -1,0 +1,10 @@
+moveit_commander
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_commander

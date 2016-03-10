@@ -1,0 +1,10 @@
+carl_interactive_manipulation
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_interactive_manipulation

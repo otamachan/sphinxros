@@ -1,0 +1,10 @@
+hector_quadrotor_model
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_quadrotor_model

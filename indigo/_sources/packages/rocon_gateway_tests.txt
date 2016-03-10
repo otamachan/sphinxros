@@ -1,0 +1,10 @@
+rocon_gateway_tests
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_gateway_tests

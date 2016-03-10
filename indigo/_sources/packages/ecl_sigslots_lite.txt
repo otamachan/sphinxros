@@ -1,0 +1,10 @@
+ecl_sigslots_lite
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_sigslots_lite

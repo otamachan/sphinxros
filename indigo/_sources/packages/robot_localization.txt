@@ -1,0 +1,25 @@
+robot_localization
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_localization
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`robot_localization/SetDatum`
+* :ros:srv:`robot_localization/SetPose`
+
+.. ros:autoservice:: robot_localization/SetDatum
+   :raw: tail
+
+.. ros:autoservice:: robot_localization/SetPose
+   :raw: tail

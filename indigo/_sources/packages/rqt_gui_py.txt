@@ -1,0 +1,10 @@
+rqt_gui_py
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_gui_py

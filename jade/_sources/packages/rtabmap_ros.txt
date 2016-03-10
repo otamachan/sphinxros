@@ -1,0 +1,73 @@
+rtabmap_ros
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rtabmap_ros
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rtabmap_ros/KeyPoint`
+* :ros:msg:`rtabmap_ros/Link`
+* :ros:msg:`rtabmap_ros/OdomInfo`
+* :ros:msg:`rtabmap_ros/NodeData`
+* :ros:msg:`rtabmap_ros/Info`
+* :ros:msg:`rtabmap_ros/MapData`
+* :ros:msg:`rtabmap_ros/Point2f`
+
+.. ros:automessage:: rtabmap_ros/KeyPoint
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/Link
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/OdomInfo
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/NodeData
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/Info
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/MapData
+   :raw: tail
+
+.. ros:automessage:: rtabmap_ros/Point2f
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rtabmap_ros/GetMap`
+* :ros:srv:`rtabmap_ros/SetGoal`
+* :ros:srv:`rtabmap_ros/ResetPose`
+* :ros:srv:`rtabmap_ros/SetLabel`
+* :ros:srv:`rtabmap_ros/PublishMap`
+* :ros:srv:`rtabmap_ros/ListLabels`
+
+.. ros:autoservice:: rtabmap_ros/GetMap
+   :raw: tail
+
+.. ros:autoservice:: rtabmap_ros/SetGoal
+   :raw: tail
+
+.. ros:autoservice:: rtabmap_ros/ResetPose
+   :raw: tail
+
+.. ros:autoservice:: rtabmap_ros/SetLabel
+   :raw: tail
+
+.. ros:autoservice:: rtabmap_ros/PublishMap
+   :raw: tail
+
+.. ros:autoservice:: rtabmap_ros/ListLabels
+   :raw: tail

@@ -1,0 +1,10 @@
+termcolor
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: termcolor

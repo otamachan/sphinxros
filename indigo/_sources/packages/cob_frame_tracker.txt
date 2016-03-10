@@ -1,0 +1,21 @@
+cob_frame_tracker
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_frame_tracker
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`cob_frame_tracker/FrameTracking`
+
+.. ros:autoaction:: cob_frame_tracker/FrameTracking
+   :raw: tail

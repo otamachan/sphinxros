@@ -1,0 +1,10 @@
+visp_auto_tracker
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visp_auto_tracker

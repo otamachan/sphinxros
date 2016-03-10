@@ -1,0 +1,10 @@
+slime_ros
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: slime_ros

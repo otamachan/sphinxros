@@ -1,0 +1,37 @@
+jsk_perception
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_perception
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`jsk_perception/SetTemplate`
+* :ros:srv:`jsk_perception/EuclideanSegment`
+* :ros:srv:`jsk_perception/WhiteBalancePoints`
+* :ros:srv:`jsk_perception/NonMaximumSuppression`
+* :ros:srv:`jsk_perception/WhiteBalance`
+
+.. ros:autoservice:: jsk_perception/SetTemplate
+   :raw: tail
+
+.. ros:autoservice:: jsk_perception/EuclideanSegment
+   :raw: tail
+
+.. ros:autoservice:: jsk_perception/WhiteBalancePoints
+   :raw: tail
+
+.. ros:autoservice:: jsk_perception/NonMaximumSuppression
+   :raw: tail
+
+.. ros:autoservice:: jsk_perception/WhiteBalance
+   :raw: tail

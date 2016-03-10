@@ -1,0 +1,10 @@
+phidgets_imu
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: phidgets_imu

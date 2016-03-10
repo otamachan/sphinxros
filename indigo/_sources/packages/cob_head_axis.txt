@@ -1,0 +1,10 @@
+cob_head_axis
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_head_axis

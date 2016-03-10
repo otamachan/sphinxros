@@ -1,0 +1,10 @@
+rocon_rosjava_core
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_rosjava_core

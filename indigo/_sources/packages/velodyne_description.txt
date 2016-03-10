@@ -1,0 +1,10 @@
+velodyne_description
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: velodyne_description

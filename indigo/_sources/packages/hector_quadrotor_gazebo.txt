@@ -1,0 +1,10 @@
+hector_quadrotor_gazebo
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_quadrotor_gazebo

@@ -1,0 +1,10 @@
+fanuc_resources
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_resources

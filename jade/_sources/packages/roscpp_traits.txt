@@ -1,0 +1,10 @@
+roscpp_traits
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roscpp_traits

@@ -1,0 +1,21 @@
+mvsim
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mvsim
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mvsim/NodeExampleData`
+
+.. ros:automessage:: mvsim/NodeExampleData
+   :raw: tail

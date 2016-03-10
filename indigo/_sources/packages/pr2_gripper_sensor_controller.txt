@@ -1,0 +1,10 @@
+pr2_gripper_sensor_controller
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_gripper_sensor_controller

@@ -1,0 +1,10 @@
+rosjava_core
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosjava_core

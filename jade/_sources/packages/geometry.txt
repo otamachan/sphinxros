@@ -1,0 +1,10 @@
+geometry
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: geometry

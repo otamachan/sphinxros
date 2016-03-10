@@ -1,0 +1,77 @@
+concert_service_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: concert_service_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`concert_service_msgs/SpawnTurtlePair`
+* :ros:msg:`concert_service_msgs/SpawnTurtleResponse`
+* :ros:msg:`concert_service_msgs/CaptureResourceResponse`
+* :ros:msg:`concert_service_msgs/KillTurtlePair`
+* :ros:msg:`concert_service_msgs/CaptureResourceRequest`
+* :ros:msg:`concert_service_msgs/SpawnTurtleRequest`
+* :ros:msg:`concert_service_msgs/KillTurtlePairRequest`
+* :ros:msg:`concert_service_msgs/SpawnTurtlePairRequest`
+* :ros:msg:`concert_service_msgs/KillTurtleResponse`
+* :ros:msg:`concert_service_msgs/CaptureResourcePairRequest`
+* :ros:msg:`concert_service_msgs/CaptureResourcePairResponse`
+* :ros:msg:`concert_service_msgs/CaptureResourcePair`
+* :ros:msg:`concert_service_msgs/SpawnTurtlePairResponse`
+* :ros:msg:`concert_service_msgs/KillTurtleRequest`
+* :ros:msg:`concert_service_msgs/KillTurtlePairResponse`
+
+.. ros:automessage:: concert_service_msgs/SpawnTurtlePair
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/SpawnTurtleResponse
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/CaptureResourceResponse
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/KillTurtlePair
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/CaptureResourceRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/SpawnTurtleRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/KillTurtlePairRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/SpawnTurtlePairRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/KillTurtleResponse
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/CaptureResourcePairRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/CaptureResourcePairResponse
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/CaptureResourcePair
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/SpawnTurtlePairResponse
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/KillTurtleRequest
+   :raw: tail
+
+.. ros:automessage:: concert_service_msgs/KillTurtlePairResponse
+   :raw: tail

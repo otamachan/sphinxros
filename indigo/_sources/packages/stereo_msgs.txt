@@ -1,0 +1,21 @@
+stereo_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stereo_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`stereo_msgs/DisparityImage`
+
+.. ros:automessage:: stereo_msgs/DisparityImage
+   :raw: tail

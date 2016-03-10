@@ -1,0 +1,21 @@
+jsk_hark_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_hark_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_hark_msgs/HarkPower`
+
+.. ros:automessage:: jsk_hark_msgs/HarkPower
+   :raw: tail

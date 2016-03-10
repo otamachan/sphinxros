@@ -1,0 +1,10 @@
+husky_simulator
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_simulator

@@ -1,0 +1,21 @@
+fulanghua_srvs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fulanghua_srvs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`fulanghua_srvs/Pose`
+
+.. ros:autoservice:: fulanghua_srvs/Pose
+   :raw: tail

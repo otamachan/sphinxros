@@ -1,0 +1,29 @@
+turtlebot_arm_block_manipulation
+++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_arm_block_manipulation
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`turtlebot_arm_block_manipulation/PickAndPlace`
+* :ros:action:`turtlebot_arm_block_manipulation/InteractiveBlockManipulation`
+* :ros:action:`turtlebot_arm_block_manipulation/BlockDetection`
+
+.. ros:autoaction:: turtlebot_arm_block_manipulation/PickAndPlace
+   :raw: tail
+
+.. ros:autoaction:: turtlebot_arm_block_manipulation/InteractiveBlockManipulation
+   :raw: tail
+
+.. ros:autoaction:: turtlebot_arm_block_manipulation/BlockDetection
+   :raw: tail

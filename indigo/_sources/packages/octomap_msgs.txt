@@ -1,0 +1,37 @@
+octomap_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: octomap_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`octomap_msgs/OctomapWithPose`
+* :ros:msg:`octomap_msgs/Octomap`
+
+.. ros:automessage:: octomap_msgs/OctomapWithPose
+   :raw: tail
+
+.. ros:automessage:: octomap_msgs/Octomap
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`octomap_msgs/BoundingBoxQuery`
+* :ros:srv:`octomap_msgs/GetOctomap`
+
+.. ros:autoservice:: octomap_msgs/BoundingBoxQuery
+   :raw: tail
+
+.. ros:autoservice:: octomap_msgs/GetOctomap
+   :raw: tail

@@ -1,0 +1,10 @@
+grizzly_gazebo_plugins
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: grizzly_gazebo_plugins

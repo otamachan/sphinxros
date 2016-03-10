@@ -1,0 +1,29 @@
+robot_controllers_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_controllers_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`robot_controllers_msgs/ControllerState`
+
+.. ros:automessage:: robot_controllers_msgs/ControllerState
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`robot_controllers_msgs/QueryControllerStates`
+
+.. ros:autoaction:: robot_controllers_msgs/QueryControllerStates
+   :raw: tail

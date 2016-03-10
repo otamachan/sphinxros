@@ -1,0 +1,10 @@
+mrp2_description
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrp2_description

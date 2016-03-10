@@ -1,0 +1,65 @@
+wpi_jaco_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wpi_jaco_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`wpi_jaco_msgs/JacoFingerVel`
+* :ros:msg:`wpi_jaco_msgs/CartesianCommand`
+* :ros:msg:`wpi_jaco_msgs/AngularCommand`
+
+.. ros:automessage:: wpi_jaco_msgs/JacoFingerVel
+   :raw: tail
+
+.. ros:automessage:: wpi_jaco_msgs/CartesianCommand
+   :raw: tail
+
+.. ros:automessage:: wpi_jaco_msgs/AngularCommand
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`wpi_jaco_msgs/GetCartesianPosition`
+* :ros:srv:`wpi_jaco_msgs/GetAngularPosition`
+* :ros:srv:`wpi_jaco_msgs/EulerToQuaternion`
+* :ros:srv:`wpi_jaco_msgs/EStop`
+* :ros:srv:`wpi_jaco_msgs/JacoFK`
+* :ros:srv:`wpi_jaco_msgs/QuaternionToEuler`
+
+.. ros:autoservice:: wpi_jaco_msgs/GetCartesianPosition
+   :raw: tail
+
+.. ros:autoservice:: wpi_jaco_msgs/GetAngularPosition
+   :raw: tail
+
+.. ros:autoservice:: wpi_jaco_msgs/EulerToQuaternion
+   :raw: tail
+
+.. ros:autoservice:: wpi_jaco_msgs/EStop
+   :raw: tail
+
+.. ros:autoservice:: wpi_jaco_msgs/JacoFK
+   :raw: tail
+
+.. ros:autoservice:: wpi_jaco_msgs/QuaternionToEuler
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`wpi_jaco_msgs/HomeArm`
+
+.. ros:autoaction:: wpi_jaco_msgs/HomeArm
+   :raw: tail

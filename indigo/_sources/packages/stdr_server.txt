@@ -1,0 +1,10 @@
+stdr_server
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_server

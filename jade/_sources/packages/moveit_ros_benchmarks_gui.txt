@@ -1,0 +1,10 @@
+moveit_ros_benchmarks_gui
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_ros_benchmarks_gui

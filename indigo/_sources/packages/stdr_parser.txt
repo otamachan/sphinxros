@@ -1,0 +1,10 @@
+stdr_parser
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_parser

@@ -1,0 +1,29 @@
+rotors_comm
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rotors_comm
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rotors_comm/WindSpeed`
+
+.. ros:automessage:: rotors_comm/WindSpeed
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rotors_comm/Octomap`
+
+.. ros:autoservice:: rotors_comm/Octomap
+   :raw: tail

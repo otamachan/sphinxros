@@ -1,0 +1,93 @@
+program_queue
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: program_queue
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`program_queue/Program`
+* :ros:msg:`program_queue/ProgramInfo`
+* :ros:msg:`program_queue/Output`
+
+.. ros:automessage:: program_queue/Program
+   :raw: tail
+
+.. ros:automessage:: program_queue/ProgramInfo
+   :raw: tail
+
+.. ros:automessage:: program_queue/Output
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`program_queue/QueueProgram`
+* :ros:srv:`program_queue/CreateUser`
+* :ros:srv:`program_queue/Login`
+* :ros:srv:`program_queue/GetProgram`
+* :ros:srv:`program_queue/GetQueue`
+* :ros:srv:`program_queue/GetPrograms`
+* :ros:srv:`program_queue/UpdateProgram`
+* :ros:srv:`program_queue/GetOutput`
+* :ros:srv:`program_queue/DequeueProgram`
+* :ros:srv:`program_queue/CallProgram`
+* :ros:srv:`program_queue/RunProgram`
+* :ros:srv:`program_queue/CreateProgram`
+* :ros:srv:`program_queue/Logout`
+* :ros:srv:`program_queue/GetMyPrograms`
+* :ros:srv:`program_queue/ClearQueue`
+
+.. ros:autoservice:: program_queue/QueueProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/CreateUser
+   :raw: tail
+
+.. ros:autoservice:: program_queue/Login
+   :raw: tail
+
+.. ros:autoservice:: program_queue/GetProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/GetQueue
+   :raw: tail
+
+.. ros:autoservice:: program_queue/GetPrograms
+   :raw: tail
+
+.. ros:autoservice:: program_queue/UpdateProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/GetOutput
+   :raw: tail
+
+.. ros:autoservice:: program_queue/DequeueProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/CallProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/RunProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/CreateProgram
+   :raw: tail
+
+.. ros:autoservice:: program_queue/Logout
+   :raw: tail
+
+.. ros:autoservice:: program_queue/GetMyPrograms
+   :raw: tail
+
+.. ros:autoservice:: program_queue/ClearQueue
+   :raw: tail

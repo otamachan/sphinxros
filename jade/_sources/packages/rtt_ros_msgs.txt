@@ -1,0 +1,29 @@
+rtt_ros_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rtt_ros_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`rtt_ros_msgs/GetPeerList`
+* :ros:srv:`rtt_ros_msgs/RunScript`
+* :ros:srv:`rtt_ros_msgs/Eval`
+
+.. ros:autoservice:: rtt_ros_msgs/GetPeerList
+   :raw: tail
+
+.. ros:autoservice:: rtt_ros_msgs/RunScript
+   :raw: tail
+
+.. ros:autoservice:: rtt_ros_msgs/Eval
+   :raw: tail

@@ -1,0 +1,10 @@
+convex_decomposition
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: convex_decomposition

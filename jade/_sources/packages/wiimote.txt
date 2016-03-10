@@ -1,0 +1,29 @@
+wiimote
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wiimote
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`wiimote/IrSourceInfo`
+* :ros:msg:`wiimote/State`
+* :ros:msg:`wiimote/TimedSwitch`
+
+.. ros:automessage:: wiimote/IrSourceInfo
+   :raw: tail
+
+.. ros:automessage:: wiimote/State
+   :raw: tail
+
+.. ros:automessage:: wiimote/TimedSwitch
+   :raw: tail

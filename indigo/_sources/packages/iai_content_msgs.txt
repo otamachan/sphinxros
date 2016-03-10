@@ -1,0 +1,21 @@
+iai_content_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_content_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`iai_content_msgs/content_msg`
+
+.. ros:autoservice:: iai_content_msgs/content_msg
+   :raw: tail

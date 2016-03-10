@@ -1,0 +1,53 @@
+carl_moveit
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_moveit
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`carl_moveit/CallIK`
+* :ros:srv:`carl_moveit/CartesianPath`
+
+.. ros:autoservice:: carl_moveit/CallIK
+   :raw: tail
+
+.. ros:autoservice:: carl_moveit/CartesianPath
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`carl_moveit/MoveToJointPose`
+* :ros:action:`carl_moveit/WipeSurface`
+* :ros:action:`carl_moveit/Pickup`
+* :ros:action:`carl_moveit/Arm`
+* :ros:action:`carl_moveit/MoveToPose`
+* :ros:action:`carl_moveit/Store`
+
+.. ros:autoaction:: carl_moveit/MoveToJointPose
+   :raw: tail
+
+.. ros:autoaction:: carl_moveit/WipeSurface
+   :raw: tail
+
+.. ros:autoaction:: carl_moveit/Pickup
+   :raw: tail
+
+.. ros:autoaction:: carl_moveit/Arm
+   :raw: tail
+
+.. ros:autoaction:: carl_moveit/MoveToPose
+   :raw: tail
+
+.. ros:autoaction:: carl_moveit/Store
+   :raw: tail

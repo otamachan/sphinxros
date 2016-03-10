@@ -1,0 +1,33 @@
+rail_ceiling
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_ceiling
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rail_ceiling/Obstacle`
+* :ros:msg:`rail_ceiling/Obstacles`
+
+.. ros:automessage:: rail_ceiling/Obstacle
+   :raw: tail
+
+.. ros:automessage:: rail_ceiling/Obstacles
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rail_ceiling/GetAllObstacles`
+
+.. ros:autoservice:: rail_ceiling/GetAllObstacles
+   :raw: tail

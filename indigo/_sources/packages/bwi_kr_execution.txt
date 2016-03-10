@@ -1,0 +1,61 @@
+bwi_kr_execution
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_kr_execution
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bwi_kr_execution/AspRule`
+* :ros:msg:`bwi_kr_execution/AspFluent`
+* :ros:msg:`bwi_kr_execution/AnswerSet`
+
+.. ros:automessage:: bwi_kr_execution/AspRule
+   :raw: tail
+
+.. ros:automessage:: bwi_kr_execution/AspFluent
+   :raw: tail
+
+.. ros:automessage:: bwi_kr_execution/AnswerSet
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`bwi_kr_execution/UpdateFluents`
+* :ros:srv:`bwi_kr_execution/CurrentStateQuery`
+* :ros:srv:`bwi_kr_execution/ComputePlan`
+* :ros:srv:`bwi_kr_execution/ComputeAllPlans`
+* :ros:srv:`bwi_kr_execution/IsPlanValid`
+
+.. ros:autoservice:: bwi_kr_execution/UpdateFluents
+   :raw: tail
+
+.. ros:autoservice:: bwi_kr_execution/CurrentStateQuery
+   :raw: tail
+
+.. ros:autoservice:: bwi_kr_execution/ComputePlan
+   :raw: tail
+
+.. ros:autoservice:: bwi_kr_execution/ComputeAllPlans
+   :raw: tail
+
+.. ros:autoservice:: bwi_kr_execution/IsPlanValid
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`bwi_kr_execution/ExecutePlan`
+
+.. ros:autoaction:: bwi_kr_execution/ExecutePlan
+   :raw: tail

@@ -1,0 +1,10 @@
+rail_collada_models
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_collada_models

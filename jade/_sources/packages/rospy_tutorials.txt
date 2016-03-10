@@ -1,0 +1,37 @@
+rospy_tutorials
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospy_tutorials
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rospy_tutorials/Floats`
+* :ros:msg:`rospy_tutorials/HeaderString`
+
+.. ros:automessage:: rospy_tutorials/Floats
+   :raw: tail
+
+.. ros:automessage:: rospy_tutorials/HeaderString
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rospy_tutorials/BadTwoInts`
+* :ros:srv:`rospy_tutorials/AddTwoInts`
+
+.. ros:autoservice:: rospy_tutorials/BadTwoInts
+   :raw: tail
+
+.. ros:autoservice:: rospy_tutorials/AddTwoInts
+   :raw: tail

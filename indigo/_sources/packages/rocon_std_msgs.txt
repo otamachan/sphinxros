@@ -1,0 +1,77 @@
+rocon_std_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_std_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rocon_std_msgs/StringsPair`
+* :ros:msg:`rocon_std_msgs/MasterInfo`
+* :ros:msg:`rocon_std_msgs/PlatformInfo`
+* :ros:msg:`rocon_std_msgs/KeyValue`
+* :ros:msg:`rocon_std_msgs/Strings`
+* :ros:msg:`rocon_std_msgs/Remapping`
+* :ros:msg:`rocon_std_msgs/Connection`
+* :ros:msg:`rocon_std_msgs/StringsRequest`
+* :ros:msg:`rocon_std_msgs/StringArray`
+* :ros:msg:`rocon_std_msgs/StringsResponse`
+* :ros:msg:`rocon_std_msgs/StringsPairResponse`
+* :ros:msg:`rocon_std_msgs/Icon`
+* :ros:msg:`rocon_std_msgs/StringsPairRequest`
+
+.. ros:automessage:: rocon_std_msgs/StringsPair
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/MasterInfo
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/PlatformInfo
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/KeyValue
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/Strings
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/Remapping
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/Connection
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/StringsRequest
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/StringArray
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/StringsResponse
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/StringsPairResponse
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/Icon
+   :raw: tail
+
+.. ros:automessage:: rocon_std_msgs/StringsPairRequest
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rocon_std_msgs/GetPlatformInfo`
+
+.. ros:autoservice:: rocon_std_msgs/GetPlatformInfo
+   :raw: tail

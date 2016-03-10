@@ -1,0 +1,10 @@
+urdfdom_py
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: urdfdom_py

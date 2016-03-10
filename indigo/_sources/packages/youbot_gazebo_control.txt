@@ -1,0 +1,10 @@
+youbot_gazebo_control
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: youbot_gazebo_control

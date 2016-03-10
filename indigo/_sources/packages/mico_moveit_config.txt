@@ -1,0 +1,10 @@
+mico_moveit_config
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mico_moveit_config

@@ -1,0 +1,237 @@
+jsk_recognition_msgs
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_recognition_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_recognition_msgs/RotatedRectStamped`
+* :ros:msg:`jsk_recognition_msgs/ColorHistogramArray`
+* :ros:msg:`jsk_recognition_msgs/Line`
+* :ros:msg:`jsk_recognition_msgs/Torus`
+* :ros:msg:`jsk_recognition_msgs/LineArray`
+* :ros:msg:`jsk_recognition_msgs/BoundingBoxArrayWithCameraInfo`
+* :ros:msg:`jsk_recognition_msgs/WeightedPoseArray`
+* :ros:msg:`jsk_recognition_msgs/Rect`
+* :ros:msg:`jsk_recognition_msgs/Histogram`
+* :ros:msg:`jsk_recognition_msgs/BoundingBoxArray`
+* :ros:msg:`jsk_recognition_msgs/SlicedPointCloud`
+* :ros:msg:`jsk_recognition_msgs/ClusterPointIndices`
+* :ros:msg:`jsk_recognition_msgs/HistogramWithRangeBin`
+* :ros:msg:`jsk_recognition_msgs/SimpleHandle`
+* :ros:msg:`jsk_recognition_msgs/SnapItRequest`
+* :ros:msg:`jsk_recognition_msgs/Circle2D`
+* :ros:msg:`jsk_recognition_msgs/PolygonArray`
+* :ros:msg:`jsk_recognition_msgs/SparseOccupancyGridCell`
+* :ros:msg:`jsk_recognition_msgs/Int32Stamped`
+* :ros:msg:`jsk_recognition_msgs/BoundingBoxMovement`
+* :ros:msg:`jsk_recognition_msgs/SparseImage`
+* :ros:msg:`jsk_recognition_msgs/TorusArray`
+* :ros:msg:`jsk_recognition_msgs/RectArray`
+* :ros:msg:`jsk_recognition_msgs/SimpleOccupancyGridArray`
+* :ros:msg:`jsk_recognition_msgs/SparseOccupancyGridColumn`
+* :ros:msg:`jsk_recognition_msgs/PointsArray`
+* :ros:msg:`jsk_recognition_msgs/ImageDifferenceValue`
+* :ros:msg:`jsk_recognition_msgs/HistogramWithRangeArray`
+* :ros:msg:`jsk_recognition_msgs/ICPResult`
+* :ros:msg:`jsk_recognition_msgs/BoolStamped`
+* :ros:msg:`jsk_recognition_msgs/ContactSensorArray`
+* :ros:msg:`jsk_recognition_msgs/ModelCoefficientsArray`
+* :ros:msg:`jsk_recognition_msgs/HeightmapConfig`
+* :ros:msg:`jsk_recognition_msgs/TrackerStatus`
+* :ros:msg:`jsk_recognition_msgs/SparseOccupancyGrid`
+* :ros:msg:`jsk_recognition_msgs/ContactSensor`
+* :ros:msg:`jsk_recognition_msgs/SimpleOccupancyGrid`
+* :ros:msg:`jsk_recognition_msgs/VectorArray`
+* :ros:msg:`jsk_recognition_msgs/ClassificationResult`
+* :ros:msg:`jsk_recognition_msgs/ColorHistogram`
+* :ros:msg:`jsk_recognition_msgs/TimeRange`
+* :ros:msg:`jsk_recognition_msgs/PlotDataArray`
+* :ros:msg:`jsk_recognition_msgs/ParallelEdge`
+* :ros:msg:`jsk_recognition_msgs/SparseOccupancyGridArray`
+* :ros:msg:`jsk_recognition_msgs/DepthCalibrationParameter`
+* :ros:msg:`jsk_recognition_msgs/Circle2DArray`
+* :ros:msg:`jsk_recognition_msgs/ParallelEdgeArray`
+* :ros:msg:`jsk_recognition_msgs/BoundingBox`
+* :ros:msg:`jsk_recognition_msgs/DepthErrorResult`
+* :ros:msg:`jsk_recognition_msgs/HistogramWithRange`
+* :ros:msg:`jsk_recognition_msgs/PosedCameraInfo`
+* :ros:msg:`jsk_recognition_msgs/RotatedRect`
+* :ros:msg:`jsk_recognition_msgs/PlotData`
+
+.. ros:automessage:: jsk_recognition_msgs/RotatedRectStamped
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ColorHistogramArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Line
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Torus
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/LineArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/BoundingBoxArrayWithCameraInfo
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/WeightedPoseArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Rect
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Histogram
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/BoundingBoxArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SlicedPointCloud
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ClusterPointIndices
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/HistogramWithRangeBin
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SimpleHandle
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SnapItRequest
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Circle2D
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/PolygonArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SparseOccupancyGridCell
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Int32Stamped
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/BoundingBoxMovement
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SparseImage
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/TorusArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/RectArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SimpleOccupancyGridArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SparseOccupancyGridColumn
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/PointsArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ImageDifferenceValue
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/HistogramWithRangeArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ICPResult
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/BoolStamped
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ContactSensorArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ModelCoefficientsArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/HeightmapConfig
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/TrackerStatus
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SparseOccupancyGrid
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ContactSensor
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SimpleOccupancyGrid
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/VectorArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ClassificationResult
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ColorHistogram
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/TimeRange
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/PlotDataArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ParallelEdge
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/SparseOccupancyGridArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/DepthCalibrationParameter
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/Circle2DArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/ParallelEdgeArray
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/BoundingBox
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/DepthErrorResult
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/HistogramWithRange
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/PosedCameraInfo
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/RotatedRect
+   :raw: tail
+
+.. ros:automessage:: jsk_recognition_msgs/PlotData
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`jsk_recognition_msgs/SetPointCloud2`
+
+.. ros:autoservice:: jsk_recognition_msgs/SetPointCloud2
+   :raw: tail

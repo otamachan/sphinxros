@@ -1,0 +1,10 @@
+cob_navigation_config
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_navigation_config

@@ -1,0 +1,53 @@
+pr2_mechanism_controllers
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_mechanism_controllers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_mechanism_controllers/BaseControllerState2`
+* :ros:msg:`pr2_mechanism_controllers/BaseControllerState`
+* :ros:msg:`pr2_mechanism_controllers/TrackLinkCmd`
+* :ros:msg:`pr2_mechanism_controllers/BaseOdometryState`
+* :ros:msg:`pr2_mechanism_controllers/Odometer`
+* :ros:msg:`pr2_mechanism_controllers/DebugInfo`
+* :ros:msg:`pr2_mechanism_controllers/OdometryMatrix`
+
+.. ros:automessage:: pr2_mechanism_controllers/BaseControllerState2
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/BaseControllerState
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/TrackLinkCmd
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/BaseOdometryState
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/Odometer
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/DebugInfo
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_controllers/OdometryMatrix
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pr2_mechanism_controllers/SetProfile`
+
+.. ros:autoservice:: pr2_mechanism_controllers/SetProfile
+   :raw: tail

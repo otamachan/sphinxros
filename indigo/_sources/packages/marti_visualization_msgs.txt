@@ -1,0 +1,25 @@
+marti_visualization_msgs
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_visualization_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_visualization_msgs/TexturedMarkerArray`
+* :ros:msg:`marti_visualization_msgs/TexturedMarker`
+
+.. ros:automessage:: marti_visualization_msgs/TexturedMarkerArray
+   :raw: tail
+
+.. ros:automessage:: marti_visualization_msgs/TexturedMarker
+   :raw: tail

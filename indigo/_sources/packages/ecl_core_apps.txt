@@ -1,0 +1,10 @@
+ecl_core_apps
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_core_apps

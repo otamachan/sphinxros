@@ -1,0 +1,21 @@
+rail_segmentation
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_segmentation
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`rail_segmentation/RemoveObject`
+
+.. ros:autoservice:: rail_segmentation/RemoveObject
+   :raw: tail

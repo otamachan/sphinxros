@@ -1,0 +1,10 @@
+cob_gazebo_objects
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_gazebo_objects

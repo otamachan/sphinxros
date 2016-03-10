@@ -1,0 +1,10 @@
+moveit_fake_controller_manager
+++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_fake_controller_manager

@@ -1,0 +1,25 @@
+cob_camera_sensors
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_camera_sensors
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_camera_sensors/AcquireCalibrationImages`
+* :ros:srv:`cob_camera_sensors/GetTOFImages`
+
+.. ros:autoservice:: cob_camera_sensors/AcquireCalibrationImages
+   :raw: tail
+
+.. ros:autoservice:: cob_camera_sensors/GetTOFImages
+   :raw: tail

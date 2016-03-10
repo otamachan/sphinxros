@@ -1,0 +1,10 @@
+mavros_extras
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mavros_extras

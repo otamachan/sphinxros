@@ -1,0 +1,10 @@
+kobuki_bumper2pc
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kobuki_bumper2pc

@@ -1,0 +1,10 @@
+youbot_gazebo_worlds
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: youbot_gazebo_worlds

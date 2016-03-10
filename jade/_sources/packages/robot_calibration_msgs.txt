@@ -1,0 +1,45 @@
+robot_calibration_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_calibration_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`robot_calibration_msgs/CameraParameter`
+* :ros:msg:`robot_calibration_msgs/Observation`
+* :ros:msg:`robot_calibration_msgs/CalibrationData`
+* :ros:msg:`robot_calibration_msgs/ExtendedCameraInfo`
+* :ros:msg:`robot_calibration_msgs/CaptureConfig`
+
+.. ros:automessage:: robot_calibration_msgs/CameraParameter
+   :raw: tail
+
+.. ros:automessage:: robot_calibration_msgs/Observation
+   :raw: tail
+
+.. ros:automessage:: robot_calibration_msgs/CalibrationData
+   :raw: tail
+
+.. ros:automessage:: robot_calibration_msgs/ExtendedCameraInfo
+   :raw: tail
+
+.. ros:automessage:: robot_calibration_msgs/CaptureConfig
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`robot_calibration_msgs/GripperLedCommand`
+
+.. ros:autoaction:: robot_calibration_msgs/GripperLedCommand
+   :raw: tail

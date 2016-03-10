@@ -1,0 +1,10 @@
+hector_quadrotor_controller
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_quadrotor_controller

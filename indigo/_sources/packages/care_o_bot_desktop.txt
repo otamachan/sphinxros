@@ -1,0 +1,10 @@
+care_o_bot_desktop
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: care_o_bot_desktop

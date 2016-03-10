@@ -1,0 +1,21 @@
+scanning_table_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: scanning_table_msgs
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`scanning_table_msgs/scanning_table`
+
+.. ros:autoaction:: scanning_table_msgs/scanning_table
+   :raw: tail

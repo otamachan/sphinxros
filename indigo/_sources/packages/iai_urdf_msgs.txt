@@ -1,0 +1,21 @@
+iai_urdf_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_urdf_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`iai_urdf_msgs/AlterUrdf`
+
+.. ros:autoservice:: iai_urdf_msgs/AlterUrdf
+   :raw: tail

@@ -1,0 +1,10 @@
+openni_camera
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: openni_camera

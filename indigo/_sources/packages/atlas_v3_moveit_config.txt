@@ -1,0 +1,10 @@
+atlas_v3_moveit_config
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: atlas_v3_moveit_config

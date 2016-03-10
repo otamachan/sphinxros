@@ -1,0 +1,29 @@
+driver_base
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: driver_base
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`driver_base/SensorLevels`
+* :ros:msg:`driver_base/ConfigString`
+* :ros:msg:`driver_base/ConfigValue`
+
+.. ros:automessage:: driver_base/SensorLevels
+   :raw: tail
+
+.. ros:automessage:: driver_base/ConfigString
+   :raw: tail
+
+.. ros:automessage:: driver_base/ConfigValue
+   :raw: tail

@@ -1,0 +1,10 @@
+evarobot_navigation
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: evarobot_navigation

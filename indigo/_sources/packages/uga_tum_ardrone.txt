@@ -1,0 +1,45 @@
+uga_tum_ardrone
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: uga_tum_ardrone
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`uga_tum_ardrone/filter_state`
+
+.. ros:automessage:: uga_tum_ardrone/filter_state
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`uga_tum_ardrone/SetStayTime`
+* :ros:srv:`uga_tum_ardrone/SetInitialReachDistance`
+* :ros:srv:`uga_tum_ardrone/SetReference`
+* :ros:srv:`uga_tum_ardrone/SetMaxControl`
+* :ros:srv:`uga_tum_ardrone/SetStayWithinDistance`
+
+.. ros:autoservice:: uga_tum_ardrone/SetStayTime
+   :raw: tail
+
+.. ros:autoservice:: uga_tum_ardrone/SetInitialReachDistance
+   :raw: tail
+
+.. ros:autoservice:: uga_tum_ardrone/SetReference
+   :raw: tail
+
+.. ros:autoservice:: uga_tum_ardrone/SetMaxControl
+   :raw: tail
+
+.. ros:autoservice:: uga_tum_ardrone/SetStayWithinDistance
+   :raw: tail

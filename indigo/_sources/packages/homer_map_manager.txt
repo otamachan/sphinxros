@@ -1,0 +1,10 @@
+homer_map_manager
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: homer_map_manager

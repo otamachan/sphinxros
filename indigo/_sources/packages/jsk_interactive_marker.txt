@@ -1,0 +1,129 @@
+jsk_interactive_marker
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_interactive_marker
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_interactive_marker/JointTrajectoryWithType`
+* :ros:msg:`jsk_interactive_marker/MoveObject`
+* :ros:msg:`jsk_interactive_marker/PoseStampedWithName`
+* :ros:msg:`jsk_interactive_marker/JointTrajectoryPointWithType`
+* :ros:msg:`jsk_interactive_marker/SnapFootPrintInput`
+* :ros:msg:`jsk_interactive_marker/MarkerPose`
+* :ros:msg:`jsk_interactive_marker/MoveModel`
+* :ros:msg:`jsk_interactive_marker/MarkerMenu`
+* :ros:msg:`jsk_interactive_marker/MarkerDimensions`
+
+.. ros:automessage:: jsk_interactive_marker/JointTrajectoryWithType
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/MoveObject
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/PoseStampedWithName
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/JointTrajectoryPointWithType
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/SnapFootPrintInput
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/MarkerPose
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/MoveModel
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/MarkerMenu
+   :raw: tail
+
+.. ros:automessage:: jsk_interactive_marker/MarkerDimensions
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`jsk_interactive_marker/GetTransformableMarkerExistence`
+* :ros:srv:`jsk_interactive_marker/GetTransformableMarkerPose`
+* :ros:srv:`jsk_interactive_marker/SetTransformableMarkerFocus`
+* :ros:srv:`jsk_interactive_marker/SetParentMarker`
+* :ros:srv:`jsk_interactive_marker/SetTransformableMarkerColor`
+* :ros:srv:`jsk_interactive_marker/SetPose`
+* :ros:srv:`jsk_interactive_marker/GetType`
+* :ros:srv:`jsk_interactive_marker/GetTransformableMarkerColor`
+* :ros:srv:`jsk_interactive_marker/SetHeuristic`
+* :ros:srv:`jsk_interactive_marker/GetJointState`
+* :ros:srv:`jsk_interactive_marker/RemoveParentMarker`
+* :ros:srv:`jsk_interactive_marker/GetTransformableMarkerFocus`
+* :ros:srv:`jsk_interactive_marker/GetMarkerDimensions`
+* :ros:srv:`jsk_interactive_marker/IndexRequest`
+* :ros:srv:`jsk_interactive_marker/SetTransformableMarkerPose`
+* :ros:srv:`jsk_interactive_marker/SnapFootPrint`
+* :ros:srv:`jsk_interactive_marker/SetMarkerDimensions`
+* :ros:srv:`jsk_interactive_marker/MarkerSetPose`
+
+.. ros:autoservice:: jsk_interactive_marker/GetTransformableMarkerExistence
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetTransformableMarkerPose
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetTransformableMarkerFocus
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetParentMarker
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetTransformableMarkerColor
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetPose
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetType
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetTransformableMarkerColor
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetHeuristic
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetJointState
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/RemoveParentMarker
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetTransformableMarkerFocus
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/GetMarkerDimensions
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/IndexRequest
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetTransformableMarkerPose
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SnapFootPrint
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/SetMarkerDimensions
+   :raw: tail
+
+.. ros:autoservice:: jsk_interactive_marker/MarkerSetPose
+   :raw: tail

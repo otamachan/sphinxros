@@ -1,0 +1,10 @@
+rosh_desktop_plugins
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosh_desktop_plugins

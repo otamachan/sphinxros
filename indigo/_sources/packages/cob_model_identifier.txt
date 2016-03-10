@@ -1,0 +1,10 @@
+cob_model_identifier
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_model_identifier

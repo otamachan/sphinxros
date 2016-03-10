@@ -1,0 +1,10 @@
+semantic_point_annotator
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: semantic_point_annotator

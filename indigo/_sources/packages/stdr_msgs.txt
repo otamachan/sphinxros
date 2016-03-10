@@ -1,0 +1,181 @@
+stdr_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stdr_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`stdr_msgs/CO2Source`
+* :ros:msg:`stdr_msgs/RobotIndexedMsg`
+* :ros:msg:`stdr_msgs/RobotMsg`
+* :ros:msg:`stdr_msgs/SoundSource`
+* :ros:msg:`stdr_msgs/Noise`
+* :ros:msg:`stdr_msgs/RobotIndexedVectorMsg`
+* :ros:msg:`stdr_msgs/RfidSensorMeasurementMsg`
+* :ros:msg:`stdr_msgs/KinematicMsg`
+* :ros:msg:`stdr_msgs/CO2SensorMeasurementMsg`
+* :ros:msg:`stdr_msgs/ThermalSource`
+* :ros:msg:`stdr_msgs/SonarSensorMsg`
+* :ros:msg:`stdr_msgs/LaserSensorMsg`
+* :ros:msg:`stdr_msgs/RfidTagVector`
+* :ros:msg:`stdr_msgs/FootprintMsg`
+* :ros:msg:`stdr_msgs/CO2SensorMsg`
+* :ros:msg:`stdr_msgs/SoundSensorMeasurementMsg`
+* :ros:msg:`stdr_msgs/ThermalSensorMeasurementMsg`
+* :ros:msg:`stdr_msgs/SoundSensorMsg`
+* :ros:msg:`stdr_msgs/RfidTag`
+* :ros:msg:`stdr_msgs/SoundSourceVector`
+* :ros:msg:`stdr_msgs/RfidSensorMsg`
+* :ros:msg:`stdr_msgs/ThermalSourceVector`
+* :ros:msg:`stdr_msgs/CO2SourceVector`
+* :ros:msg:`stdr_msgs/ThermalSensorMsg`
+
+.. ros:automessage:: stdr_msgs/CO2Source
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RobotIndexedMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RobotMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/SoundSource
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/Noise
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RobotIndexedVectorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RfidSensorMeasurementMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/KinematicMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/CO2SensorMeasurementMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/ThermalSource
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/SonarSensorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/LaserSensorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RfidTagVector
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/FootprintMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/CO2SensorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/SoundSensorMeasurementMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/ThermalSensorMeasurementMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/SoundSensorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RfidTag
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/SoundSourceVector
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/RfidSensorMsg
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/ThermalSourceVector
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/CO2SourceVector
+   :raw: tail
+
+.. ros:automessage:: stdr_msgs/ThermalSensorMsg
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`stdr_msgs/AddRfidTag`
+* :ros:srv:`stdr_msgs/LoadExternalMap`
+* :ros:srv:`stdr_msgs/AddThermalSource`
+* :ros:srv:`stdr_msgs/AddCO2Source`
+* :ros:srv:`stdr_msgs/LoadMap`
+* :ros:srv:`stdr_msgs/DeleteSoundSource`
+* :ros:srv:`stdr_msgs/DeleteRfidTag`
+* :ros:srv:`stdr_msgs/DeleteThermalSource`
+* :ros:srv:`stdr_msgs/AddSoundSource`
+* :ros:srv:`stdr_msgs/DeleteCO2Source`
+* :ros:srv:`stdr_msgs/RegisterGui`
+* :ros:srv:`stdr_msgs/MoveRobot`
+
+.. ros:autoservice:: stdr_msgs/AddRfidTag
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/LoadExternalMap
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/AddThermalSource
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/AddCO2Source
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/LoadMap
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/DeleteSoundSource
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/DeleteRfidTag
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/DeleteThermalSource
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/AddSoundSource
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/DeleteCO2Source
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/RegisterGui
+   :raw: tail
+
+.. ros:autoservice:: stdr_msgs/MoveRobot
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`stdr_msgs/DeleteRobot`
+* :ros:action:`stdr_msgs/SpawnRobot`
+* :ros:action:`stdr_msgs/RegisterRobot`
+
+.. ros:autoaction:: stdr_msgs/DeleteRobot
+   :raw: tail
+
+.. ros:autoaction:: stdr_msgs/SpawnRobot
+   :raw: tail
+
+.. ros:autoaction:: stdr_msgs/RegisterRobot
+   :raw: tail

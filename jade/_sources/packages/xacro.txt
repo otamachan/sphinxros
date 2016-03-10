@@ -1,0 +1,10 @@
+xacro
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: xacro

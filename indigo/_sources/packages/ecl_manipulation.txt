@@ -1,0 +1,10 @@
+ecl_manipulation
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_manipulation

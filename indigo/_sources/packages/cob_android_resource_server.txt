@@ -1,0 +1,10 @@
+cob_android_resource_server
++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_android_resource_server

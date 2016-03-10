@@ -1,0 +1,10 @@
+robbie_architecture
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robbie_architecture

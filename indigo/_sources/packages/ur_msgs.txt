@@ -1,0 +1,49 @@
+ur_msgs
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ur_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ur_msgs/MasterboardDataMsg`
+* :ros:msg:`ur_msgs/Digital`
+* :ros:msg:`ur_msgs/IOStates`
+* :ros:msg:`ur_msgs/Analog`
+* :ros:msg:`ur_msgs/RobotStateRTMsg`
+
+.. ros:automessage:: ur_msgs/MasterboardDataMsg
+   :raw: tail
+
+.. ros:automessage:: ur_msgs/Digital
+   :raw: tail
+
+.. ros:automessage:: ur_msgs/IOStates
+   :raw: tail
+
+.. ros:automessage:: ur_msgs/Analog
+   :raw: tail
+
+.. ros:automessage:: ur_msgs/RobotStateRTMsg
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`ur_msgs/SetPayload`
+* :ros:srv:`ur_msgs/SetIO`
+
+.. ros:autoservice:: ur_msgs/SetPayload
+   :raw: tail
+
+.. ros:autoservice:: ur_msgs/SetIO
+   :raw: tail

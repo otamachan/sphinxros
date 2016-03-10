@@ -1,0 +1,10 @@
+baxter_gazebo
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_gazebo

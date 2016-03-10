@@ -1,0 +1,21 @@
+carl_demos
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_demos
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`carl_demos/ObtainObject`
+
+.. ros:autoaction:: carl_demos/ObtainObject
+   :raw: tail

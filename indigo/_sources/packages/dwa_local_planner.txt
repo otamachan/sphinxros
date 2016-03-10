@@ -1,0 +1,10 @@
+dwa_local_planner
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dwa_local_planner

@@ -1,0 +1,25 @@
+lyap_control
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lyap_control
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`lyap_control/controller_msg`
+* :ros:msg:`lyap_control/plant_msg`
+
+.. ros:automessage:: lyap_control/controller_msg
+   :raw: tail
+
+.. ros:automessage:: lyap_control/plant_msg
+   :raw: tail

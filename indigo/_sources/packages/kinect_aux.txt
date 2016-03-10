@@ -1,0 +1,10 @@
+kinect_aux
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: kinect_aux

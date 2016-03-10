@@ -1,0 +1,10 @@
+pmb2_controller_configuration_gazebo
+++++++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pmb2_controller_configuration_gazebo

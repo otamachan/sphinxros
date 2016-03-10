@@ -1,0 +1,21 @@
+pr2_tilt_laser_interface
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_tilt_laser_interface
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`pr2_tilt_laser_interface/GetSnapshot`
+
+.. ros:autoaction:: pr2_tilt_laser_interface/GetSnapshot
+   :raw: tail

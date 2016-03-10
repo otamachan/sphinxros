@@ -1,0 +1,201 @@
+sr_robot_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_robot_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`sr_robot_msgs/UBI0`
+* :ros:msg:`sr_robot_msgs/ShadowContactStateStamped`
+* :ros:msg:`sr_robot_msgs/JointControllerState`
+* :ros:msg:`sr_robot_msgs/FromMotorDataType`
+* :ros:msg:`sr_robot_msgs/JointMusclePositionControllerState`
+* :ros:msg:`sr_robot_msgs/sendupdate`
+* :ros:msg:`sr_robot_msgs/MotorSystemControls`
+* :ros:msg:`sr_robot_msgs/GraspArray`
+* :ros:msg:`sr_robot_msgs/config`
+* :ros:msg:`sr_robot_msgs/cartesian_data`
+* :ros:msg:`sr_robot_msgs/joint`
+* :ros:msg:`sr_robot_msgs/JointMuscleValveControllerState`
+* :ros:msg:`sr_robot_msgs/AuxSpiData`
+* :ros:msg:`sr_robot_msgs/reverseKinematics`
+* :ros:msg:`sr_robot_msgs/ShadowPST`
+* :ros:msg:`sr_robot_msgs/Tactile`
+* :ros:msg:`sr_robot_msgs/cartesian_position`
+* :ros:msg:`sr_robot_msgs/UBI0All`
+* :ros:msg:`sr_robot_msgs/command`
+* :ros:msg:`sr_robot_msgs/Biotac`
+* :ros:msg:`sr_robot_msgs/BiotacAll`
+* :ros:msg:`sr_robot_msgs/contrlr`
+* :ros:msg:`sr_robot_msgs/MidProxDataAll`
+* :ros:msg:`sr_robot_msgs/MidProxData`
+* :ros:msg:`sr_robot_msgs/ControlType`
+* :ros:msg:`sr_robot_msgs/joints_data`
+* :ros:msg:`sr_robot_msgs/JointMuscleValveControllerCommand`
+* :ros:msg:`sr_robot_msgs/EthercatDebug`
+* :ros:msg:`sr_robot_msgs/TactileArray`
+
+.. ros:automessage:: sr_robot_msgs/UBI0
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/ShadowContactStateStamped
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/JointControllerState
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/FromMotorDataType
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/JointMusclePositionControllerState
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/sendupdate
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/MotorSystemControls
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/GraspArray
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/config
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/cartesian_data
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/joint
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/JointMuscleValveControllerState
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/AuxSpiData
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/reverseKinematics
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/ShadowPST
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/Tactile
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/cartesian_position
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/UBI0All
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/command
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/Biotac
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/BiotacAll
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/contrlr
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/MidProxDataAll
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/MidProxData
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/ControlType
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/joints_data
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/JointMuscleValveControllerCommand
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/EthercatDebug
+   :raw: tail
+
+.. ros:automessage:: sr_robot_msgs/TactileArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`sr_robot_msgs/SetEffortControllerGains`
+* :ros:srv:`sr_robot_msgs/SetPidGains`
+* :ros:srv:`sr_robot_msgs/ChangeControlType`
+* :ros:srv:`sr_robot_msgs/ChangeMotorSystemControls`
+* :ros:srv:`sr_robot_msgs/SetDebugData`
+* :ros:srv:`sr_robot_msgs/ManualSelfTest`
+* :ros:srv:`sr_robot_msgs/SetMixedPositionVelocityPidGains`
+* :ros:srv:`sr_robot_msgs/is_hand_occupied`
+* :ros:srv:`sr_robot_msgs/NullifyDemand`
+* :ros:srv:`sr_robot_msgs/which_fingers_are_touching`
+* :ros:srv:`sr_robot_msgs/ForceController`
+* :ros:srv:`sr_robot_msgs/GetSegmentedLine`
+* :ros:srv:`sr_robot_msgs/SimpleMotorFlasher`
+
+.. ros:autoservice:: sr_robot_msgs/SetEffortControllerGains
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/SetPidGains
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/ChangeControlType
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/ChangeMotorSystemControls
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/SetDebugData
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/ManualSelfTest
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/SetMixedPositionVelocityPidGains
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/is_hand_occupied
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/NullifyDemand
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/which_fingers_are_touching
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/ForceController
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/GetSegmentedLine
+   :raw: tail
+
+.. ros:autoservice:: sr_robot_msgs/SimpleMotorFlasher
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`sr_robot_msgs/PlanGrasp`
+* :ros:action:`sr_robot_msgs/Grasp`
+
+.. ros:autoaction:: sr_robot_msgs/PlanGrasp
+   :raw: tail
+
+.. ros:autoaction:: sr_robot_msgs/Grasp
+   :raw: tail

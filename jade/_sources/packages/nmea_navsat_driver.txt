@@ -1,0 +1,10 @@
+nmea_navsat_driver
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nmea_navsat_driver

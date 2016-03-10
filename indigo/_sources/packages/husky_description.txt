@@ -1,0 +1,10 @@
+husky_description
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_description

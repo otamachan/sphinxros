@@ -1,0 +1,37 @@
+diagnostic_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: diagnostic_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`diagnostic_msgs/KeyValue`
+* :ros:msg:`diagnostic_msgs/DiagnosticArray`
+* :ros:msg:`diagnostic_msgs/DiagnosticStatus`
+
+.. ros:automessage:: diagnostic_msgs/KeyValue
+   :raw: tail
+
+.. ros:automessage:: diagnostic_msgs/DiagnosticArray
+   :raw: tail
+
+.. ros:automessage:: diagnostic_msgs/DiagnosticStatus
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`diagnostic_msgs/SelfTest`
+
+.. ros:autoservice:: diagnostic_msgs/SelfTest
+   :raw: tail

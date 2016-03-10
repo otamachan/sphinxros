@@ -1,0 +1,73 @@
+hector_worldmodel_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_worldmodel_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`hector_worldmodel_msgs/ImagePercept`
+* :ros:msg:`hector_worldmodel_msgs/ObjectInfo`
+* :ros:msg:`hector_worldmodel_msgs/PerceptInfo`
+* :ros:msg:`hector_worldmodel_msgs/ObjectModel`
+* :ros:msg:`hector_worldmodel_msgs/Object`
+* :ros:msg:`hector_worldmodel_msgs/ObjectState`
+* :ros:msg:`hector_worldmodel_msgs/PosePercept`
+
+.. ros:automessage:: hector_worldmodel_msgs/ImagePercept
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/ObjectInfo
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/PerceptInfo
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/ObjectModel
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/Object
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/ObjectState
+   :raw: tail
+
+.. ros:automessage:: hector_worldmodel_msgs/PosePercept
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`hector_worldmodel_msgs/SetObjectState`
+* :ros:srv:`hector_worldmodel_msgs/VerifyPercept`
+* :ros:srv:`hector_worldmodel_msgs/GetObjectModel`
+* :ros:srv:`hector_worldmodel_msgs/SetObjectName`
+* :ros:srv:`hector_worldmodel_msgs/VerifyObject`
+* :ros:srv:`hector_worldmodel_msgs/AddObject`
+
+.. ros:autoservice:: hector_worldmodel_msgs/SetObjectState
+   :raw: tail
+
+.. ros:autoservice:: hector_worldmodel_msgs/VerifyPercept
+   :raw: tail
+
+.. ros:autoservice:: hector_worldmodel_msgs/GetObjectModel
+   :raw: tail
+
+.. ros:autoservice:: hector_worldmodel_msgs/SetObjectName
+   :raw: tail
+
+.. ros:autoservice:: hector_worldmodel_msgs/VerifyObject
+   :raw: tail
+
+.. ros:autoservice:: hector_worldmodel_msgs/AddObject
+   :raw: tail

@@ -1,0 +1,10 @@
+rplidar_ros
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rplidar_ros

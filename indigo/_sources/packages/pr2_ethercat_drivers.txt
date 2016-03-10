@@ -1,0 +1,10 @@
+pr2_ethercat_drivers
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_ethercat_drivers

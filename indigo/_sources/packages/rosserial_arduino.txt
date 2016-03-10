@@ -1,0 +1,29 @@
+rosserial_arduino
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosserial_arduino
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rosserial_arduino/Adc`
+
+.. ros:automessage:: rosserial_arduino/Adc
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rosserial_arduino/Test`
+
+.. ros:autoservice:: rosserial_arduino/Test
+   :raw: tail

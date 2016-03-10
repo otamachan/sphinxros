@@ -1,0 +1,10 @@
+rqt_capabilities
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_capabilities

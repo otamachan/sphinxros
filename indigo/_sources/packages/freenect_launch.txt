@@ -1,0 +1,10 @@
+freenect_launch
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: freenect_launch

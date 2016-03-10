@@ -1,0 +1,10 @@
+smach_viewer
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: smach_viewer

@@ -1,0 +1,10 @@
+vs060
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: vs060

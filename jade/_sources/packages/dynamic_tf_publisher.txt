@@ -1,0 +1,33 @@
+dynamic_tf_publisher
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dynamic_tf_publisher
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`dynamic_tf_publisher/SetDynamicTF`
+* :ros:srv:`dynamic_tf_publisher/AssocTF`
+* :ros:srv:`dynamic_tf_publisher/DeleteTF`
+* :ros:srv:`dynamic_tf_publisher/DissocTF`
+
+.. ros:autoservice:: dynamic_tf_publisher/SetDynamicTF
+   :raw: tail
+
+.. ros:autoservice:: dynamic_tf_publisher/AssocTF
+   :raw: tail
+
+.. ros:autoservice:: dynamic_tf_publisher/DeleteTF
+   :raw: tail
+
+.. ros:autoservice:: dynamic_tf_publisher/DissocTF
+   :raw: tail

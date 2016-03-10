@@ -1,0 +1,10 @@
+rosatomic
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosatomic

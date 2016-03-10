@@ -1,0 +1,21 @@
+slider_gui
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: slider_gui
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`slider_gui/RunProgram`
+
+.. ros:autoservice:: slider_gui/RunProgram
+   :raw: tail

@@ -1,0 +1,21 @@
+robot_pose_ekf
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_pose_ekf
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`robot_pose_ekf/GetStatus`
+
+.. ros:autoservice:: robot_pose_ekf/GetStatus
+   :raw: tail

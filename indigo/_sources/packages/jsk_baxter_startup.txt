@@ -1,0 +1,10 @@
+jsk_baxter_startup
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_baxter_startup

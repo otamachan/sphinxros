@@ -1,0 +1,10 @@
+tetris_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: tetris_description

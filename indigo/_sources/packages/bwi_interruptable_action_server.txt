@@ -1,0 +1,10 @@
+bwi_interruptable_action_server
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_interruptable_action_server

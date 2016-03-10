@@ -1,0 +1,57 @@
+sr_ronex_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_ronex_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`sr_ronex_msgs/ReceiverData`
+* :ros:msg:`sr_ronex_msgs/TCATState`
+* :ros:msg:`sr_ronex_msgs/ImpulseSample`
+* :ros:msg:`sr_ronex_msgs/GeneralIOState`
+* :ros:msg:`sr_ronex_msgs/SPIState`
+* :ros:msg:`sr_ronex_msgs/BoolArray`
+* :ros:msg:`sr_ronex_msgs/SPIPacketIn`
+* :ros:msg:`sr_ronex_msgs/PWM`
+
+.. ros:automessage:: sr_ronex_msgs/ReceiverData
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/TCATState
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/ImpulseSample
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/GeneralIOState
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/SPIState
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/BoolArray
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/SPIPacketIn
+   :raw: tail
+
+.. ros:automessage:: sr_ronex_msgs/PWM
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`sr_ronex_msgs/SPI`
+
+.. ros:autoservice:: sr_ronex_msgs/SPI
+   :raw: tail

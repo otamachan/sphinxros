@@ -1,0 +1,10 @@
+bwi_mapper
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_mapper

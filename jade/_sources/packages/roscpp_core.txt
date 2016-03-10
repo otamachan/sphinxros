@@ -1,0 +1,10 @@
+roscpp_core
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roscpp_core

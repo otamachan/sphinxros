@@ -1,0 +1,37 @@
+marti_nav_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: marti_nav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`marti_nav_msgs/TeleopState`
+* :ros:msg:`marti_nav_msgs/PathPlanning`
+* :ros:msg:`marti_nav_msgs/LeadVehicle`
+* :ros:msg:`marti_nav_msgs/VehicleControl`
+* :ros:msg:`marti_nav_msgs/Command`
+
+.. ros:automessage:: marti_nav_msgs/TeleopState
+   :raw: tail
+
+.. ros:automessage:: marti_nav_msgs/PathPlanning
+   :raw: tail
+
+.. ros:automessage:: marti_nav_msgs/LeadVehicle
+   :raw: tail
+
+.. ros:automessage:: marti_nav_msgs/VehicleControl
+   :raw: tail
+
+.. ros:automessage:: marti_nav_msgs/Command
+   :raw: tail

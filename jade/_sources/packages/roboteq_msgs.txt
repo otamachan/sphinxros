@@ -1,0 +1,29 @@
+roboteq_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roboteq_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`roboteq_msgs/Command`
+* :ros:msg:`roboteq_msgs/Feedback`
+* :ros:msg:`roboteq_msgs/Status`
+
+.. ros:automessage:: roboteq_msgs/Command
+   :raw: tail
+
+.. ros:automessage:: roboteq_msgs/Feedback
+   :raw: tail
+
+.. ros:automessage:: roboteq_msgs/Status
+   :raw: tail

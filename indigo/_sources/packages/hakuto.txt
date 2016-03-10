@@ -1,0 +1,10 @@
+hakuto
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hakuto

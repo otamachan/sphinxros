@@ -1,0 +1,10 @@
+ur_description
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ur_description

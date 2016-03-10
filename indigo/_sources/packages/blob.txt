@@ -1,0 +1,21 @@
+blob
+++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: blob
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`blob/Blob`
+
+.. ros:automessage:: blob/Blob
+   :raw: tail

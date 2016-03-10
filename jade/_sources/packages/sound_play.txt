@@ -1,0 +1,21 @@
+sound_play
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sound_play
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`sound_play/SoundRequest`
+
+.. ros:automessage:: sound_play/SoundRequest
+   :raw: tail

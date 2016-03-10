@@ -1,0 +1,109 @@
+world_canvas_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: world_canvas_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`world_canvas_msgs/AnnotationData`
+* :ros:msg:`world_canvas_msgs/Annotation`
+* :ros:msg:`world_canvas_msgs/WorldCanvas`
+* :ros:msg:`world_canvas_msgs/MapListEntry`
+* :ros:msg:`world_canvas_msgs/Annotations`
+
+.. ros:automessage:: world_canvas_msgs/AnnotationData
+   :raw: tail
+
+.. ros:automessage:: world_canvas_msgs/Annotation
+   :raw: tail
+
+.. ros:automessage:: world_canvas_msgs/WorldCanvas
+   :raw: tail
+
+.. ros:automessage:: world_canvas_msgs/MapListEntry
+   :raw: tail
+
+.. ros:automessage:: world_canvas_msgs/Annotations
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`world_canvas_msgs/SetKeyword`
+* :ros:srv:`world_canvas_msgs/ListWorlds`
+* :ros:srv:`world_canvas_msgs/DeleteMap`
+* :ros:srv:`world_canvas_msgs/GetAnnotationsData`
+* :ros:srv:`world_canvas_msgs/YAMLExport`
+* :ros:srv:`world_canvas_msgs/RenameMap`
+* :ros:srv:`world_canvas_msgs/SetRelationship`
+* :ros:srv:`world_canvas_msgs/EditAnnotationsData`
+* :ros:srv:`world_canvas_msgs/DeleteAnnotations`
+* :ros:srv:`world_canvas_msgs/GetAnnotations`
+* :ros:srv:`world_canvas_msgs/PublishMap`
+* :ros:srv:`world_canvas_msgs/PubAnnotationsData`
+* :ros:srv:`world_canvas_msgs/SaveMap`
+* :ros:srv:`world_canvas_msgs/ResetDatabase`
+* :ros:srv:`world_canvas_msgs/YAMLImport`
+* :ros:srv:`world_canvas_msgs/ListMaps`
+* :ros:srv:`world_canvas_msgs/SaveAnnotationsData`
+
+.. ros:autoservice:: world_canvas_msgs/SetKeyword
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/ListWorlds
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/DeleteMap
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/GetAnnotationsData
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/YAMLExport
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/RenameMap
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/SetRelationship
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/EditAnnotationsData
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/DeleteAnnotations
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/GetAnnotations
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/PublishMap
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/PubAnnotationsData
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/SaveMap
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/ResetDatabase
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/YAMLImport
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/ListMaps
+   :raw: tail
+
+.. ros:autoservice:: world_canvas_msgs/SaveAnnotationsData
+   :raw: tail

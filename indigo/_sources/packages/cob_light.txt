@@ -1,0 +1,45 @@
+cob_light
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_light
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_light/Sequence`
+* :ros:msg:`cob_light/ColorRGBAArray`
+* :ros:msg:`cob_light/LightMode`
+
+.. ros:automessage:: cob_light/Sequence
+   :raw: tail
+
+.. ros:automessage:: cob_light/ColorRGBAArray
+   :raw: tail
+
+.. ros:automessage:: cob_light/LightMode
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`cob_light/SetLightMode`
+
+.. ros:autoservice:: cob_light/SetLightMode
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`cob_light/SetLightMode`
+
+.. ros:autoaction:: cob_light/SetLightMode
+   :raw: tail

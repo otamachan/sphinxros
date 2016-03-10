@@ -1,0 +1,10 @@
+hector_map_server
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_map_server

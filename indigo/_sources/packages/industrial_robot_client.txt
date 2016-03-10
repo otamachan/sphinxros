@@ -1,0 +1,10 @@
+industrial_robot_client
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: industrial_robot_client

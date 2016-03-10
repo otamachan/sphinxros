@@ -1,0 +1,10 @@
+fanuc_lrmate200ic5l_moveit_config
++++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_lrmate200ic5l_moveit_config

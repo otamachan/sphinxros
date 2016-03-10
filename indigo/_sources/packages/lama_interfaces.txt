@@ -1,0 +1,73 @@
+lama_interfaces
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lama_interfaces
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`lama_interfaces/SetPolygon`
+* :ros:srv:`lama_interfaces/SetVectorDouble`
+* :ros:srv:`lama_interfaces/SetDouble`
+* :ros:srv:`lama_interfaces/GetPolygon`
+* :ros:srv:`lama_interfaces/SetVectorPose`
+* :ros:srv:`lama_interfaces/SetVectorLaserScan`
+* :ros:srv:`lama_interfaces/GetVectorOdometry`
+* :ros:srv:`lama_interfaces/AddInterface`
+* :ros:srv:`lama_interfaces/SetVectorOdometry`
+* :ros:srv:`lama_interfaces/GetDouble`
+* :ros:srv:`lama_interfaces/GetVectorLaserScan`
+* :ros:srv:`lama_interfaces/ActOnMap`
+* :ros:srv:`lama_interfaces/GetVectorDouble`
+* :ros:srv:`lama_interfaces/GetVectorPose`
+
+.. ros:autoservice:: lama_interfaces/SetPolygon
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/SetVectorDouble
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/SetDouble
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetPolygon
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/SetVectorPose
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/SetVectorLaserScan
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetVectorOdometry
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/AddInterface
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/SetVectorOdometry
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetDouble
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetVectorLaserScan
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/ActOnMap
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetVectorDouble
+   :raw: tail
+
+.. ros:autoservice:: lama_interfaces/GetVectorPose
+   :raw: tail

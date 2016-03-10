@@ -1,0 +1,10 @@
+iri_wam_moveit_config
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iri_wam_moveit_config

@@ -1,0 +1,85 @@
+app_manager
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: app_manager
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`app_manager/App`
+* :ros:msg:`app_manager/AppList`
+* :ros:msg:`app_manager/StatusCodes`
+* :ros:msg:`app_manager/AppInstallationState`
+* :ros:msg:`app_manager/KeyValue`
+* :ros:msg:`app_manager/ExchangeApp`
+* :ros:msg:`app_manager/AppStatus`
+* :ros:msg:`app_manager/ClientApp`
+* :ros:msg:`app_manager/Icon`
+
+.. ros:automessage:: app_manager/App
+   :raw: tail
+
+.. ros:automessage:: app_manager/AppList
+   :raw: tail
+
+.. ros:automessage:: app_manager/StatusCodes
+   :raw: tail
+
+.. ros:automessage:: app_manager/AppInstallationState
+   :raw: tail
+
+.. ros:automessage:: app_manager/KeyValue
+   :raw: tail
+
+.. ros:automessage:: app_manager/ExchangeApp
+   :raw: tail
+
+.. ros:automessage:: app_manager/AppStatus
+   :raw: tail
+
+.. ros:automessage:: app_manager/ClientApp
+   :raw: tail
+
+.. ros:automessage:: app_manager/Icon
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`app_manager/GetAppDetails`
+* :ros:srv:`app_manager/ListApps`
+* :ros:srv:`app_manager/GetInstallationState`
+* :ros:srv:`app_manager/StopApp`
+* :ros:srv:`app_manager/InstallApp`
+* :ros:srv:`app_manager/StartApp`
+* :ros:srv:`app_manager/UninstallApp`
+
+.. ros:autoservice:: app_manager/GetAppDetails
+   :raw: tail
+
+.. ros:autoservice:: app_manager/ListApps
+   :raw: tail
+
+.. ros:autoservice:: app_manager/GetInstallationState
+   :raw: tail
+
+.. ros:autoservice:: app_manager/StopApp
+   :raw: tail
+
+.. ros:autoservice:: app_manager/InstallApp
+   :raw: tail
+
+.. ros:autoservice:: app_manager/StartApp
+   :raw: tail
+
+.. ros:autoservice:: app_manager/UninstallApp
+   :raw: tail

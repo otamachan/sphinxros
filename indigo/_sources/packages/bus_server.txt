@@ -1,0 +1,89 @@
+bus_server
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bus_server
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`bus_server/BusUInt32Set`
+* :ros:srv:`bus_server/BusInt64Get`
+* :ros:srv:`bus_server/BusInt8Get`
+* :ros:srv:`bus_server/BusBoolGet`
+* :ros:srv:`bus_server/BusUInt64Get`
+* :ros:srv:`bus_server/BusInt16Get`
+* :ros:srv:`bus_server/BusUInt16Get`
+* :ros:srv:`bus_server/BusUInt16Set`
+* :ros:srv:`bus_server/BusInt8Set`
+* :ros:srv:`bus_server/BusUInt8Set`
+* :ros:srv:`bus_server/BusInt16Set`
+* :ros:srv:`bus_server/BusUInt32Get`
+* :ros:srv:`bus_server/BusUInt64Set`
+* :ros:srv:`bus_server/BusInt32Get`
+* :ros:srv:`bus_server/BusInt32Set`
+* :ros:srv:`bus_server/BusInt64Set`
+* :ros:srv:`bus_server/BusUInt8Get`
+* :ros:srv:`bus_server/BusBoolSet`
+
+.. ros:autoservice:: bus_server/BusUInt32Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt64Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt8Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusBoolGet
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt64Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt16Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt16Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt16Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt8Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt8Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt16Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt32Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt64Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt32Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt32Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusInt64Set
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusUInt8Get
+   :raw: tail
+
+.. ros:autoservice:: bus_server/BusBoolSet
+   :raw: tail

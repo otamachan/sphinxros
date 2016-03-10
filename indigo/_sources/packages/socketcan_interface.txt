@@ -1,0 +1,10 @@
+socketcan_interface
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: socketcan_interface

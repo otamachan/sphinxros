@@ -1,0 +1,10 @@
+mm_core_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mm_core_msgs

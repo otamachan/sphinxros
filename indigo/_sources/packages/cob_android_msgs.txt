@@ -1,0 +1,25 @@
+cob_android_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_android_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`cob_android_msgs/ScreenControl`
+* :ros:srv:`cob_android_msgs/Script`
+
+.. ros:autoservice:: cob_android_msgs/ScreenControl
+   :raw: tail
+
+.. ros:autoservice:: cob_android_msgs/Script
+   :raw: tail

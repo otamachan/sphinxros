@@ -1,0 +1,57 @@
+object_recognition_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: object_recognition_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`object_recognition_msgs/Table`
+* :ros:msg:`object_recognition_msgs/ObjectInformation`
+* :ros:msg:`object_recognition_msgs/ObjectType`
+* :ros:msg:`object_recognition_msgs/TableArray`
+* :ros:msg:`object_recognition_msgs/RecognizedObject`
+* :ros:msg:`object_recognition_msgs/RecognizedObjectArray`
+
+.. ros:automessage:: object_recognition_msgs/Table
+   :raw: tail
+
+.. ros:automessage:: object_recognition_msgs/ObjectInformation
+   :raw: tail
+
+.. ros:automessage:: object_recognition_msgs/ObjectType
+   :raw: tail
+
+.. ros:automessage:: object_recognition_msgs/TableArray
+   :raw: tail
+
+.. ros:automessage:: object_recognition_msgs/RecognizedObject
+   :raw: tail
+
+.. ros:automessage:: object_recognition_msgs/RecognizedObjectArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`object_recognition_msgs/GetObjectInformation`
+
+.. ros:autoservice:: object_recognition_msgs/GetObjectInformation
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`object_recognition_msgs/ObjectRecognition`
+
+.. ros:autoaction:: object_recognition_msgs/ObjectRecognition
+   :raw: tail

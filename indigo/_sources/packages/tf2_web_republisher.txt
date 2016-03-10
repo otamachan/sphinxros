@@ -1,0 +1,29 @@
+tf2_web_republisher
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: tf2_web_republisher
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`tf2_web_republisher/TFArray`
+
+.. ros:automessage:: tf2_web_republisher/TFArray
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`tf2_web_republisher/TFSubscription`
+
+.. ros:autoaction:: tf2_web_republisher/TFSubscription
+   :raw: tail

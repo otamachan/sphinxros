@@ -1,0 +1,10 @@
+jsk_common_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_common_msgs

@@ -1,0 +1,10 @@
+sparse_bundle_adjustment
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sparse_bundle_adjustment

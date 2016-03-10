@@ -1,0 +1,29 @@
+talos_audio
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: talos_audio
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`talos_audio/ListenFor`
+* :ros:srv:`talos_audio/ListenForAll`
+* :ros:srv:`talos_audio/ListenForAny`
+
+.. ros:autoservice:: talos_audio/ListenFor
+   :raw: tail
+
+.. ros:autoservice:: talos_audio/ListenForAll
+   :raw: tail
+
+.. ros:autoservice:: talos_audio/ListenForAny
+   :raw: tail

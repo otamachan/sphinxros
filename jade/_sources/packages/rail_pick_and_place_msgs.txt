@@ -1,0 +1,65 @@
+rail_pick_and_place_msgs
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_pick_and_place_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rail_pick_and_place_msgs/GraspWithSuccessRate`
+* :ros:msg:`rail_pick_and_place_msgs/GraspModel`
+* :ros:msg:`rail_pick_and_place_msgs/GraspDemonstration`
+
+.. ros:automessage:: rail_pick_and_place_msgs/GraspWithSuccessRate
+   :raw: tail
+
+.. ros:automessage:: rail_pick_and_place_msgs/GraspModel
+   :raw: tail
+
+.. ros:automessage:: rail_pick_and_place_msgs/GraspDemonstration
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rail_pick_and_place_msgs/RemoveObject`
+
+.. ros:autoservice:: rail_pick_and_place_msgs/RemoveObject
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`rail_pick_and_place_msgs/GenerateModels`
+* :ros:action:`rail_pick_and_place_msgs/RetrieveGraspDemonstration`
+* :ros:action:`rail_pick_and_place_msgs/RetrieveGraspModel`
+* :ros:action:`rail_pick_and_place_msgs/TrainMetrics`
+* :ros:action:`rail_pick_and_place_msgs/GraspAndStore`
+* :ros:action:`rail_pick_and_place_msgs/GetYesNoFeedback`
+
+.. ros:autoaction:: rail_pick_and_place_msgs/GenerateModels
+   :raw: tail
+
+.. ros:autoaction:: rail_pick_and_place_msgs/RetrieveGraspDemonstration
+   :raw: tail
+
+.. ros:autoaction:: rail_pick_and_place_msgs/RetrieveGraspModel
+   :raw: tail
+
+.. ros:autoaction:: rail_pick_and_place_msgs/TrainMetrics
+   :raw: tail
+
+.. ros:autoaction:: rail_pick_and_place_msgs/GraspAndStore
+   :raw: tail
+
+.. ros:autoaction:: rail_pick_and_place_msgs/GetYesNoFeedback
+   :raw: tail

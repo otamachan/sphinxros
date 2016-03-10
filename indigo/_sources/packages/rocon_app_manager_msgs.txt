@@ -1,0 +1,73 @@
+rocon_app_manager_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_app_manager_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rocon_app_manager_msgs/Status`
+* :ros:msg:`rocon_app_manager_msgs/Rapp`
+* :ros:msg:`rocon_app_manager_msgs/IncompatibleRappList`
+* :ros:msg:`rocon_app_manager_msgs/Constants`
+* :ros:msg:`rocon_app_manager_msgs/RappList`
+* :ros:msg:`rocon_app_manager_msgs/PublishedInterface`
+* :ros:msg:`rocon_app_manager_msgs/ErrorCodes`
+* :ros:msg:`rocon_app_manager_msgs/PublicInterface`
+
+.. ros:automessage:: rocon_app_manager_msgs/Status
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/Rapp
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/IncompatibleRappList
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/Constants
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/RappList
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/PublishedInterface
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/ErrorCodes
+   :raw: tail
+
+.. ros:automessage:: rocon_app_manager_msgs/PublicInterface
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rocon_app_manager_msgs/Invite`
+* :ros:srv:`rocon_app_manager_msgs/StartRapp`
+* :ros:srv:`rocon_app_manager_msgs/StopRapp`
+* :ros:srv:`rocon_app_manager_msgs/GetRappList`
+* :ros:srv:`rocon_app_manager_msgs/Init`
+
+.. ros:autoservice:: rocon_app_manager_msgs/Invite
+   :raw: tail
+
+.. ros:autoservice:: rocon_app_manager_msgs/StartRapp
+   :raw: tail
+
+.. ros:autoservice:: rocon_app_manager_msgs/StopRapp
+   :raw: tail
+
+.. ros:autoservice:: rocon_app_manager_msgs/GetRappList
+   :raw: tail
+
+.. ros:autoservice:: rocon_app_manager_msgs/Init
+   :raw: tail

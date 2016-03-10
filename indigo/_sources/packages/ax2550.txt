@@ -1,0 +1,25 @@
+ax2550
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ax2550
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ax2550/StampedEncoders`
+* :ros:msg:`ax2550/Encoders`
+
+.. ros:automessage:: ax2550/StampedEncoders
+   :raw: tail
+
+.. ros:automessage:: ax2550/Encoders
+   :raw: tail

@@ -1,0 +1,10 @@
+robot_pose_publisher
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: robot_pose_publisher

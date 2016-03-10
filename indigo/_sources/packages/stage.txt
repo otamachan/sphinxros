@@ -1,0 +1,10 @@
+stage
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stage

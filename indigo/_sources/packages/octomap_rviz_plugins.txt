@@ -1,0 +1,10 @@
+octomap_rviz_plugins
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: octomap_rviz_plugins

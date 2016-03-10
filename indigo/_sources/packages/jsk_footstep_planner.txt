@@ -1,0 +1,21 @@
+jsk_footstep_planner
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_footstep_planner
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`jsk_footstep_planner/ChangeSuccessor`
+
+.. ros:autoservice:: jsk_footstep_planner/ChangeSuccessor
+   :raw: tail

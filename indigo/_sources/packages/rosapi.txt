@@ -1,0 +1,113 @@
+rosapi
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosapi
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rosapi/TypeDef`
+
+.. ros:automessage:: rosapi/TypeDef
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rosapi/Subscribers`
+* :ros:srv:`rosapi/GetTime`
+* :ros:srv:`rosapi/DeleteParam`
+* :ros:srv:`rosapi/GetParamNames`
+* :ros:srv:`rosapi/ServiceType`
+* :ros:srv:`rosapi/SetParam`
+* :ros:srv:`rosapi/ServiceHost`
+* :ros:srv:`rosapi/GetParam`
+* :ros:srv:`rosapi/Publishers`
+* :ros:srv:`rosapi/ServiceResponseDetails`
+* :ros:srv:`rosapi/TopicsForType`
+* :ros:srv:`rosapi/ServiceProviders`
+* :ros:srv:`rosapi/SearchParam`
+* :ros:srv:`rosapi/ServiceRequestDetails`
+* :ros:srv:`rosapi/Nodes`
+* :ros:srv:`rosapi/Services`
+* :ros:srv:`rosapi/TopicType`
+* :ros:srv:`rosapi/ServicesForType`
+* :ros:srv:`rosapi/ServiceNode`
+* :ros:srv:`rosapi/MessageDetails`
+* :ros:srv:`rosapi/Topics`
+* :ros:srv:`rosapi/HasParam`
+
+.. ros:autoservice:: rosapi/Subscribers
+   :raw: tail
+
+.. ros:autoservice:: rosapi/GetTime
+   :raw: tail
+
+.. ros:autoservice:: rosapi/DeleteParam
+   :raw: tail
+
+.. ros:autoservice:: rosapi/GetParamNames
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceType
+   :raw: tail
+
+.. ros:autoservice:: rosapi/SetParam
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceHost
+   :raw: tail
+
+.. ros:autoservice:: rosapi/GetParam
+   :raw: tail
+
+.. ros:autoservice:: rosapi/Publishers
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceResponseDetails
+   :raw: tail
+
+.. ros:autoservice:: rosapi/TopicsForType
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceProviders
+   :raw: tail
+
+.. ros:autoservice:: rosapi/SearchParam
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceRequestDetails
+   :raw: tail
+
+.. ros:autoservice:: rosapi/Nodes
+   :raw: tail
+
+.. ros:autoservice:: rosapi/Services
+   :raw: tail
+
+.. ros:autoservice:: rosapi/TopicType
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServicesForType
+   :raw: tail
+
+.. ros:autoservice:: rosapi/ServiceNode
+   :raw: tail
+
+.. ros:autoservice:: rosapi/MessageDetails
+   :raw: tail
+
+.. ros:autoservice:: rosapi/Topics
+   :raw: tail
+
+.. ros:autoservice:: rosapi/HasParam
+   :raw: tail

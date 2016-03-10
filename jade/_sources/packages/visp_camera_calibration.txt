@@ -1,0 +1,41 @@
+visp_camera_calibration
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visp_camera_calibration
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`visp_camera_calibration/CalibPointArray`
+* :ros:msg:`visp_camera_calibration/ImagePoint`
+* :ros:msg:`visp_camera_calibration/ImageAndPoints`
+* :ros:msg:`visp_camera_calibration/CalibPoint`
+
+.. ros:automessage:: visp_camera_calibration/CalibPointArray
+   :raw: tail
+
+.. ros:automessage:: visp_camera_calibration/ImagePoint
+   :raw: tail
+
+.. ros:automessage:: visp_camera_calibration/ImageAndPoints
+   :raw: tail
+
+.. ros:automessage:: visp_camera_calibration/CalibPoint
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`visp_camera_calibration/calibrate`
+
+.. ros:autoservice:: visp_camera_calibration/calibrate
+   :raw: tail

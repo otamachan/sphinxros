@@ -1,0 +1,10 @@
+moveit_robots
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_robots

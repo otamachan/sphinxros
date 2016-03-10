@@ -1,0 +1,33 @@
+teb_local_planner
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: teb_local_planner
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`teb_local_planner/TrajectoryMsg`
+* :ros:msg:`teb_local_planner/TrajectoryPointMsg`
+* :ros:msg:`teb_local_planner/FeedbackMsg`
+* :ros:msg:`teb_local_planner/ObstacleMsg`
+
+.. ros:automessage:: teb_local_planner/TrajectoryMsg
+   :raw: tail
+
+.. ros:automessage:: teb_local_planner/TrajectoryPointMsg
+   :raw: tail
+
+.. ros:automessage:: teb_local_planner/FeedbackMsg
+   :raw: tail
+
+.. ros:automessage:: teb_local_planner/ObstacleMsg
+   :raw: tail

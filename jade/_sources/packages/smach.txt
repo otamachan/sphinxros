@@ -1,0 +1,10 @@
+smach
++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: smach

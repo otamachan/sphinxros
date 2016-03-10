@@ -1,0 +1,21 @@
+asmach_tutorials
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: asmach_tutorials
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`asmach_tutorials/Test`
+
+.. ros:autoaction:: asmach_tutorials/Test
+   :raw: tail

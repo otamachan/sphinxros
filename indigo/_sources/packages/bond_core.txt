@@ -1,0 +1,10 @@
+bond_core
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bond_core

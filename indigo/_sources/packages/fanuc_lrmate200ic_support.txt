@@ -1,0 +1,10 @@
+fanuc_lrmate200ic_support
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_lrmate200ic_support

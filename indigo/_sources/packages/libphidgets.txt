@@ -1,0 +1,10 @@
+libphidgets
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: libphidgets

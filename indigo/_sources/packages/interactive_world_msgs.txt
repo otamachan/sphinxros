@@ -1,0 +1,105 @@
+interactive_world_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: interactive_world_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`interactive_world_msgs/TaskModels`
+* :ros:msg:`interactive_world_msgs/Room`
+* :ros:msg:`interactive_world_msgs/TaskTrainingData`
+* :ros:msg:`interactive_world_msgs/PointOfInterest`
+* :ros:msg:`interactive_world_msgs/Configuration`
+* :ros:msg:`interactive_world_msgs/Item`
+* :ros:msg:`interactive_world_msgs/PlacementSet`
+* :ros:msg:`interactive_world_msgs/Model`
+* :ros:msg:`interactive_world_msgs/Placement`
+* :ros:msg:`interactive_world_msgs/Surface`
+
+.. ros:automessage:: interactive_world_msgs/TaskModels
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Room
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/TaskTrainingData
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/PointOfInterest
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Configuration
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Item
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/PlacementSet
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Model
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Placement
+   :raw: tail
+
+.. ros:automessage:: interactive_world_msgs/Surface
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`interactive_world_msgs/FindSurface`
+* :ros:srv:`interactive_world_msgs/TransformToSurfaceFrame`
+* :ros:srv:`interactive_world_msgs/Parse`
+* :ros:srv:`interactive_world_msgs/LearnModels`
+* :ros:srv:`interactive_world_msgs/FindObservations`
+* :ros:srv:`interactive_world_msgs/StoreObservation`
+* :ros:srv:`interactive_world_msgs/LoadModels`
+
+.. ros:autoservice:: interactive_world_msgs/FindSurface
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/TransformToSurfaceFrame
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/Parse
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/LearnModels
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/FindObservations
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/StoreObservation
+   :raw: tail
+
+.. ros:autoservice:: interactive_world_msgs/LoadModels
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`interactive_world_msgs/DriveToSurface`
+* :ros:action:`interactive_world_msgs/DriveAndSearch`
+* :ros:action:`interactive_world_msgs/ObjectSearch`
+
+.. ros:autoaction:: interactive_world_msgs/DriveToSurface
+   :raw: tail
+
+.. ros:autoaction:: interactive_world_msgs/DriveAndSearch
+   :raw: tail
+
+.. ros:autoaction:: interactive_world_msgs/ObjectSearch
+   :raw: tail

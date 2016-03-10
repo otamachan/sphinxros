@@ -1,0 +1,141 @@
+opencv_apps
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: opencv_apps
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`opencv_apps/RotatedRectStamped`
+* :ros:msg:`opencv_apps/CircleArray`
+* :ros:msg:`opencv_apps/RotatedRectArrayStamped`
+* :ros:msg:`opencv_apps/ContourArrayStamped`
+* :ros:msg:`opencv_apps/Line`
+* :ros:msg:`opencv_apps/Face`
+* :ros:msg:`opencv_apps/LineArray`
+* :ros:msg:`opencv_apps/ContourArray`
+* :ros:msg:`opencv_apps/Rect`
+* :ros:msg:`opencv_apps/LineArrayStamped`
+* :ros:msg:`opencv_apps/CircleArrayStamped`
+* :ros:msg:`opencv_apps/Moment`
+* :ros:msg:`opencv_apps/FlowStamped`
+* :ros:msg:`opencv_apps/Size`
+* :ros:msg:`opencv_apps/FaceArray`
+* :ros:msg:`opencv_apps/Circle`
+* :ros:msg:`opencv_apps/RectArray`
+* :ros:msg:`opencv_apps/Point2D`
+* :ros:msg:`opencv_apps/FlowArrayStamped`
+* :ros:msg:`opencv_apps/MomentArrayStamped`
+* :ros:msg:`opencv_apps/Point2DStamped`
+* :ros:msg:`opencv_apps/Contour`
+* :ros:msg:`opencv_apps/Flow`
+* :ros:msg:`opencv_apps/Point2DArrayStamped`
+* :ros:msg:`opencv_apps/FlowArray`
+* :ros:msg:`opencv_apps/RectArrayStamped`
+* :ros:msg:`opencv_apps/Point2DArray`
+* :ros:msg:`opencv_apps/MomentArray`
+* :ros:msg:`opencv_apps/RotatedRect`
+* :ros:msg:`opencv_apps/FaceArrayStamped`
+* :ros:msg:`opencv_apps/RotatedRectArray`
+
+.. ros:automessage:: opencv_apps/RotatedRectStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/CircleArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/RotatedRectArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/ContourArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Line
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Face
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/LineArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/ContourArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Rect
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/LineArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/CircleArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Moment
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/FlowStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Size
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/FaceArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Circle
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/RectArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Point2D
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/FlowArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/MomentArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Point2DStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Contour
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Flow
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Point2DArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/FlowArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/RectArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/Point2DArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/MomentArray
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/RotatedRect
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/FaceArrayStamped
+   :raw: tail
+
+.. ros:automessage:: opencv_apps/RotatedRectArray
+   :raw: tail

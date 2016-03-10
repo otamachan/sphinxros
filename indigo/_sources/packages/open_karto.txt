@@ -1,0 +1,10 @@
+open_karto
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: open_karto

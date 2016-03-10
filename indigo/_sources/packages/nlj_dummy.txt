@@ -1,0 +1,33 @@
+nlj_dummy
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nlj_dummy
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nlj_dummy/Dummy`
+
+.. ros:automessage:: nlj_dummy/Dummy
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`nlj_dummy/GetDummyDescriptor`
+* :ros:srv:`nlj_dummy/SetDummyDescriptor`
+
+.. ros:autoservice:: nlj_dummy/GetDummyDescriptor
+   :raw: tail
+
+.. ros:autoservice:: nlj_dummy/SetDummyDescriptor
+   :raw: tail

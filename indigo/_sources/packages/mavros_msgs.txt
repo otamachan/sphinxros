@@ -1,0 +1,225 @@
+mavros_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mavros_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mavros_msgs/BatteryStatus`
+* :ros:msg:`mavros_msgs/CommandCode`
+* :ros:msg:`mavros_msgs/ExtendedState`
+* :ros:msg:`mavros_msgs/Mavlink`
+* :ros:msg:`mavros_msgs/GlobalPositionTarget`
+* :ros:msg:`mavros_msgs/RCOut`
+* :ros:msg:`mavros_msgs/HomePosition`
+* :ros:msg:`mavros_msgs/State`
+* :ros:msg:`mavros_msgs/RadioStatus`
+* :ros:msg:`mavros_msgs/CamIMUStamp`
+* :ros:msg:`mavros_msgs/OverrideRCIn`
+* :ros:msg:`mavros_msgs/ParamValue`
+* :ros:msg:`mavros_msgs/VFR_HUD`
+* :ros:msg:`mavros_msgs/RCIn`
+* :ros:msg:`mavros_msgs/WaypointList`
+* :ros:msg:`mavros_msgs/FileEntry`
+* :ros:msg:`mavros_msgs/ActuatorControl`
+* :ros:msg:`mavros_msgs/AttitudeTarget`
+* :ros:msg:`mavros_msgs/ManualControl`
+* :ros:msg:`mavros_msgs/Altitude`
+* :ros:msg:`mavros_msgs/Vibration`
+* :ros:msg:`mavros_msgs/PositionTarget`
+* :ros:msg:`mavros_msgs/OpticalFlowRad`
+* :ros:msg:`mavros_msgs/Waypoint`
+
+.. ros:automessage:: mavros_msgs/BatteryStatus
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/CommandCode
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/ExtendedState
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/Mavlink
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/GlobalPositionTarget
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/RCOut
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/HomePosition
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/State
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/RadioStatus
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/CamIMUStamp
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/OverrideRCIn
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/ParamValue
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/VFR_HUD
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/RCIn
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/WaypointList
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/FileEntry
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/ActuatorControl
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/AttitudeTarget
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/ManualControl
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/Altitude
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/Vibration
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/PositionTarget
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/OpticalFlowRad
+   :raw: tail
+
+.. ros:automessage:: mavros_msgs/Waypoint
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`mavros_msgs/FileRename`
+* :ros:srv:`mavros_msgs/FileMakeDir`
+* :ros:srv:`mavros_msgs/SetMode`
+* :ros:srv:`mavros_msgs/FileRemoveDir`
+* :ros:srv:`mavros_msgs/FileRemove`
+* :ros:srv:`mavros_msgs/StreamRate`
+* :ros:srv:`mavros_msgs/WaypointClear`
+* :ros:srv:`mavros_msgs/WaypointPull`
+* :ros:srv:`mavros_msgs/CommandBool`
+* :ros:srv:`mavros_msgs/WaypointSetCurrent`
+* :ros:srv:`mavros_msgs/ParamSet`
+* :ros:srv:`mavros_msgs/WaypointPush`
+* :ros:srv:`mavros_msgs/ParamGet`
+* :ros:srv:`mavros_msgs/CommandInt`
+* :ros:srv:`mavros_msgs/FileOpen`
+* :ros:srv:`mavros_msgs/CommandTriggerControl`
+* :ros:srv:`mavros_msgs/FileWrite`
+* :ros:srv:`mavros_msgs/CommandTOL`
+* :ros:srv:`mavros_msgs/FileTruncate`
+* :ros:srv:`mavros_msgs/FileChecksum`
+* :ros:srv:`mavros_msgs/ParamPull`
+* :ros:srv:`mavros_msgs/CommandHome`
+* :ros:srv:`mavros_msgs/FileList`
+* :ros:srv:`mavros_msgs/ParamPush`
+* :ros:srv:`mavros_msgs/FileRead`
+* :ros:srv:`mavros_msgs/CommandLong`
+* :ros:srv:`mavros_msgs/FileClose`
+
+.. ros:autoservice:: mavros_msgs/FileRename
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileMakeDir
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/SetMode
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileRemoveDir
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileRemove
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/StreamRate
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/WaypointClear
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/WaypointPull
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandBool
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/WaypointSetCurrent
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/ParamSet
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/WaypointPush
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/ParamGet
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandInt
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileOpen
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandTriggerControl
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileWrite
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandTOL
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileTruncate
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileChecksum
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/ParamPull
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandHome
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileList
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/ParamPush
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileRead
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/CommandLong
+   :raw: tail
+
+.. ros:autoservice:: mavros_msgs/FileClose
+   :raw: tail

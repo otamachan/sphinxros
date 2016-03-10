@@ -1,0 +1,10 @@
+multisense_description
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multisense_description

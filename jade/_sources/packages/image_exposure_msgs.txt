@@ -1,0 +1,29 @@
+image_exposure_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: image_exposure_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`image_exposure_msgs/SequenceExposureStatistics`
+* :ros:msg:`image_exposure_msgs/ImageExposureStatistics`
+* :ros:msg:`image_exposure_msgs/ExposureSequence`
+
+.. ros:automessage:: image_exposure_msgs/SequenceExposureStatistics
+   :raw: tail
+
+.. ros:automessage:: image_exposure_msgs/ImageExposureStatistics
+   :raw: tail
+
+.. ros:automessage:: image_exposure_msgs/ExposureSequence
+   :raw: tail

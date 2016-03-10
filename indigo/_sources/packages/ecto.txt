@@ -1,0 +1,10 @@
+ecto
+++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecto

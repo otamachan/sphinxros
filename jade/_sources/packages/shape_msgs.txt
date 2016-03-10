@@ -1,0 +1,33 @@
+shape_msgs
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: shape_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`shape_msgs/MeshTriangle`
+* :ros:msg:`shape_msgs/Plane`
+* :ros:msg:`shape_msgs/SolidPrimitive`
+* :ros:msg:`shape_msgs/Mesh`
+
+.. ros:automessage:: shape_msgs/MeshTriangle
+   :raw: tail
+
+.. ros:automessage:: shape_msgs/Plane
+   :raw: tail
+
+.. ros:automessage:: shape_msgs/SolidPrimitive
+   :raw: tail
+
+.. ros:automessage:: shape_msgs/Mesh
+   :raw: tail

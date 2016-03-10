@@ -1,0 +1,49 @@
+humanoid_nav_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: humanoid_nav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`humanoid_nav_msgs/StepTarget`
+
+.. ros:automessage:: humanoid_nav_msgs/StepTarget
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`humanoid_nav_msgs/StepTargetService`
+* :ros:srv:`humanoid_nav_msgs/PlanFootsteps`
+* :ros:srv:`humanoid_nav_msgs/PlanFootstepsBetweenFeet`
+* :ros:srv:`humanoid_nav_msgs/ClipFootstep`
+
+.. ros:autoservice:: humanoid_nav_msgs/StepTargetService
+   :raw: tail
+
+.. ros:autoservice:: humanoid_nav_msgs/PlanFootsteps
+   :raw: tail
+
+.. ros:autoservice:: humanoid_nav_msgs/PlanFootstepsBetweenFeet
+   :raw: tail
+
+.. ros:autoservice:: humanoid_nav_msgs/ClipFootstep
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`humanoid_nav_msgs/ExecFootsteps`
+
+.. ros:autoaction:: humanoid_nav_msgs/ExecFootsteps
+   :raw: tail

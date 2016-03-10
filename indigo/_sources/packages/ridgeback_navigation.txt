@@ -1,0 +1,10 @@
+ridgeback_navigation
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ridgeback_navigation

@@ -1,0 +1,10 @@
+sr_tactile_sensors
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: sr_tactile_sensors

@@ -1,0 +1,25 @@
+velodyne_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: velodyne_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`velodyne_msgs/VelodyneScan`
+* :ros:msg:`velodyne_msgs/VelodynePacket`
+
+.. ros:automessage:: velodyne_msgs/VelodyneScan
+   :raw: tail
+
+.. ros:automessage:: velodyne_msgs/VelodynePacket
+   :raw: tail

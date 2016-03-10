@@ -1,0 +1,10 @@
+shadow_robot_ethercat
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: shadow_robot_ethercat

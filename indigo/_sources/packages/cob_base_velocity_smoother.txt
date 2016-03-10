@@ -1,0 +1,10 @@
+cob_base_velocity_smoother
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_base_velocity_smoother

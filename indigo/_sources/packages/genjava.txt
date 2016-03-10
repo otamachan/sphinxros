@@ -1,0 +1,10 @@
+genjava
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: genjava

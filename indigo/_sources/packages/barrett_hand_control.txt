@@ -1,0 +1,10 @@
+barrett_hand_control
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: barrett_hand_control

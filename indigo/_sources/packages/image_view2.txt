@@ -1,0 +1,37 @@
+image_view2
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: image_view2
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`image_view2/PointArrayStamped`
+* :ros:msg:`image_view2/ImageMarker2`
+* :ros:msg:`image_view2/MouseEvent`
+
+.. ros:automessage:: image_view2/PointArrayStamped
+   :raw: tail
+
+.. ros:automessage:: image_view2/ImageMarker2
+   :raw: tail
+
+.. ros:automessage:: image_view2/MouseEvent
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`image_view2/ChangeMode`
+
+.. ros:autoservice:: image_view2/ChangeMode
+   :raw: tail

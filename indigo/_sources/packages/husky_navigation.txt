@@ -1,0 +1,10 @@
+husky_navigation
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_navigation

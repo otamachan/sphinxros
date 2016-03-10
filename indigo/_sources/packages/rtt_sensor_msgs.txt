@@ -1,0 +1,10 @@
+rtt_sensor_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rtt_sensor_msgs

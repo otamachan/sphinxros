@@ -1,0 +1,10 @@
+rocon_hub
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_hub

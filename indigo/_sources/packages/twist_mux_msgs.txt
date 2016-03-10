@@ -1,0 +1,25 @@
+twist_mux_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: twist_mux_msgs
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`twist_mux_msgs/JoyPriority`
+* :ros:action:`twist_mux_msgs/JoyTurbo`
+
+.. ros:autoaction:: twist_mux_msgs/JoyPriority
+   :raw: tail
+
+.. ros:autoaction:: twist_mux_msgs/JoyTurbo
+   :raw: tail

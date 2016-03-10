@@ -1,0 +1,10 @@
+pyros_setup
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pyros_setup

@@ -1,0 +1,77 @@
+multimaster_msgs_fkie
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: multimaster_msgs_fkie
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`multimaster_msgs_fkie/LinkState`
+* :ros:msg:`multimaster_msgs_fkie/Capability`
+* :ros:msg:`multimaster_msgs_fkie/ROSMaster`
+* :ros:msg:`multimaster_msgs_fkie/SyncServiceInfo`
+* :ros:msg:`multimaster_msgs_fkie/SyncTopicInfo`
+* :ros:msg:`multimaster_msgs_fkie/MasterState`
+* :ros:msg:`multimaster_msgs_fkie/SyncMasterInfo`
+* :ros:msg:`multimaster_msgs_fkie/LinkStatesStamped`
+
+.. ros:automessage:: multimaster_msgs_fkie/LinkState
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/Capability
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/ROSMaster
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/SyncServiceInfo
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/SyncTopicInfo
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/MasterState
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/SyncMasterInfo
+   :raw: tail
+
+.. ros:automessage:: multimaster_msgs_fkie/LinkStatesStamped
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`multimaster_msgs_fkie/Task`
+* :ros:srv:`multimaster_msgs_fkie/GetSyncInfo`
+* :ros:srv:`multimaster_msgs_fkie/LoadLaunch`
+* :ros:srv:`multimaster_msgs_fkie/DiscoverMasters`
+* :ros:srv:`multimaster_msgs_fkie/ListDescription`
+* :ros:srv:`multimaster_msgs_fkie/ListNodes`
+
+.. ros:autoservice:: multimaster_msgs_fkie/Task
+   :raw: tail
+
+.. ros:autoservice:: multimaster_msgs_fkie/GetSyncInfo
+   :raw: tail
+
+.. ros:autoservice:: multimaster_msgs_fkie/LoadLaunch
+   :raw: tail
+
+.. ros:autoservice:: multimaster_msgs_fkie/DiscoverMasters
+   :raw: tail
+
+.. ros:autoservice:: multimaster_msgs_fkie/ListDescription
+   :raw: tail
+
+.. ros:autoservice:: multimaster_msgs_fkie/ListNodes
+   :raw: tail

@@ -1,0 +1,10 @@
+virtual_force_publisher
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: virtual_force_publisher

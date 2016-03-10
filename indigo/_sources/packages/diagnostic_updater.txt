@@ -1,0 +1,10 @@
+diagnostic_updater
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: diagnostic_updater

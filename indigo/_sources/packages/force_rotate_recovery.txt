@@ -1,0 +1,10 @@
+force_rotate_recovery
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: force_rotate_recovery

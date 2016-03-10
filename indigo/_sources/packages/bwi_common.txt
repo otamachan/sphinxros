@@ -1,0 +1,10 @@
+bwi_common
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_common

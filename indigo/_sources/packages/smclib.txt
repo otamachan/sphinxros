@@ -1,0 +1,10 @@
+smclib
+++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: smclib

@@ -1,0 +1,41 @@
+schunk_ezn64
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_ezn64
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`schunk_ezn64/stop`
+* :ros:srv:`schunk_ezn64/get_error`
+* :ros:srv:`schunk_ezn64/set_position`
+* :ros:srv:`schunk_ezn64/get_position`
+* :ros:srv:`schunk_ezn64/reference`
+* :ros:srv:`schunk_ezn64/acknowledge_error`
+
+.. ros:autoservice:: schunk_ezn64/stop
+   :raw: tail
+
+.. ros:autoservice:: schunk_ezn64/get_error
+   :raw: tail
+
+.. ros:autoservice:: schunk_ezn64/set_position
+   :raw: tail
+
+.. ros:autoservice:: schunk_ezn64/get_position
+   :raw: tail
+
+.. ros:autoservice:: schunk_ezn64/reference
+   :raw: tail
+
+.. ros:autoservice:: schunk_ezn64/acknowledge_error
+   :raw: tail

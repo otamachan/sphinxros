@@ -1,0 +1,21 @@
+rocon_tutorial_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_tutorial_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`rocon_tutorial_msgs/GetAvailableResources`
+
+.. ros:autoservice:: rocon_tutorial_msgs/GetAvailableResources
+   :raw: tail

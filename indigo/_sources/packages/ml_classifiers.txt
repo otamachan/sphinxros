@@ -1,0 +1,53 @@
+ml_classifiers
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ml_classifiers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ml_classifiers/ClassDataPoint`
+
+.. ros:automessage:: ml_classifiers/ClassDataPoint
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`ml_classifiers/ClearClassifier`
+* :ros:srv:`ml_classifiers/CreateClassifier`
+* :ros:srv:`ml_classifiers/SaveClassifier`
+* :ros:srv:`ml_classifiers/TrainClassifier`
+* :ros:srv:`ml_classifiers/ClassifyData`
+* :ros:srv:`ml_classifiers/LoadClassifier`
+* :ros:srv:`ml_classifiers/AddClassData`
+
+.. ros:autoservice:: ml_classifiers/ClearClassifier
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/CreateClassifier
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/SaveClassifier
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/TrainClassifier
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/ClassifyData
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/LoadClassifier
+   :raw: tail
+
+.. ros:autoservice:: ml_classifiers/AddClassData
+   :raw: tail

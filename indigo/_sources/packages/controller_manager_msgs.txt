@@ -1,0 +1,57 @@
+controller_manager_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: controller_manager_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`controller_manager_msgs/ControllerStatistics`
+* :ros:msg:`controller_manager_msgs/ControllerState`
+* :ros:msg:`controller_manager_msgs/ControllersStatistics`
+
+.. ros:automessage:: controller_manager_msgs/ControllerStatistics
+   :raw: tail
+
+.. ros:automessage:: controller_manager_msgs/ControllerState
+   :raw: tail
+
+.. ros:automessage:: controller_manager_msgs/ControllersStatistics
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`controller_manager_msgs/LoadController`
+* :ros:srv:`controller_manager_msgs/ListControllers`
+* :ros:srv:`controller_manager_msgs/SwitchController`
+* :ros:srv:`controller_manager_msgs/UnloadController`
+* :ros:srv:`controller_manager_msgs/ReloadControllerLibraries`
+* :ros:srv:`controller_manager_msgs/ListControllerTypes`
+
+.. ros:autoservice:: controller_manager_msgs/LoadController
+   :raw: tail
+
+.. ros:autoservice:: controller_manager_msgs/ListControllers
+   :raw: tail
+
+.. ros:autoservice:: controller_manager_msgs/SwitchController
+   :raw: tail
+
+.. ros:autoservice:: controller_manager_msgs/UnloadController
+   :raw: tail
+
+.. ros:autoservice:: controller_manager_msgs/ReloadControllerLibraries
+   :raw: tail
+
+.. ros:autoservice:: controller_manager_msgs/ListControllerTypes
+   :raw: tail

@@ -1,0 +1,25 @@
+wifi_ddwrt
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: wifi_ddwrt
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`wifi_ddwrt/Network`
+* :ros:msg:`wifi_ddwrt/SiteSurvey`
+
+.. ros:automessage:: wifi_ddwrt/Network
+   :raw: tail
+
+.. ros:automessage:: wifi_ddwrt/SiteSurvey
+   :raw: tail

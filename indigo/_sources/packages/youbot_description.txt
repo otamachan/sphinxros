@@ -1,0 +1,10 @@
+youbot_description
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: youbot_description

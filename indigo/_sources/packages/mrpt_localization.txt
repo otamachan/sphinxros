@@ -1,0 +1,10 @@
+mrpt_localization
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrpt_localization

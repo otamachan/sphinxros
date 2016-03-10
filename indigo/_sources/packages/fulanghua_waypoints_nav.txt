@@ -1,0 +1,10 @@
+fulanghua_waypoints_nav
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fulanghua_waypoints_nav

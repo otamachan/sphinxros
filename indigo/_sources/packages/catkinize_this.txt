@@ -1,0 +1,10 @@
+catkinize_this
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: catkinize_this

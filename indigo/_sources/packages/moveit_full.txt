@@ -1,0 +1,10 @@
+moveit_full
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_full

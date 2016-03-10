@@ -1,0 +1,10 @@
+fanuc_m16ib_support
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_m16ib_support

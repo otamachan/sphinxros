@@ -1,0 +1,21 @@
+roseus_remote
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: roseus_remote
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`roseus_remote/RawCommand`
+
+.. ros:automessage:: roseus_remote/RawCommand
+   :raw: tail

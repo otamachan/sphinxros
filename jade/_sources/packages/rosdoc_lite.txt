@@ -1,0 +1,10 @@
+rosdoc_lite
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosdoc_lite

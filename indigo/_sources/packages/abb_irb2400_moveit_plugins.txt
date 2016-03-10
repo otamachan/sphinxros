@@ -1,0 +1,10 @@
+abb_irb2400_moveit_plugins
+++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: abb_irb2400_moveit_plugins

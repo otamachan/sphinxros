@@ -1,0 +1,149 @@
+adhoc_communication
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: adhoc_communication
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`adhoc_communication/MmMapUpdate`
+* :ros:msg:`adhoc_communication/ExpAuctionElement`
+* :ros:msg:`adhoc_communication/RecvString`
+* :ros:msg:`adhoc_communication/ExpClusterElement`
+* :ros:msg:`adhoc_communication/MmRobotPosition`
+* :ros:msg:`adhoc_communication/MmControl`
+* :ros:msg:`adhoc_communication/MmListOfPoints`
+* :ros:msg:`adhoc_communication/CMgrRobotUpdate`
+* :ros:msg:`adhoc_communication/ExpFrontierElement`
+* :ros:msg:`adhoc_communication/MmPoint`
+* :ros:msg:`adhoc_communication/ExpFrontier`
+* :ros:msg:`adhoc_communication/ExpCluster`
+* :ros:msg:`adhoc_communication/CMgrDimensions`
+* :ros:msg:`adhoc_communication/ExpAuction`
+
+.. ros:automessage:: adhoc_communication/MmMapUpdate
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpAuctionElement
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/RecvString
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpClusterElement
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/MmRobotPosition
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/MmControl
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/MmListOfPoints
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/CMgrRobotUpdate
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpFrontierElement
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/MmPoint
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpFrontier
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpCluster
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/CMgrDimensions
+   :raw: tail
+
+.. ros:automessage:: adhoc_communication/ExpAuction
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`adhoc_communication/ChangeMCMembership`
+* :ros:srv:`adhoc_communication/SendString`
+* :ros:srv:`adhoc_communication/SendOccupancyGrid`
+* :ros:srv:`adhoc_communication/SendMmPoint`
+* :ros:srv:`adhoc_communication/SendQuaternion`
+* :ros:srv:`adhoc_communication/SendMmMapUpdate`
+* :ros:srv:`adhoc_communication/SendCMgrRobotUpdate`
+* :ros:srv:`adhoc_communication/BroadcastCMgrRobotUpdate`
+* :ros:srv:`adhoc_communication/SendMmControl`
+* :ros:srv:`adhoc_communication/GetNeighbors`
+* :ros:srv:`adhoc_communication/GetGroupState`
+* :ros:srv:`adhoc_communication/SendTwist`
+* :ros:srv:`adhoc_communication/SendExpFrontier`
+* :ros:srv:`adhoc_communication/BroadcastString`
+* :ros:srv:`adhoc_communication/SendMmRobotPosition`
+* :ros:srv:`adhoc_communication/SendExpCluster`
+* :ros:srv:`adhoc_communication/ShutDown`
+* :ros:srv:`adhoc_communication/SendExpAuction`
+
+.. ros:autoservice:: adhoc_communication/ChangeMCMembership
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendString
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendOccupancyGrid
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendMmPoint
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendQuaternion
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendMmMapUpdate
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendCMgrRobotUpdate
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/BroadcastCMgrRobotUpdate
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendMmControl
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/GetNeighbors
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/GetGroupState
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendTwist
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendExpFrontier
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/BroadcastString
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendMmRobotPosition
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendExpCluster
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/ShutDown
+   :raw: tail
+
+.. ros:autoservice:: adhoc_communication/SendExpAuction
+   :raw: tail

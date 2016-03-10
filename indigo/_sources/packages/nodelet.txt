@@ -1,0 +1,29 @@
+nodelet
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nodelet
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`nodelet/NodeletList`
+* :ros:srv:`nodelet/NodeletLoad`
+* :ros:srv:`nodelet/NodeletUnload`
+
+.. ros:autoservice:: nodelet/NodeletList
+   :raw: tail
+
+.. ros:autoservice:: nodelet/NodeletLoad
+   :raw: tail
+
+.. ros:autoservice:: nodelet/NodeletUnload
+   :raw: tail

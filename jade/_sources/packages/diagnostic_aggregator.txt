@@ -1,0 +1,10 @@
+diagnostic_aggregator
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: diagnostic_aggregator

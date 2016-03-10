@@ -1,0 +1,10 @@
+baxter_moveit_config
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_moveit_config

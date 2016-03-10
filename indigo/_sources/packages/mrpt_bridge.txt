@@ -1,0 +1,10 @@
+mrpt_bridge
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrpt_bridge

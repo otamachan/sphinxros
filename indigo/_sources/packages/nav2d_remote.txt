@@ -1,0 +1,10 @@
+nav2d_remote
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nav2d_remote

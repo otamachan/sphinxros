@@ -1,0 +1,10 @@
+cob_relayboard
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_relayboard

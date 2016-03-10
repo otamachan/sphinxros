@@ -1,0 +1,10 @@
+collada_urdf
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: collada_urdf

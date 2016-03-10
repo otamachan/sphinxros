@@ -1,0 +1,25 @@
+ndt_map
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ndt_map
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ndt_map/NDTCellMsg`
+* :ros:msg:`ndt_map/NDTMapMsg`
+
+.. ros:automessage:: ndt_map/NDTCellMsg
+   :raw: tail
+
+.. ros:automessage:: ndt_map/NDTMapMsg
+   :raw: tail

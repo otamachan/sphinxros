@@ -1,0 +1,10 @@
+moveit_ikfast
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_ikfast

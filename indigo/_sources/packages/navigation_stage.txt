@@ -1,0 +1,10 @@
+navigation_stage
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: navigation_stage

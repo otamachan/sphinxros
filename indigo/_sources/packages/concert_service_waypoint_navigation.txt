@@ -1,0 +1,10 @@
+concert_service_waypoint_navigation
++++++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: concert_service_waypoint_navigation

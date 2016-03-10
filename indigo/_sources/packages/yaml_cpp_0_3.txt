@@ -1,0 +1,10 @@
+yaml_cpp_0_3
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yaml_cpp_0_3

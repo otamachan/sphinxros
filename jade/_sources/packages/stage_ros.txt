@@ -1,0 +1,10 @@
+stage_ros
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stage_ros

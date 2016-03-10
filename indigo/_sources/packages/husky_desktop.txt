@@ -1,0 +1,10 @@
+husky_desktop
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: husky_desktop

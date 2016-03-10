@@ -1,0 +1,61 @@
+cob_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cob_msgs/Network`
+* :ros:msg:`cob_msgs/DashboardState`
+* :ros:msg:`cob_msgs/PowerState`
+* :ros:msg:`cob_msgs/BatteryState2`
+* :ros:msg:`cob_msgs/AccessPoint`
+* :ros:msg:`cob_msgs/EmergencyStopState`
+* :ros:msg:`cob_msgs/BatteryServer`
+* :ros:msg:`cob_msgs/BatteryServer2`
+* :ros:msg:`cob_msgs/BatteryState`
+* :ros:msg:`cob_msgs/PowerBoardState`
+* :ros:msg:`cob_msgs/SiteSurvey`
+
+.. ros:automessage:: cob_msgs/Network
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/DashboardState
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/PowerState
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/BatteryState2
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/AccessPoint
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/EmergencyStopState
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/BatteryServer
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/BatteryServer2
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/BatteryState
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/PowerBoardState
+   :raw: tail
+
+.. ros:automessage:: cob_msgs/SiteSurvey
+   :raw: tail

@@ -1,0 +1,10 @@
+imu_sensor_controller
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: imu_sensor_controller

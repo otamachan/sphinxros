@@ -1,0 +1,25 @@
+std_srvs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: std_srvs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`std_srvs/Empty`
+* :ros:srv:`std_srvs/Trigger`
+
+.. ros:autoservice:: std_srvs/Empty
+   :raw: tail
+
+.. ros:autoservice:: std_srvs/Trigger
+   :raw: tail

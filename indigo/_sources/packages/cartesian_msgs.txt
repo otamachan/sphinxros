@@ -1,0 +1,21 @@
+cartesian_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cartesian_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`cartesian_msgs/CartesianCommand`
+
+.. ros:automessage:: cartesian_msgs/CartesianCommand
+   :raw: tail

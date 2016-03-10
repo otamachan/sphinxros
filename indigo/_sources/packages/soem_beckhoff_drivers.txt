@@ -1,0 +1,49 @@
+soem_beckhoff_drivers
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: soem_beckhoff_drivers
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`soem_beckhoff_drivers/AnalogMsg`
+* :ros:msg:`soem_beckhoff_drivers/PSUMsg`
+* :ros:msg:`soem_beckhoff_drivers/EncoderInMsg`
+* :ros:msg:`soem_beckhoff_drivers/EncoderOutMsg`
+* :ros:msg:`soem_beckhoff_drivers/EncoderMsg`
+* :ros:msg:`soem_beckhoff_drivers/CommMsg`
+* :ros:msg:`soem_beckhoff_drivers/CommMsgBig`
+* :ros:msg:`soem_beckhoff_drivers/DigitalMsg`
+
+.. ros:automessage:: soem_beckhoff_drivers/AnalogMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/PSUMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/EncoderInMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/EncoderOutMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/EncoderMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/CommMsg
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/CommMsgBig
+   :raw: tail
+
+.. ros:automessage:: soem_beckhoff_drivers/DigitalMsg
+   :raw: tail

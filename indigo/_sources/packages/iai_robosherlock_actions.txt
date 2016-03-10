@@ -1,0 +1,37 @@
+iai_robosherlock_actions
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_robosherlock_actions
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`iai_robosherlock_actions/PerceivedObjects`
+* :ros:msg:`iai_robosherlock_actions/PerceivedObject`
+* :ros:msg:`iai_robosherlock_actions/SimpleObjectPerceptionRequest`
+
+.. ros:automessage:: iai_robosherlock_actions/PerceivedObjects
+   :raw: tail
+
+.. ros:automessage:: iai_robosherlock_actions/PerceivedObject
+   :raw: tail
+
+.. ros:automessage:: iai_robosherlock_actions/SimpleObjectPerceptionRequest
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`iai_robosherlock_actions/SimplePerceiveObject`
+
+.. ros:autoaction:: iai_robosherlock_actions/SimplePerceiveObject
+   :raw: tail

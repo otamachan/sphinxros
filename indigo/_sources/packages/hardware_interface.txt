@@ -1,0 +1,10 @@
+hardware_interface
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hardware_interface

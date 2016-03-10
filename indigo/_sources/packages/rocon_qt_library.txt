@@ -1,0 +1,10 @@
+rocon_qt_library
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_qt_library

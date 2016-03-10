@@ -1,0 +1,21 @@
+hector_gazebo_plugins
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_gazebo_plugins
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`hector_gazebo_plugins/SetBias`
+
+.. ros:autoservice:: hector_gazebo_plugins/SetBias
+   :raw: tail

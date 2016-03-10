@@ -1,0 +1,10 @@
+velodyne_simulator
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: velodyne_simulator

@@ -1,0 +1,10 @@
+rosbag_image_compressor
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosbag_image_compressor

@@ -1,0 +1,10 @@
+hector_localization
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_localization

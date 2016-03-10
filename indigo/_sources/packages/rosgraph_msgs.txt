@@ -1,0 +1,29 @@
+rosgraph_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosgraph_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rosgraph_msgs/Clock`
+* :ros:msg:`rosgraph_msgs/Log`
+* :ros:msg:`rosgraph_msgs/TopicStatistics`
+
+.. ros:automessage:: rosgraph_msgs/Clock
+   :raw: tail
+
+.. ros:automessage:: rosgraph_msgs/Log
+   :raw: tail
+
+.. ros:automessage:: rosgraph_msgs/TopicStatistics
+   :raw: tail

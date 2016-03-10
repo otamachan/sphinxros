@@ -1,0 +1,10 @@
+split_sequence
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: split_sequence

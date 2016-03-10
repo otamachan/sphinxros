@@ -1,0 +1,10 @@
+global_planner
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: global_planner

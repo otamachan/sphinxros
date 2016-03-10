@@ -1,0 +1,101 @@
+hector_uav_msgs
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: hector_uav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`hector_uav_msgs/RuddersCommand`
+* :ros:msg:`hector_uav_msgs/Altimeter`
+* :ros:msg:`hector_uav_msgs/Compass`
+* :ros:msg:`hector_uav_msgs/MotorCommand`
+* :ros:msg:`hector_uav_msgs/RawMagnetic`
+* :ros:msg:`hector_uav_msgs/ServoCommand`
+* :ros:msg:`hector_uav_msgs/YawrateCommand`
+* :ros:msg:`hector_uav_msgs/VelocityZCommand`
+* :ros:msg:`hector_uav_msgs/AttitudeCommand`
+* :ros:msg:`hector_uav_msgs/PositionXYCommand`
+* :ros:msg:`hector_uav_msgs/HeightCommand`
+* :ros:msg:`hector_uav_msgs/Supply`
+* :ros:msg:`hector_uav_msgs/RawRC`
+* :ros:msg:`hector_uav_msgs/ControllerState`
+* :ros:msg:`hector_uav_msgs/RawImu`
+* :ros:msg:`hector_uav_msgs/RC`
+* :ros:msg:`hector_uav_msgs/MotorPWM`
+* :ros:msg:`hector_uav_msgs/ThrustCommand`
+* :ros:msg:`hector_uav_msgs/MotorStatus`
+* :ros:msg:`hector_uav_msgs/HeadingCommand`
+* :ros:msg:`hector_uav_msgs/VelocityXYCommand`
+
+.. ros:automessage:: hector_uav_msgs/RuddersCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/Altimeter
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/Compass
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/MotorCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/RawMagnetic
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/ServoCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/YawrateCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/VelocityZCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/AttitudeCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/PositionXYCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/HeightCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/Supply
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/RawRC
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/ControllerState
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/RawImu
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/RC
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/MotorPWM
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/ThrustCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/MotorStatus
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/HeadingCommand
+   :raw: tail
+
+.. ros:automessage:: hector_uav_msgs/VelocityXYCommand
+   :raw: tail

@@ -1,0 +1,10 @@
+yocs_virtual_sensor
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: yocs_virtual_sensor

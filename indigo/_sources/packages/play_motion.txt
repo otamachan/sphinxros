@@ -1,0 +1,10 @@
+play_motion
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: play_motion

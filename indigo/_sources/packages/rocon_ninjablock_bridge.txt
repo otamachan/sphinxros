@@ -1,0 +1,10 @@
+rocon_ninjablock_bridge
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_ninjablock_bridge

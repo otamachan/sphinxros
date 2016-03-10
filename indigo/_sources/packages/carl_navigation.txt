@@ -1,0 +1,29 @@
+carl_navigation
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_navigation
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`carl_navigation/BlockedCells`
+
+.. ros:automessage:: carl_navigation/BlockedCells
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`carl_navigation/MoveCarl`
+
+.. ros:autoaction:: carl_navigation/MoveCarl
+   :raw: tail

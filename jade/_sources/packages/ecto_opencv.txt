@@ -1,0 +1,10 @@
+ecto_opencv
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecto_opencv

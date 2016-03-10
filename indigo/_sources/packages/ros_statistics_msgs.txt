@@ -1,0 +1,25 @@
+ros_statistics_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_statistics_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ros_statistics_msgs/HostStatistics`
+* :ros:msg:`ros_statistics_msgs/NodeStatistics`
+
+.. ros:automessage:: ros_statistics_msgs/HostStatistics
+   :raw: tail
+
+.. ros:automessage:: ros_statistics_msgs/NodeStatistics
+   :raw: tail

@@ -1,0 +1,10 @@
+ros_control_boilerplate
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_control_boilerplate

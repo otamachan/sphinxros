@@ -1,0 +1,10 @@
+stop_base
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: stop_base

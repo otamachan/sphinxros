@@ -1,0 +1,10 @@
+cob_control_mode_adapter
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_control_mode_adapter

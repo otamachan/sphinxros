@@ -1,0 +1,10 @@
+pluginlib
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pluginlib

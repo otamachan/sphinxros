@@ -1,0 +1,53 @@
+rosjava_test_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosjava_test_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rosjava_test_msgs/TestPrimitives`
+* :ros:msg:`rosjava_test_msgs/CompositeA`
+* :ros:msg:`rosjava_test_msgs/TestArrays`
+* :ros:msg:`rosjava_test_msgs/TestHeader`
+* :ros:msg:`rosjava_test_msgs/CompositeB`
+* :ros:msg:`rosjava_test_msgs/Composite`
+* :ros:msg:`rosjava_test_msgs/TestString`
+
+.. ros:automessage:: rosjava_test_msgs/TestPrimitives
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/CompositeA
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/TestArrays
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/TestHeader
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/CompositeB
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/Composite
+   :raw: tail
+
+.. ros:automessage:: rosjava_test_msgs/TestString
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rosjava_test_msgs/AddTwoInts`
+
+.. ros:autoservice:: rosjava_test_msgs/AddTwoInts
+   :raw: tail

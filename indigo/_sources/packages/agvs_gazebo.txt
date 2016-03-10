@@ -1,0 +1,10 @@
+agvs_gazebo
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: agvs_gazebo

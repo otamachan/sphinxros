@@ -1,0 +1,37 @@
+scheduler_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: scheduler_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`scheduler_msgs/CurrentStatus`
+* :ros:msg:`scheduler_msgs/Resource`
+* :ros:msg:`scheduler_msgs/KnownResources`
+* :ros:msg:`scheduler_msgs/SchedulerRequests`
+* :ros:msg:`scheduler_msgs/Request`
+
+.. ros:automessage:: scheduler_msgs/CurrentStatus
+   :raw: tail
+
+.. ros:automessage:: scheduler_msgs/Resource
+   :raw: tail
+
+.. ros:automessage:: scheduler_msgs/KnownResources
+   :raw: tail
+
+.. ros:automessage:: scheduler_msgs/SchedulerRequests
+   :raw: tail
+
+.. ros:automessage:: scheduler_msgs/Request
+   :raw: tail

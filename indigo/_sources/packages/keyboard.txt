@@ -1,0 +1,21 @@
+keyboard
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: keyboard
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`keyboard/Key`
+
+.. ros:automessage:: keyboard/Key
+   :raw: tail

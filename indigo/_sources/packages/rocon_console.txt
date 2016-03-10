@@ -1,0 +1,10 @@
+rocon_console
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_console

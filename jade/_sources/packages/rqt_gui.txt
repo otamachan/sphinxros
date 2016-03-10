@@ -1,0 +1,10 @@
+rqt_gui
++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_gui

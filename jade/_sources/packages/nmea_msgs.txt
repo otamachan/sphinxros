@@ -1,0 +1,21 @@
+nmea_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nmea_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nmea_msgs/Sentence`
+
+.. ros:automessage:: nmea_msgs/Sentence
+   :raw: tail

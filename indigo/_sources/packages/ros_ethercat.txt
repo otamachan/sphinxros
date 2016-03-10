@@ -1,0 +1,10 @@
+ros_ethercat
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ros_ethercat

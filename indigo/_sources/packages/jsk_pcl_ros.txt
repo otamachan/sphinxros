@@ -1,0 +1,85 @@
+jsk_pcl_ros
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_pcl_ros
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`jsk_pcl_ros/UpdateOffset`
+* :ros:srv:`jsk_pcl_ros/CheckCollision`
+* :ros:srv:`jsk_pcl_ros/EuclideanSegment`
+* :ros:srv:`jsk_pcl_ros/SnapFootstep`
+* :ros:srv:`jsk_pcl_ros/ICPAlignWithBox`
+* :ros:srv:`jsk_pcl_ros/ICPAlign`
+* :ros:srv:`jsk_pcl_ros/SetDepthCalibrationParameter`
+* :ros:srv:`jsk_pcl_ros/TowerPickUp`
+* :ros:srv:`jsk_pcl_ros/CallPolygon`
+* :ros:srv:`jsk_pcl_ros/CheckCircle`
+* :ros:srv:`jsk_pcl_ros/TransformScreenpoint`
+* :ros:srv:`jsk_pcl_ros/PolygonOnEnvironment`
+* :ros:srv:`jsk_pcl_ros/EnvironmentLock`
+* :ros:srv:`jsk_pcl_ros/CallSnapIt`
+* :ros:srv:`jsk_pcl_ros/RobotPickupReleasePoint`
+* :ros:srv:`jsk_pcl_ros/SwitchTopic`
+* :ros:srv:`jsk_pcl_ros/TowerRobotMoveCommand`
+
+.. ros:autoservice:: jsk_pcl_ros/UpdateOffset
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/CheckCollision
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/EuclideanSegment
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/SnapFootstep
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/ICPAlignWithBox
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/ICPAlign
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/SetDepthCalibrationParameter
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/TowerPickUp
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/CallPolygon
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/CheckCircle
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/TransformScreenpoint
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/PolygonOnEnvironment
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/EnvironmentLock
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/CallSnapIt
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/RobotPickupReleasePoint
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/SwitchTopic
+   :raw: tail
+
+.. ros:autoservice:: jsk_pcl_ros/TowerRobotMoveCommand
+   :raw: tail

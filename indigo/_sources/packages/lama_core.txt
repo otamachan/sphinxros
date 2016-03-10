@@ -1,0 +1,10 @@
+lama_core
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: lama_core

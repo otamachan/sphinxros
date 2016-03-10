@@ -1,0 +1,10 @@
+fake_localization
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fake_localization

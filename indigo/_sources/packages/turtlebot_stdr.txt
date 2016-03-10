@@ -1,0 +1,10 @@
+turtlebot_stdr
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: turtlebot_stdr

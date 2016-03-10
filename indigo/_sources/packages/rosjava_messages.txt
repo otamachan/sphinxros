@@ -1,0 +1,10 @@
+rosjava_messages
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosjava_messages

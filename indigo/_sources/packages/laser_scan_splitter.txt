@@ -1,0 +1,10 @@
+laser_scan_splitter
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: laser_scan_splitter

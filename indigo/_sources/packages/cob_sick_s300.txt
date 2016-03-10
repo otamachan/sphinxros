@@ -1,0 +1,10 @@
+cob_sick_s300
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_sick_s300

@@ -1,0 +1,21 @@
+speech_recognition_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: speech_recognition_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`speech_recognition_msgs/SpeechRecognitionCandidates`
+
+.. ros:automessage:: speech_recognition_msgs/SpeechRecognitionCandidates
+   :raw: tail

@@ -1,0 +1,25 @@
+laser_assembler
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: laser_assembler
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`laser_assembler/AssembleScans2`
+* :ros:srv:`laser_assembler/AssembleScans`
+
+.. ros:autoservice:: laser_assembler/AssembleScans2
+   :raw: tail
+
+.. ros:autoservice:: laser_assembler/AssembleScans
+   :raw: tail

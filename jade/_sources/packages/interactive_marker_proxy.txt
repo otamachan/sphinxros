@@ -1,0 +1,21 @@
+interactive_marker_proxy
+++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: interactive_marker_proxy
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`interactive_marker_proxy/GetInit`
+
+.. ros:autoservice:: interactive_marker_proxy/GetInit
+   :raw: tail

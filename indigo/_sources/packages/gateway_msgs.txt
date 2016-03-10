@@ -1,0 +1,81 @@
+gateway_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: gateway_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`gateway_msgs/RemoteGateway`
+* :ros:msg:`gateway_msgs/RemoteRuleWithStatus`
+* :ros:msg:`gateway_msgs/RemoteRule`
+* :ros:msg:`gateway_msgs/ConnectionStatistics`
+* :ros:msg:`gateway_msgs/GatewayInfo`
+* :ros:msg:`gateway_msgs/ErrorCodes`
+* :ros:msg:`gateway_msgs/Rule`
+* :ros:msg:`gateway_msgs/ConnectionType`
+
+.. ros:automessage:: gateway_msgs/RemoteGateway
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/RemoteRuleWithStatus
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/RemoteRule
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/ConnectionStatistics
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/GatewayInfo
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/ErrorCodes
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/Rule
+   :raw: tail
+
+.. ros:automessage:: gateway_msgs/ConnectionType
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`gateway_msgs/SetWatcherPeriod`
+* :ros:srv:`gateway_msgs/RemoteAll`
+* :ros:srv:`gateway_msgs/Remote`
+* :ros:srv:`gateway_msgs/AdvertiseAll`
+* :ros:srv:`gateway_msgs/ConnectHub`
+* :ros:srv:`gateway_msgs/RemoteGatewayInfo`
+* :ros:srv:`gateway_msgs/Advertise`
+
+.. ros:autoservice:: gateway_msgs/SetWatcherPeriod
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/RemoteAll
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/Remote
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/AdvertiseAll
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/ConnectHub
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/RemoteGatewayInfo
+   :raw: tail
+
+.. ros:autoservice:: gateway_msgs/Advertise
+   :raw: tail

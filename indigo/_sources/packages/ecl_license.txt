@@ -1,0 +1,10 @@
+ecl_license
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_license

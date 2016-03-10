@@ -1,0 +1,37 @@
+jsk_footstep_msgs
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: jsk_footstep_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`jsk_footstep_msgs/Footstep`
+* :ros:msg:`jsk_footstep_msgs/FootstepArray`
+
+.. ros:automessage:: jsk_footstep_msgs/Footstep
+   :raw: tail
+
+.. ros:automessage:: jsk_footstep_msgs/FootstepArray
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`jsk_footstep_msgs/ExecFootsteps`
+* :ros:action:`jsk_footstep_msgs/PlanFootsteps`
+
+.. ros:autoaction:: jsk_footstep_msgs/ExecFootsteps
+   :raw: tail
+
+.. ros:autoaction:: jsk_footstep_msgs/PlanFootsteps
+   :raw: tail

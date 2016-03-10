@@ -1,0 +1,10 @@
+pr2_power_drivers
++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_power_drivers

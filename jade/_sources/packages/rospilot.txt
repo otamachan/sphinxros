@@ -1,0 +1,73 @@
+rospilot
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospilot
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rospilot/IMURaw`
+* :ros:msg:`rospilot/Waypoints`
+* :ros:msg:`rospilot/GPSRaw`
+* :ros:msg:`rospilot/Attitude`
+* :ros:msg:`rospilot/RCState`
+* :ros:msg:`rospilot/Resolution`
+* :ros:msg:`rospilot/BasicStatus`
+* :ros:msg:`rospilot/Waypoint`
+* :ros:msg:`rospilot/Resolutions`
+
+.. ros:automessage:: rospilot/IMURaw
+   :raw: tail
+
+.. ros:automessage:: rospilot/Waypoints
+   :raw: tail
+
+.. ros:automessage:: rospilot/GPSRaw
+   :raw: tail
+
+.. ros:automessage:: rospilot/Attitude
+   :raw: tail
+
+.. ros:automessage:: rospilot/RCState
+   :raw: tail
+
+.. ros:automessage:: rospilot/Resolution
+   :raw: tail
+
+.. ros:automessage:: rospilot/BasicStatus
+   :raw: tail
+
+.. ros:automessage:: rospilot/Waypoint
+   :raw: tail
+
+.. ros:automessage:: rospilot/Resolutions
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rospilot/SetBasicMode`
+* :ros:srv:`rospilot/CaptureImage`
+* :ros:srv:`rospilot/Glob`
+* :ros:srv:`rospilot/SetWaypoints`
+
+.. ros:autoservice:: rospilot/SetBasicMode
+   :raw: tail
+
+.. ros:autoservice:: rospilot/CaptureImage
+   :raw: tail
+
+.. ros:autoservice:: rospilot/Glob
+   :raw: tail
+
+.. ros:autoservice:: rospilot/SetWaypoints
+   :raw: tail

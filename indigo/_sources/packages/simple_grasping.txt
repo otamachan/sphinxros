@@ -1,0 +1,10 @@
+simple_grasping
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: simple_grasping

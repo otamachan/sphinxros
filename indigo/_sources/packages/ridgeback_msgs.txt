@@ -1,0 +1,33 @@
+ridgeback_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ridgeback_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`ridgeback_msgs/Status`
+* :ros:msg:`ridgeback_msgs/RGB`
+* :ros:msg:`ridgeback_msgs/Lights`
+* :ros:msg:`ridgeback_msgs/Fans`
+
+.. ros:automessage:: ridgeback_msgs/Status
+   :raw: tail
+
+.. ros:automessage:: ridgeback_msgs/RGB
+   :raw: tail
+
+.. ros:automessage:: ridgeback_msgs/Lights
+   :raw: tail
+
+.. ros:automessage:: ridgeback_msgs/Fans
+   :raw: tail

@@ -1,0 +1,77 @@
+pgm_learner
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pgm_learner
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pgm_learner/DiscreteNodeState`
+* :ros:msg:`pgm_learner/LinearGaussianGraphState`
+* :ros:msg:`pgm_learner/GraphEdge`
+* :ros:msg:`pgm_learner/DiscreteNode`
+* :ros:msg:`pgm_learner/LinearGaussianNode`
+* :ros:msg:`pgm_learner/LinearGaussianNodeState`
+* :ros:msg:`pgm_learner/ConditionalProbability`
+* :ros:msg:`pgm_learner/GraphStructure`
+* :ros:msg:`pgm_learner/DiscreteGraphState`
+
+.. ros:automessage:: pgm_learner/DiscreteNodeState
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/LinearGaussianGraphState
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/GraphEdge
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/DiscreteNode
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/LinearGaussianNode
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/LinearGaussianNodeState
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/ConditionalProbability
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/GraphStructure
+   :raw: tail
+
+.. ros:automessage:: pgm_learner/DiscreteGraphState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pgm_learner/DiscreteQuery`
+* :ros:srv:`pgm_learner/LinearGaussianParameterEstimation`
+* :ros:srv:`pgm_learner/LinearGaussianStructureEstimation`
+* :ros:srv:`pgm_learner/DiscreteStructureEstimation`
+* :ros:srv:`pgm_learner/DiscreteParameterEstimation`
+
+.. ros:autoservice:: pgm_learner/DiscreteQuery
+   :raw: tail
+
+.. ros:autoservice:: pgm_learner/LinearGaussianParameterEstimation
+   :raw: tail
+
+.. ros:autoservice:: pgm_learner/LinearGaussianStructureEstimation
+   :raw: tail
+
+.. ros:autoservice:: pgm_learner/DiscreteStructureEstimation
+   :raw: tail
+
+.. ros:autoservice:: pgm_learner/DiscreteParameterEstimation
+   :raw: tail

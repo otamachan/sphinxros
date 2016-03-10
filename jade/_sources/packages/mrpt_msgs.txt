@@ -1,0 +1,25 @@
+mrpt_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrpt_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`mrpt_msgs/ObservationRangeBearing`
+* :ros:msg:`mrpt_msgs/SingleRangeBearingObservation`
+
+.. ros:automessage:: mrpt_msgs/ObservationRangeBearing
+   :raw: tail
+
+.. ros:automessage:: mrpt_msgs/SingleRangeBearingObservation
+   :raw: tail

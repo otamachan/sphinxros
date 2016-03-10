@@ -1,0 +1,33 @@
+pcl_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pcl_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pcl_msgs/PolygonMesh`
+* :ros:msg:`pcl_msgs/ModelCoefficients`
+* :ros:msg:`pcl_msgs/PointIndices`
+* :ros:msg:`pcl_msgs/Vertices`
+
+.. ros:automessage:: pcl_msgs/PolygonMesh
+   :raw: tail
+
+.. ros:automessage:: pcl_msgs/ModelCoefficients
+   :raw: tail
+
+.. ros:automessage:: pcl_msgs/PointIndices
+   :raw: tail
+
+.. ros:automessage:: pcl_msgs/Vertices
+   :raw: tail

@@ -1,0 +1,65 @@
+brics_actuator
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: brics_actuator
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`brics_actuator/JointPositions`
+* :ros:msg:`brics_actuator/JointTorques`
+* :ros:msg:`brics_actuator/CartesianWrench`
+* :ros:msg:`brics_actuator/JointValue`
+* :ros:msg:`brics_actuator/JointImpedances`
+* :ros:msg:`brics_actuator/JointVelocities`
+* :ros:msg:`brics_actuator/CartesianVector`
+* :ros:msg:`brics_actuator/Poison`
+* :ros:msg:`brics_actuator/JointConstraint`
+* :ros:msg:`brics_actuator/JointAccelerations`
+* :ros:msg:`brics_actuator/CartesianTwist`
+* :ros:msg:`brics_actuator/CartesianPose`
+
+.. ros:automessage:: brics_actuator/JointPositions
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointTorques
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/CartesianWrench
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointValue
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointImpedances
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointVelocities
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/CartesianVector
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/Poison
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointConstraint
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/JointAccelerations
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/CartesianTwist
+   :raw: tail
+
+.. ros:automessage:: brics_actuator/CartesianPose
+   :raw: tail

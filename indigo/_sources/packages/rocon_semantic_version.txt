@@ -1,0 +1,10 @@
+rocon_semantic_version
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_semantic_version

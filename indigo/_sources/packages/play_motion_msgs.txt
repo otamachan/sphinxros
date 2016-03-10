@@ -1,0 +1,41 @@
+play_motion_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: play_motion_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`play_motion_msgs/MotionInfo`
+
+.. ros:automessage:: play_motion_msgs/MotionInfo
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`play_motion_msgs/IsAlreadyThere`
+* :ros:srv:`play_motion_msgs/ListMotions`
+
+.. ros:autoservice:: play_motion_msgs/IsAlreadyThere
+   :raw: tail
+
+.. ros:autoservice:: play_motion_msgs/ListMotions
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`play_motion_msgs/PlayMotion`
+
+.. ros:autoaction:: play_motion_msgs/PlayMotion
+   :raw: tail

@@ -1,0 +1,29 @@
+dynamixel_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dynamixel_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`dynamixel_msgs/JointState`
+* :ros:msg:`dynamixel_msgs/MotorState`
+* :ros:msg:`dynamixel_msgs/MotorStateList`
+
+.. ros:automessage:: dynamixel_msgs/JointState
+   :raw: tail
+
+.. ros:automessage:: dynamixel_msgs/MotorState
+   :raw: tail
+
+.. ros:automessage:: dynamixel_msgs/MotorStateList
+   :raw: tail

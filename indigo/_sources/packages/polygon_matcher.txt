@@ -1,0 +1,21 @@
+polygon_matcher
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: polygon_matcher
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`polygon_matcher/PolygonDissimilarity`
+
+.. ros:autoservice:: polygon_matcher/PolygonDissimilarity
+   :raw: tail

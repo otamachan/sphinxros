@@ -1,0 +1,10 @@
+nao_interaction_launchers
++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nao_interaction_launchers

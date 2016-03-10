@@ -1,0 +1,10 @@
+rwt_config_generator
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rwt_config_generator

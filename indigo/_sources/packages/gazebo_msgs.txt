@@ -1,0 +1,137 @@
+gazebo_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: gazebo_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`gazebo_msgs/LinkState`
+* :ros:msg:`gazebo_msgs/WorldState`
+* :ros:msg:`gazebo_msgs/LinkStates`
+* :ros:msg:`gazebo_msgs/ModelStates`
+* :ros:msg:`gazebo_msgs/ModelState`
+* :ros:msg:`gazebo_msgs/ODEPhysics`
+* :ros:msg:`gazebo_msgs/ODEJointProperties`
+* :ros:msg:`gazebo_msgs/ContactsState`
+* :ros:msg:`gazebo_msgs/ContactState`
+
+.. ros:automessage:: gazebo_msgs/LinkState
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/WorldState
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/LinkStates
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ModelStates
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ModelState
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ODEPhysics
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ODEJointProperties
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ContactsState
+   :raw: tail
+
+.. ros:automessage:: gazebo_msgs/ContactState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`gazebo_msgs/GetLinkProperties`
+* :ros:srv:`gazebo_msgs/SetModelState`
+* :ros:srv:`gazebo_msgs/GetJointProperties`
+* :ros:srv:`gazebo_msgs/GetLinkState`
+* :ros:srv:`gazebo_msgs/GetModelProperties`
+* :ros:srv:`gazebo_msgs/GetPhysicsProperties`
+* :ros:srv:`gazebo_msgs/SetPhysicsProperties`
+* :ros:srv:`gazebo_msgs/SetModelConfiguration`
+* :ros:srv:`gazebo_msgs/ApplyJointEffort`
+* :ros:srv:`gazebo_msgs/SetLinkProperties`
+* :ros:srv:`gazebo_msgs/GetWorldProperties`
+* :ros:srv:`gazebo_msgs/SetLinkState`
+* :ros:srv:`gazebo_msgs/JointRequest`
+* :ros:srv:`gazebo_msgs/DeleteModel`
+* :ros:srv:`gazebo_msgs/ApplyBodyWrench`
+* :ros:srv:`gazebo_msgs/SetJointProperties`
+* :ros:srv:`gazebo_msgs/GetModelState`
+* :ros:srv:`gazebo_msgs/SpawnModel`
+* :ros:srv:`gazebo_msgs/SetJointTrajectory`
+* :ros:srv:`gazebo_msgs/BodyRequest`
+
+.. ros:autoservice:: gazebo_msgs/GetLinkProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetModelState
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetJointProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetLinkState
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetModelProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetPhysicsProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetPhysicsProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetModelConfiguration
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/ApplyJointEffort
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetLinkProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetWorldProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetLinkState
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/JointRequest
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/DeleteModel
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/ApplyBodyWrench
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetJointProperties
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/GetModelState
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SpawnModel
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/SetJointTrajectory
+   :raw: tail
+
+.. ros:autoservice:: gazebo_msgs/BodyRequest
+   :raw: tail

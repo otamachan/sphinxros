@@ -1,0 +1,10 @@
+visp_bridge
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: visp_bridge

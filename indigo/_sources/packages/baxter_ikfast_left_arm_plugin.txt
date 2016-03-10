@@ -1,0 +1,10 @@
+baxter_ikfast_left_arm_plugin
++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_ikfast_left_arm_plugin

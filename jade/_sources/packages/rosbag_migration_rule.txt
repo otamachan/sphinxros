@@ -1,0 +1,10 @@
+rosbag_migration_rule
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosbag_migration_rule

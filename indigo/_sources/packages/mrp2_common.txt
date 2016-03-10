@@ -1,0 +1,10 @@
+mrp2_common
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: mrp2_common

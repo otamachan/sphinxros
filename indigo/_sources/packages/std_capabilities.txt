@@ -1,0 +1,10 @@
+std_capabilities
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: std_capabilities

@@ -1,0 +1,10 @@
+rotors_joy_interface
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rotors_joy_interface

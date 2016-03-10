@@ -1,0 +1,10 @@
+ecl_console
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: ecl_console

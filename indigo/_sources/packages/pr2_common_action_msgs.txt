@@ -1,0 +1,25 @@
+pr2_common_action_msgs
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_common_action_msgs
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`pr2_common_action_msgs/TuckArms`
+* :ros:action:`pr2_common_action_msgs/ArmMoveIK`
+
+.. ros:autoaction:: pr2_common_action_msgs/TuckArms
+   :raw: tail
+
+.. ros:autoaction:: pr2_common_action_msgs/ArmMoveIK
+   :raw: tail

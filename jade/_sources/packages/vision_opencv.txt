@@ -1,0 +1,10 @@
+vision_opencv
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: vision_opencv

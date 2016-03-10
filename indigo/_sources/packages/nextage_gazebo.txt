@@ -1,0 +1,10 @@
+nextage_gazebo
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nextage_gazebo

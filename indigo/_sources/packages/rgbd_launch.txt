@@ -1,0 +1,10 @@
+rgbd_launch
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rgbd_launch

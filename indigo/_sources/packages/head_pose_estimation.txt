@@ -1,0 +1,10 @@
+head_pose_estimation
+++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: head_pose_estimation

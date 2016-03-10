@@ -1,0 +1,61 @@
+nav_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: nav_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`nav_msgs/MapMetaData`
+* :ros:msg:`nav_msgs/Odometry`
+* :ros:msg:`nav_msgs/GridCells`
+* :ros:msg:`nav_msgs/Path`
+* :ros:msg:`nav_msgs/OccupancyGrid`
+
+.. ros:automessage:: nav_msgs/MapMetaData
+   :raw: tail
+
+.. ros:automessage:: nav_msgs/Odometry
+   :raw: tail
+
+.. ros:automessage:: nav_msgs/GridCells
+   :raw: tail
+
+.. ros:automessage:: nav_msgs/Path
+   :raw: tail
+
+.. ros:automessage:: nav_msgs/OccupancyGrid
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`nav_msgs/SetMap`
+* :ros:srv:`nav_msgs/GetMap`
+* :ros:srv:`nav_msgs/GetPlan`
+
+.. ros:autoservice:: nav_msgs/SetMap
+   :raw: tail
+
+.. ros:autoservice:: nav_msgs/GetMap
+   :raw: tail
+
+.. ros:autoservice:: nav_msgs/GetPlan
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`nav_msgs/GetMap`
+
+.. ros:autoaction:: nav_msgs/GetMap
+   :raw: tail

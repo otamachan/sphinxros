@@ -1,0 +1,69 @@
+pr2_mechanism_msgs
+++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_mechanism_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`pr2_mechanism_msgs/ControllerStatistics`
+* :ros:msg:`pr2_mechanism_msgs/ActuatorStatistics`
+* :ros:msg:`pr2_mechanism_msgs/MechanismStatistics`
+* :ros:msg:`pr2_mechanism_msgs/JointStatistics`
+
+.. ros:automessage:: pr2_mechanism_msgs/ControllerStatistics
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_msgs/ActuatorStatistics
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_msgs/MechanismStatistics
+   :raw: tail
+
+.. ros:automessage:: pr2_mechanism_msgs/JointStatistics
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`pr2_mechanism_msgs/LoadController`
+* :ros:srv:`pr2_mechanism_msgs/ListControllers`
+* :ros:srv:`pr2_mechanism_msgs/SwitchController`
+* :ros:srv:`pr2_mechanism_msgs/UnloadController`
+* :ros:srv:`pr2_mechanism_msgs/ReloadControllerLibraries`
+* :ros:srv:`pr2_mechanism_msgs/ListControllerTypes`
+
+.. ros:autoservice:: pr2_mechanism_msgs/LoadController
+   :raw: tail
+
+.. ros:autoservice:: pr2_mechanism_msgs/ListControllers
+   :raw: tail
+
+.. ros:autoservice:: pr2_mechanism_msgs/SwitchController
+   :raw: tail
+
+.. ros:autoservice:: pr2_mechanism_msgs/UnloadController
+   :raw: tail
+
+.. ros:autoservice:: pr2_mechanism_msgs/ReloadControllerLibraries
+   :raw: tail
+
+.. ros:autoservice:: pr2_mechanism_msgs/ListControllerTypes
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`pr2_mechanism_msgs/SwitchController`
+
+.. ros:autoaction:: pr2_mechanism_msgs/SwitchController
+   :raw: tail

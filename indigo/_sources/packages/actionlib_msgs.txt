@@ -1,0 +1,29 @@
+actionlib_msgs
+++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: actionlib_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`actionlib_msgs/GoalStatusArray`
+* :ros:msg:`actionlib_msgs/GoalID`
+* :ros:msg:`actionlib_msgs/GoalStatus`
+
+.. ros:automessage:: actionlib_msgs/GoalStatusArray
+   :raw: tail
+
+.. ros:automessage:: actionlib_msgs/GoalID
+   :raw: tail
+
+.. ros:automessage:: actionlib_msgs/GoalStatus
+   :raw: tail

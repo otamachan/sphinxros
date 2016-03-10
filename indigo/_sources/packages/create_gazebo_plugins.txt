@@ -1,0 +1,10 @@
+create_gazebo_plugins
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: create_gazebo_plugins

@@ -1,0 +1,10 @@
+pr2_map_navigation_app
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_map_navigation_app

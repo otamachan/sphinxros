@@ -1,0 +1,21 @@
+uuid_msgs
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: uuid_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`uuid_msgs/UniqueID`
+
+.. ros:automessage:: uuid_msgs/UniqueID
+   :raw: tail

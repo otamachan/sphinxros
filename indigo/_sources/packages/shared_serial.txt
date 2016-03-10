@@ -1,0 +1,49 @@
+shared_serial
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: shared_serial
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`shared_serial/Flush`
+* :ros:msg:`shared_serial/Send`
+* :ros:msg:`shared_serial/Close`
+
+.. ros:automessage:: shared_serial/Flush
+   :raw: tail
+
+.. ros:automessage:: shared_serial/Send
+   :raw: tail
+
+.. ros:automessage:: shared_serial/Close
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`shared_serial/SendTo`
+* :ros:srv:`shared_serial/SendRecv`
+* :ros:srv:`shared_serial/Recv`
+* :ros:srv:`shared_serial/Connect`
+
+.. ros:autoservice:: shared_serial/SendTo
+   :raw: tail
+
+.. ros:autoservice:: shared_serial/SendRecv
+   :raw: tail
+
+.. ros:autoservice:: shared_serial/Recv
+   :raw: tail
+
+.. ros:autoservice:: shared_serial/Connect
+   :raw: tail

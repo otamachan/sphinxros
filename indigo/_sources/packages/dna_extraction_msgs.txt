@@ -1,0 +1,21 @@
+dna_extraction_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: dna_extraction_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`dna_extraction_msgs/PerceiveChemLabTool`
+
+.. ros:autoservice:: dna_extraction_msgs/PerceiveChemLabTool
+   :raw: tail

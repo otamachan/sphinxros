@@ -1,0 +1,261 @@
+moveit_msgs
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`moveit_msgs/VisibilityConstraint`
+* :ros:msg:`moveit_msgs/AttachedCollisionObject`
+* :ros:msg:`moveit_msgs/LinkScale`
+* :ros:msg:`moveit_msgs/PlanningSceneComponents`
+* :ros:msg:`moveit_msgs/DisplayRobotState`
+* :ros:msg:`moveit_msgs/ObjectColor`
+* :ros:msg:`moveit_msgs/Grasp`
+* :ros:msg:`moveit_msgs/GripperTranslation`
+* :ros:msg:`moveit_msgs/RobotState`
+* :ros:msg:`moveit_msgs/TrajectoryConstraints`
+* :ros:msg:`moveit_msgs/MoveItErrorCodes`
+* :ros:msg:`moveit_msgs/OrientationConstraint`
+* :ros:msg:`moveit_msgs/LinkPadding`
+* :ros:msg:`moveit_msgs/MotionPlanRequest`
+* :ros:msg:`moveit_msgs/AllowedCollisionEntry`
+* :ros:msg:`moveit_msgs/PlanningSceneWorld`
+* :ros:msg:`moveit_msgs/PlanningScene`
+* :ros:msg:`moveit_msgs/WorkspaceParameters`
+* :ros:msg:`moveit_msgs/Constraints`
+* :ros:msg:`moveit_msgs/KinematicSolverInfo`
+* :ros:msg:`moveit_msgs/RobotTrajectory`
+* :ros:msg:`moveit_msgs/OrientedBoundingBox`
+* :ros:msg:`moveit_msgs/ContactInformation`
+* :ros:msg:`moveit_msgs/JointConstraint`
+* :ros:msg:`moveit_msgs/PlanningOptions`
+* :ros:msg:`moveit_msgs/MotionPlanResponse`
+* :ros:msg:`moveit_msgs/PlannerInterfaceDescription`
+* :ros:msg:`moveit_msgs/PlaceLocation`
+* :ros:msg:`moveit_msgs/JointLimits`
+* :ros:msg:`moveit_msgs/ConstraintEvalResult`
+* :ros:msg:`moveit_msgs/MotionPlanDetailedResponse`
+* :ros:msg:`moveit_msgs/BoundingVolume`
+* :ros:msg:`moveit_msgs/PositionIKRequest`
+* :ros:msg:`moveit_msgs/CollisionObject`
+* :ros:msg:`moveit_msgs/AllowedCollisionMatrix`
+* :ros:msg:`moveit_msgs/PositionConstraint`
+* :ros:msg:`moveit_msgs/DisplayTrajectory`
+* :ros:msg:`moveit_msgs/CostSource`
+
+.. ros:automessage:: moveit_msgs/VisibilityConstraint
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/AttachedCollisionObject
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/LinkScale
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlanningSceneComponents
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/DisplayRobotState
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/ObjectColor
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/Grasp
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/GripperTranslation
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/RobotState
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/TrajectoryConstraints
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/MoveItErrorCodes
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/OrientationConstraint
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/LinkPadding
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/MotionPlanRequest
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/AllowedCollisionEntry
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlanningSceneWorld
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlanningScene
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/WorkspaceParameters
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/Constraints
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/KinematicSolverInfo
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/RobotTrajectory
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/OrientedBoundingBox
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/ContactInformation
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/JointConstraint
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlanningOptions
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/MotionPlanResponse
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlannerInterfaceDescription
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PlaceLocation
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/JointLimits
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/ConstraintEvalResult
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/MotionPlanDetailedResponse
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/BoundingVolume
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PositionIKRequest
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/CollisionObject
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/AllowedCollisionMatrix
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/PositionConstraint
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/DisplayTrajectory
+   :raw: tail
+
+.. ros:automessage:: moveit_msgs/CostSource
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`moveit_msgs/GetStateValidity`
+* :ros:srv:`moveit_msgs/GetMotionPlan`
+* :ros:srv:`moveit_msgs/RenameRobotStateInWarehouse`
+* :ros:srv:`moveit_msgs/GetPlanningScene`
+* :ros:srv:`moveit_msgs/LoadMap`
+* :ros:srv:`moveit_msgs/GetKinematicSolverInfo`
+* :ros:srv:`moveit_msgs/GetConstraintAwarePositionIK`
+* :ros:srv:`moveit_msgs/DeleteRobotStateFromWarehouse`
+* :ros:srv:`moveit_msgs/SaveRobotStateToWarehouse`
+* :ros:srv:`moveit_msgs/GetPositionIK`
+* :ros:srv:`moveit_msgs/QueryPlannerInterfaces`
+* :ros:srv:`moveit_msgs/ExecuteKnownTrajectory`
+* :ros:srv:`moveit_msgs/GetPositionFK`
+* :ros:srv:`moveit_msgs/ListRobotStatesInWarehouse`
+* :ros:srv:`moveit_msgs/SaveMap`
+* :ros:srv:`moveit_msgs/GetRobotStateFromWarehouse`
+* :ros:srv:`moveit_msgs/GetCartesianPath`
+* :ros:srv:`moveit_msgs/CheckIfRobotStateExistsInWarehouse`
+
+.. ros:autoservice:: moveit_msgs/GetStateValidity
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetMotionPlan
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/RenameRobotStateInWarehouse
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetPlanningScene
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/LoadMap
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetKinematicSolverInfo
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetConstraintAwarePositionIK
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/DeleteRobotStateFromWarehouse
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/SaveRobotStateToWarehouse
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetPositionIK
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/QueryPlannerInterfaces
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/ExecuteKnownTrajectory
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetPositionFK
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/ListRobotStatesInWarehouse
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/SaveMap
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetRobotStateFromWarehouse
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/GetCartesianPath
+   :raw: tail
+
+.. ros:autoservice:: moveit_msgs/CheckIfRobotStateExistsInWarehouse
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`moveit_msgs/MoveGroup`
+* :ros:action:`moveit_msgs/Pickup`
+* :ros:action:`moveit_msgs/Place`
+
+.. ros:autoaction:: moveit_msgs/MoveGroup
+   :raw: tail
+
+.. ros:autoaction:: moveit_msgs/Pickup
+   :raw: tail
+
+.. ros:autoaction:: moveit_msgs/Place
+   :raw: tail

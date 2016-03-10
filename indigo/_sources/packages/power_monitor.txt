@@ -1,0 +1,10 @@
+power_monitor
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: power_monitor

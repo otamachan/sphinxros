@@ -1,0 +1,37 @@
+rocon_service_pair_msgs
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rocon_service_pair_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rocon_service_pair_msgs/TestiesPairResponse`
+* :ros:msg:`rocon_service_pair_msgs/TestiesPair`
+* :ros:msg:`rocon_service_pair_msgs/TestiesRequest`
+* :ros:msg:`rocon_service_pair_msgs/TestiesPairRequest`
+* :ros:msg:`rocon_service_pair_msgs/TestiesResponse`
+
+.. ros:automessage:: rocon_service_pair_msgs/TestiesPairResponse
+   :raw: tail
+
+.. ros:automessage:: rocon_service_pair_msgs/TestiesPair
+   :raw: tail
+
+.. ros:automessage:: rocon_service_pair_msgs/TestiesRequest
+   :raw: tail
+
+.. ros:automessage:: rocon_service_pair_msgs/TestiesPairRequest
+   :raw: tail
+
+.. ros:automessage:: rocon_service_pair_msgs/TestiesResponse
+   :raw: tail

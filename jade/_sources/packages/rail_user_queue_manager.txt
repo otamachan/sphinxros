@@ -1,0 +1,33 @@
+rail_user_queue_manager
++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rail_user_queue_manager
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rail_user_queue_manager/UserStatus`
+* :ros:msg:`rail_user_queue_manager/Queue`
+
+.. ros:automessage:: rail_user_queue_manager/UserStatus
+   :raw: tail
+
+.. ros:automessage:: rail_user_queue_manager/Queue
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rail_user_queue_manager/UpdateQueue`
+
+.. ros:autoservice:: rail_user_queue_manager/UpdateQueue
+   :raw: tail

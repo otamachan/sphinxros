@@ -1,0 +1,57 @@
+bwi_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: bwi_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`bwi_msgs/StopBaseStatus`
+* :ros:msg:`bwi_msgs/AvailableRobot`
+* :ros:msg:`bwi_msgs/AvailableRobotArray`
+
+.. ros:automessage:: bwi_msgs/StopBaseStatus
+   :raw: tail
+
+.. ros:automessage:: bwi_msgs/AvailableRobot
+   :raw: tail
+
+.. ros:automessage:: bwi_msgs/AvailableRobotArray
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`bwi_msgs/SemanticParser`
+* :ros:srv:`bwi_msgs/DoorHandlerInterface`
+* :ros:srv:`bwi_msgs/QuestionDialog`
+* :ros:srv:`bwi_msgs/StopBase`
+
+.. ros:autoservice:: bwi_msgs/SemanticParser
+   :raw: tail
+
+.. ros:autoservice:: bwi_msgs/DoorHandlerInterface
+   :raw: tail
+
+.. ros:autoservice:: bwi_msgs/QuestionDialog
+   :raw: tail
+
+.. ros:autoservice:: bwi_msgs/StopBase
+   :raw: tail
+
+Action types
+############
+
+* :ros:action:`bwi_msgs/LogicalNavigation`
+
+.. ros:autoaction:: bwi_msgs/LogicalNavigation
+   :raw: tail

@@ -1,0 +1,10 @@
+concert_resource_pool
++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: concert_resource_pool

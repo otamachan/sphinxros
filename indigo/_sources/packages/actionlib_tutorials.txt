@@ -1,0 +1,25 @@
+actionlib_tutorials
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: actionlib_tutorials
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`actionlib_tutorials/Averaging`
+* :ros:action:`actionlib_tutorials/Fibonacci`
+
+.. ros:autoaction:: actionlib_tutorials/Averaging
+   :raw: tail
+
+.. ros:autoaction:: actionlib_tutorials/Fibonacci
+   :raw: tail

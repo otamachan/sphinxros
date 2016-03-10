@@ -1,0 +1,37 @@
+data_vis_msgs
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: data_vis_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`data_vis_msgs/TaskTree`
+* :ros:msg:`data_vis_msgs/ValueList`
+* :ros:msg:`data_vis_msgs/Task`
+* :ros:msg:`data_vis_msgs/DataVis`
+* :ros:msg:`data_vis_msgs/Speech`
+
+.. ros:automessage:: data_vis_msgs/TaskTree
+   :raw: tail
+
+.. ros:automessage:: data_vis_msgs/ValueList
+   :raw: tail
+
+.. ros:automessage:: data_vis_msgs/Task
+   :raw: tail
+
+.. ros:automessage:: data_vis_msgs/DataVis
+   :raw: tail
+
+.. ros:automessage:: data_vis_msgs/Speech
+   :raw: tail

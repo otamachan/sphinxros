@@ -1,0 +1,10 @@
+baxter_simulator
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: baxter_simulator

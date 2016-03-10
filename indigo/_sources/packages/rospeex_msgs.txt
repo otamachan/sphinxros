@@ -1,0 +1,65 @@
+rospeex_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rospeex_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`rospeex_msgs/SignalProcessingResponse`
+* :ros:msg:`rospeex_msgs/SpeechSynthesisState`
+* :ros:msg:`rospeex_msgs/SignalProcessingHeader`
+* :ros:msg:`rospeex_msgs/SpeechRecognitionResponse`
+* :ros:msg:`rospeex_msgs/SpeechRecognitionHeader`
+* :ros:msg:`rospeex_msgs/SpeechRecognitionRequest`
+* :ros:msg:`rospeex_msgs/SpeechSynthesisResponse`
+* :ros:msg:`rospeex_msgs/SignalProcessingStream`
+* :ros:msg:`rospeex_msgs/SpeechSynthesisHeader`
+* :ros:msg:`rospeex_msgs/SpeechSynthesisRequest`
+
+.. ros:automessage:: rospeex_msgs/SignalProcessingResponse
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechSynthesisState
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SignalProcessingHeader
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechRecognitionResponse
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechRecognitionHeader
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechRecognitionRequest
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechSynthesisResponse
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SignalProcessingStream
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechSynthesisHeader
+   :raw: tail
+
+.. ros:automessage:: rospeex_msgs/SpeechSynthesisRequest
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`rospeex_msgs/SpeechRecognitionConfig`
+
+.. ros:autoservice:: rospeex_msgs/SpeechRecognitionConfig
+   :raw: tail

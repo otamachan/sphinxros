@@ -1,0 +1,21 @@
+pyros_test
+++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pyros_test
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`pyros_test/StringEchoService`
+
+.. ros:autoservice:: pyros_test/StringEchoService
+   :raw: tail

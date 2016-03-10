@@ -1,0 +1,10 @@
+rotate_recovery
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rotate_recovery

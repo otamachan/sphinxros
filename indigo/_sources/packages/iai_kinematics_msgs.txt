@@ -1,0 +1,65 @@
+iai_kinematics_msgs
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: iai_kinematics_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`iai_kinematics_msgs/KDLWeights`
+* :ros:msg:`iai_kinematics_msgs/RobotState`
+* :ros:msg:`iai_kinematics_msgs/ErrorCodes`
+* :ros:msg:`iai_kinematics_msgs/KinematicSolverInfo`
+* :ros:msg:`iai_kinematics_msgs/JointLimits`
+* :ros:msg:`iai_kinematics_msgs/PositionIKRequest`
+* :ros:msg:`iai_kinematics_msgs/MultiDOFJointState`
+
+.. ros:automessage:: iai_kinematics_msgs/KDLWeights
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/RobotState
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/ErrorCodes
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/KinematicSolverInfo
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/JointLimits
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/PositionIKRequest
+   :raw: tail
+
+.. ros:automessage:: iai_kinematics_msgs/MultiDOFJointState
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`iai_kinematics_msgs/GetKinematicSolverInfo`
+* :ros:srv:`iai_kinematics_msgs/GetPositionIK`
+* :ros:srv:`iai_kinematics_msgs/GetPositionFK`
+* :ros:srv:`iai_kinematics_msgs/GetWeightedIK`
+
+.. ros:autoservice:: iai_kinematics_msgs/GetKinematicSolverInfo
+   :raw: tail
+
+.. ros:autoservice:: iai_kinematics_msgs/GetPositionIK
+   :raw: tail
+
+.. ros:autoservice:: iai_kinematics_msgs/GetPositionFK
+   :raw: tail
+
+.. ros:autoservice:: iai_kinematics_msgs/GetWeightedIK
+   :raw: tail

@@ -1,0 +1,21 @@
+carl_safety
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: carl_safety
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`carl_safety/Error`
+
+.. ros:automessage:: carl_safety/Error
+   :raw: tail

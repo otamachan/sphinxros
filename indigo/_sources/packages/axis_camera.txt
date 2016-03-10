@@ -1,0 +1,21 @@
+axis_camera
++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: axis_camera
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`axis_camera/Axis`
+
+.. ros:automessage:: axis_camera/Axis
+   :raw: tail

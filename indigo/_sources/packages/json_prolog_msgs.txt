@@ -1,0 +1,29 @@
+json_prolog_msgs
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: json_prolog_msgs
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`json_prolog_msgs/PrologFinish`
+* :ros:srv:`json_prolog_msgs/PrologNextSolution`
+* :ros:srv:`json_prolog_msgs/PrologQuery`
+
+.. ros:autoservice:: json_prolog_msgs/PrologFinish
+   :raw: tail
+
+.. ros:autoservice:: json_prolog_msgs/PrologNextSolution
+   :raw: tail
+
+.. ros:autoservice:: json_prolog_msgs/PrologQuery
+   :raw: tail

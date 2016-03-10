@@ -1,0 +1,10 @@
+schunk_simulated_tactile_sensors
+++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: schunk_simulated_tactile_sensors

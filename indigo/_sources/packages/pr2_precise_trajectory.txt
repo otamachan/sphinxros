@@ -1,0 +1,25 @@
+pr2_precise_trajectory
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_precise_trajectory
+
+Types
+*****
+
+Action types
+############
+
+* :ros:action:`pr2_precise_trajectory/GripperSequence`
+* :ros:action:`pr2_precise_trajectory/MoveSequence`
+
+.. ros:autoaction:: pr2_precise_trajectory/GripperSequence
+   :raw: tail
+
+.. ros:autoaction:: pr2_precise_trajectory/MoveSequence
+   :raw: tail

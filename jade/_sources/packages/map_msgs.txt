@@ -1,0 +1,61 @@
+map_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: map_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`map_msgs/PointCloud2Update`
+* :ros:msg:`map_msgs/ProjectedMap`
+* :ros:msg:`map_msgs/OccupancyGridUpdate`
+* :ros:msg:`map_msgs/ProjectedMapInfo`
+
+.. ros:automessage:: map_msgs/PointCloud2Update
+   :raw: tail
+
+.. ros:automessage:: map_msgs/ProjectedMap
+   :raw: tail
+
+.. ros:automessage:: map_msgs/OccupancyGridUpdate
+   :raw: tail
+
+.. ros:automessage:: map_msgs/ProjectedMapInfo
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`map_msgs/SaveMap`
+* :ros:srv:`map_msgs/SetMapProjections`
+* :ros:srv:`map_msgs/GetMapROI`
+* :ros:srv:`map_msgs/GetPointMapROI`
+* :ros:srv:`map_msgs/ProjectedMapsInfo`
+* :ros:srv:`map_msgs/GetPointMap`
+
+.. ros:autoservice:: map_msgs/SaveMap
+   :raw: tail
+
+.. ros:autoservice:: map_msgs/SetMapProjections
+   :raw: tail
+
+.. ros:autoservice:: map_msgs/GetMapROI
+   :raw: tail
+
+.. ros:autoservice:: map_msgs/GetPointMapROI
+   :raw: tail
+
+.. ros:autoservice:: map_msgs/ProjectedMapsInfo
+   :raw: tail
+
+.. ros:autoservice:: map_msgs/GetPointMap
+   :raw: tail

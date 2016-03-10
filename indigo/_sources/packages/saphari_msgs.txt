@@ -1,0 +1,49 @@
+saphari_msgs
+++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: saphari_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`saphari_msgs/Human`
+* :ros:msg:`saphari_msgs/BodyPart`
+* :ros:msg:`saphari_msgs/GestureData`
+* :ros:msg:`saphari_msgs/PerceivedEquipment`
+* :ros:msg:`saphari_msgs/Equipment`
+* :ros:msg:`saphari_msgs/Humans`
+
+.. ros:automessage:: saphari_msgs/Human
+   :raw: tail
+
+.. ros:automessage:: saphari_msgs/BodyPart
+   :raw: tail
+
+.. ros:automessage:: saphari_msgs/GestureData
+   :raw: tail
+
+.. ros:automessage:: saphari_msgs/PerceivedEquipment
+   :raw: tail
+
+.. ros:automessage:: saphari_msgs/Equipment
+   :raw: tail
+
+.. ros:automessage:: saphari_msgs/Humans
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`saphari_msgs/PerceiveEquipment`
+
+.. ros:autoservice:: saphari_msgs/PerceiveEquipment
+   :raw: tail

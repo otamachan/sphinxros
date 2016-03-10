@@ -1,0 +1,10 @@
+fanuc_m20ia_support
++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: fanuc_m20ia_support

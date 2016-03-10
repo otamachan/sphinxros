@@ -1,0 +1,10 @@
+rosh_core
++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rosh_core

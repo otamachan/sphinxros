@@ -1,0 +1,25 @@
+pr2_power_board
++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: pr2_power_board
+
+Types
+*****
+
+Service types
+#############
+
+* :ros:srv:`pr2_power_board/PowerBoardCommand`
+* :ros:srv:`pr2_power_board/PowerBoardCommand2`
+
+.. ros:autoservice:: pr2_power_board/PowerBoardCommand
+   :raw: tail
+
+.. ros:autoservice:: pr2_power_board/PowerBoardCommand2
+   :raw: tail

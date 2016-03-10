@@ -1,0 +1,61 @@
+neo_msgs
+++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: neo_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`neo_msgs/LCDOutput`
+* :ros:msg:`neo_msgs/USBoard`
+* :ros:msg:`neo_msgs/PowerState`
+* :ros:msg:`neo_msgs/RadarBoard`
+* :ros:msg:`neo_msgs/IOAnalogIn`
+* :ros:msg:`neo_msgs/GyroBoard`
+* :ros:msg:`neo_msgs/IRSensors`
+* :ros:msg:`neo_msgs/Keypad`
+* :ros:msg:`neo_msgs/IOOut`
+* :ros:msg:`neo_msgs/EmergencyStopState`
+* :ros:msg:`neo_msgs/PowerBoardState`
+
+.. ros:automessage:: neo_msgs/LCDOutput
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/USBoard
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/PowerState
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/RadarBoard
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/IOAnalogIn
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/GyroBoard
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/IRSensors
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/Keypad
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/IOOut
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/EmergencyStopState
+   :raw: tail
+
+.. ros:automessage:: neo_msgs/PowerBoardState
+   :raw: tail

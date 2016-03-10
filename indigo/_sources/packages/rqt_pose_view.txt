@@ -1,0 +1,10 @@
+rqt_pose_view
++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: rqt_pose_view

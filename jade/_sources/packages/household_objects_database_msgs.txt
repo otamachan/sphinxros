@@ -1,0 +1,61 @@
+household_objects_database_msgs
++++++++++++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: household_objects_database_msgs
+
+Types
+*****
+
+Message types
+#############
+
+* :ros:msg:`household_objects_database_msgs/DatabaseReturnCode`
+* :ros:msg:`household_objects_database_msgs/DatabaseModelPoseList`
+* :ros:msg:`household_objects_database_msgs/DatabaseModelPose`
+* :ros:msg:`household_objects_database_msgs/DatabaseScan`
+
+.. ros:automessage:: household_objects_database_msgs/DatabaseReturnCode
+   :raw: tail
+
+.. ros:automessage:: household_objects_database_msgs/DatabaseModelPoseList
+   :raw: tail
+
+.. ros:automessage:: household_objects_database_msgs/DatabaseModelPose
+   :raw: tail
+
+.. ros:automessage:: household_objects_database_msgs/DatabaseScan
+   :raw: tail
+
+Service types
+#############
+
+* :ros:srv:`household_objects_database_msgs/SaveScan`
+* :ros:srv:`household_objects_database_msgs/GetModelScans`
+* :ros:srv:`household_objects_database_msgs/GetModelMesh`
+* :ros:srv:`household_objects_database_msgs/TranslateRecognitionId`
+* :ros:srv:`household_objects_database_msgs/GetModelList`
+* :ros:srv:`household_objects_database_msgs/GetModelDescription`
+
+.. ros:autoservice:: household_objects_database_msgs/SaveScan
+   :raw: tail
+
+.. ros:autoservice:: household_objects_database_msgs/GetModelScans
+   :raw: tail
+
+.. ros:autoservice:: household_objects_database_msgs/GetModelMesh
+   :raw: tail
+
+.. ros:autoservice:: household_objects_database_msgs/TranslateRecognitionId
+   :raw: tail
+
+.. ros:autoservice:: household_objects_database_msgs/GetModelList
+   :raw: tail
+
+.. ros:autoservice:: household_objects_database_msgs/GetModelDescription
+   :raw: tail

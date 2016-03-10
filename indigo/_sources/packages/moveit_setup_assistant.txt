@@ -1,0 +1,10 @@
+moveit_setup_assistant
+++++++++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: moveit_setup_assistant

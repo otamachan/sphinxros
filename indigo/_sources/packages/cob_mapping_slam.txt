@@ -1,0 +1,10 @@
+cob_mapping_slam
+++++++++++++++++
+
+.. contents:: Contents:
+   :local:
+
+Summary
+*******
+
+.. ros:autopackage:: cob_mapping_slam
